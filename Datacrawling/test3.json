@@ -1,0 +1,4945 @@
+[
+    {
+        "title": "整租·观澜太子湖 3室2厅 东南",
+        "houseInfo": "91.24㎡/沌口/距三角湖站636m",
+        "Price": "3500元/月",
+        "tag": [
+            "官方核验",
+            "业主自荐",
+            "新上",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/393f913f-dc0c-4749-ae51-72de633c0605.jpg.496x372.jpg",
+        "type_id": 0
+    },
+    {
+        "title": "合租·塔子湖锦绣家园幽兰苑 3居室 南卧",
+        "houseInfo": "精选/自如/14.00㎡/[塔子湖]/距中一路站557m",
+        "Price": "860元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-house-1/9c5fa5757dc381383834f2a84a08b0b0-1560750037932/6a772e09158d6aae20fde5f76108ee9f.jpg.496x372.jpg",
+        "type_id": 1
+    },
+    {
+        "title": "整租·世界城尚都 1室1厅 北",
+        "houseInfo": "56.63㎡/光谷广场/距珞雄路站417m",
+        "Price": "2300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/9c1d3cbd-e0fe-421b-b230-bf6355146c36.jpg.496x372.jpg",
+        "type_id": 2
+    },
+    {
+        "title": "合租·万科锦程 4居室 南卧",
+        "houseInfo": "精选/自如/11.00㎡/民族大道",
+        "Price": "790元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-house-1/9c5fa5757dc381383834f2a84a08b0b0-1591205443131/1033dbd865286d73e656920649465e1e.jpg.496x372.jpg",
+        "type_id": 3
+    },
+    {
+        "title": "整租·奥山世纪城V公馆 2室2厅 南",
+        "houseInfo": "链家/81.00㎡/青山/距科普公园站612m",
+        "Price": "2700元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/ebd4ad4b3dd349cce345fef947fc0330-004.jpg.496x372.jpg",
+        "type_id": 4
+    },
+    {
+        "title": "合租·保利心语一期 4居室 南卧",
+        "houseInfo": "精选/自如/11.70㎡/珞狮南路/距马湖站342m",
+        "Price": "730元/月",
+        "tag": [
+            "官方核验",
+            "租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/7ab52b17-5154-4f74-8671-261956f8d13f.496x372.jpg",
+        "type_id": 5
+    },
+    {
+        "title": "整租·金地中心城 3室1厅 南",
+        "houseInfo": "118.65㎡/关西长职",
+        "Price": "3200元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/239cb3fc-5c3c-4837-a7f5-1ebe705f423e.jpg.496x372.jpg",
+        "type_id": 6
+    },
+    {
+        "title": "合租·中建南湖壹号 4居室 南卧",
+        "houseInfo": "精选/自如/11.22㎡/[虎泉杨家湾,街道口,卓刀泉,珞狮南路]",
+        "Price": "790元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/a4654c4e-4b65-47f0-9870-a629afc16740.496x372.jpg",
+        "type_id": 7
+    },
+    {
+        "title": "整租·碧桂园海昌天澜 3室2厅 南/北",
+        "houseInfo": "89.94㎡/将军路/距宏图大道站1.1km",
+        "Price": "2300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/50caac509960600ea07b3160e4d4ef8e-092.jpg.496x372.jpg",
+        "type_id": 8
+    },
+    {
+        "title": "合租·国际百纳 4居室 南卧",
+        "houseInfo": "精选/自如/11.30㎡/塔子湖/距中一路站335m",
+        "Price": "630元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/eed64a91-0bb3-46b4-8cf7-9cec81454d54.496x372.jpg",
+        "type_id": 9
+    },
+    {
+        "title": "整租·碧桂园生态城左岸 3室2 北",
+        "houseInfo": "122.39㎡/光谷东",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "新上",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_mAzveWGgm_1.jpg.496x372.jpg",
+        "type_id": 10
+    },
+    {
+        "title": "合租·汉口春天 4居室 南卧",
+        "houseInfo": "精选/自如/18.70㎡/古田/距古田三路站800m",
+        "Price": "1390元/月",
+        "tag": [
+            "官方核验",
+            "独立卫生间",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-house-1/img/9c5fa5757dc381383834f2a84a08b0b0-1603703777728/0d0c00dc5a1b674032c9bcc03a11b5de.jpg.496x372.jpg",
+        "type_id": 11
+    },
+    {
+        "title": "整租·鸿发大厦 1室1厅 南",
+        "houseInfo": "49.70㎡/文化大道",
+        "Price": "1300元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/da5455786afb881eed7ffe4601ce8701-053.jpg.496x372.jpg",
+        "type_id": 12
+    },
+    {
+        "title": "合租·顺民宜盛花园 3居室 南卧",
+        "houseInfo": "自如/16.00㎡/光谷东",
+        "Price": "930元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/041fd0e9-8ced-4181-8fb0-eb0f7bb859c0.496x372.jpg",
+        "type_id": 13
+    },
+    {
+        "title": "整租·融侨悦府 2室1厅 北",
+        "houseInfo": "50.62㎡/青山",
+        "Price": "2000元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/e0e2addd-37d3-4d62-bf15-a942463d1a14.jpg.496x372.jpg",
+        "type_id": 14
+    },
+    {
+        "title": "合租·怡江苑 3居室 南卧",
+        "houseInfo": "15.00㎡/青山/距科普公园站1.1km",
+        "Price": "750元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/e5fafaaf-a762-4fd4-971f-be6f014f5075.jpg.496x372.jpg",
+        "type_id": 15
+    },
+    {
+        "title": "整租·金地中心城 2室2厅 南",
+        "houseInfo": "92.73㎡/关西长职",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/pc1_qrP3UXi0Z_1.jpg.496x372.jpg",
+        "type_id": 16
+    },
+    {
+        "title": "合租·时代新世界 4居室 南卧",
+        "houseInfo": "自如/12.00㎡/宗关/距双墩站540m",
+        "Price": "1030元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-house-1/img/9c5fa5757dc381383834f2a84a08b0b0-1611512650463/dc29a993bbbb688752f5ff0d296c131b.jpg.496x372.jpg",
+        "type_id": 17
+    },
+    {
+        "title": "整租·四街坊物业小区 3室2厅 南/北",
+        "houseInfo": "114.13㎡/青山/距红钢城站987m",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/f602534d-9e52-4919-8f22-7411a6fcef8f.jpg.496x372.jpg",
+        "type_id": 18
+    },
+    {
+        "title": "整租·富强天合园 3室2厅 南",
+        "houseInfo": "120.78㎡/塔子湖/距中一路站269m",
+        "Price": "3200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/a3bf32a6773b8cf9430fb89998666554-083.jpg.496x372.jpg",
+        "type_id": 19
+    },
+    {
+        "title": "整租·金鹤园小区 2室1厅 东南",
+        "houseInfo": "74.64㎡/青山",
+        "Price": "2000元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_6ggy1NLsI_1.jpg.496x372.jpg",
+        "type_id": 20
+    },
+    {
+        "title": "合租·君荟天地 3居室 南卧",
+        "houseInfo": "自如/17.00㎡/塔子湖/距石桥站50m",
+        "Price": "830元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/1bf86723-a877-41f2-b759-5c2653ae99e8.496x372.jpg",
+        "type_id": 21
+    },
+    {
+        "title": "整租·三角花园刘家河小区 1室1厅 东南",
+        "houseInfo": "48.00㎡/沙湖/距三角路站1.1km",
+        "Price": "2000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/d466379a8fd714d3cb3fecdc0d6a7792-003.jpg.496x372.jpg",
+        "type_id": 22
+    },
+    {
+        "title": "独栋·克拉美家公寓 光谷软件园店 可做饭一居室 1室1厅",
+        "houseInfo": "25.00㎡/关山大道",
+        "Price": "1480元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "开放厨房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/1a478ad4-74ca-416c-9db0-3d5e3c994365.496x372.jpg",
+        "type_id": 23
+    },
+    {
+        "title": "整租·江北园丁苑 3室2厅 南/北",
+        "houseInfo": "103.96㎡/CBD西北湖/距范湖站599m",
+        "Price": "3200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/prod-25080c25-7cdb-4dc9-af94-76bdd491c5a6.jpg.496x372.jpg",
+        "type_id": 24
+    },
+    {
+        "title": "合租·金地天悦 4居室 南卧",
+        "houseInfo": "鸿威公寓/25.00㎡/关西长职",
+        "Price": "1100元/月",
+        "tag": [
+            "官方核验",
+            "独立卫生间",
+            "月租",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/c50a5ef1-7f6b-4a79-ad14-4147c9068f27.496x372.jpg",
+        "type_id": 25
+    },
+    {
+        "title": "合租·中建南湖壹号 4居室 南卧",
+        "houseInfo": "链家/20.00㎡/珞狮南路",
+        "Price": "900元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/c0ff79b4-98b5-4c8b-a341-b6d076fae0fd.jpg.496x372.jpg",
+        "type_id": 26
+    },
+    {
+        "title": "合租·名仕阁 5居室 南卧",
+        "houseInfo": "久久公寓/8.00㎡/集贤/距武胜路站487m",
+        "Price": "750元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/9938e826-d94b-4238-a87b-81864713b473.496x372.jpg",
+        "type_id": 27
+    },
+    {
+        "title": "整租·福星华府誉境 3室2厅 南/北",
+        "houseInfo": "118.20㎡/杨汊湖/距杨汊湖站731m",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/pc1_iOgCU3DM1_1.jpg.496x372.jpg",
+        "type_id": 28
+    },
+    {
+        "title": "合租·磨山港湾 4居室 南卧",
+        "houseInfo": "欧家公寓/22.00㎡/王家湾/距玉龙路站739m",
+        "Price": "800元/月",
+        "tag": [
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/783b4588-a1ed-4da1-90be-aaaef004afd4.496x372.jpg",
+        "type_id": 29
+    },
+    {
+        "title": "整租·日月山水西区 3室2厅 南",
+        "houseInfo": "91.40㎡/盘龙城",
+        "Price": "1500元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/pc1_hEXupOjDR_1.jpg.496x372.jpg",
+        "type_id": 30
+    },
+    {
+        "title": "合租·天下龙岭广场 4居室 南卧",
+        "houseInfo": "广发租房/15.00㎡/街道口",
+        "Price": "1250元/月",
+        "tag": [
+            "官方核验",
+            "拎包入住",
+            "精装",
+            "独立阳台",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/68efa284-b570-4113-8d8a-9bcb5b0e6914.496x372.jpg",
+        "type_id": 31
+    },
+    {
+        "title": "整租·南星威综合楼 2室2厅 北",
+        "houseInfo": "108.58㎡/吴家山/距五环大道站372m",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_DXCFzxltm_1.jpg.496x372.jpg",
+        "type_id": 32
+    },
+    {
+        "title": "合租·欧洲花园 5居室 南卧",
+        "houseInfo": "广发租房/20.00㎡/徐东/距徐东站495m",
+        "Price": "1300元/月",
+        "tag": [
+            "独立卫生间",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/f1f234f0-362b-4aac-8fd4-2eaf42123d32.496x372.jpg",
+        "type_id": 33
+    },
+    {
+        "title": "整租·福星惠誉国际城三期 3室2厅 南/北",
+        "houseInfo": "链家/126.45㎡/沙湖",
+        "Price": "4500元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_6z7AGnxS1_1.jpg.496x372.jpg",
+        "type_id": 34
+    },
+    {
+        "title": "整租·中御公馆 2室1厅 南",
+        "houseInfo": "67.00㎡/宝丰崇仁/距硚口路站686m",
+        "Price": "3400元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/2680d70a-597a-44f2-8160-d522e11d8f89.jpg.496x372.jpg",
+        "type_id": 35
+    },
+    {
+        "title": "整租·沿海菱角湖壹号 2室2厅 南",
+        "houseInfo": "链家/49.75㎡/新华路万达/距菱角湖站304m",
+        "Price": "4000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/d1e1f301cc72d4c2381f4a09c53dbb5d-044.jpg.496x372.jpg",
+        "type_id": 36
+    },
+    {
+        "title": "合租·长航蓝晶国际A区 4居室 南卧",
+        "houseInfo": "清风公寓/18.00㎡/关山大道",
+        "Price": "750元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/a2d26a67-02ba-4e23-a6fb-03a756c53bb1.496x372.jpg",
+        "type_id": 37
+    },
+    {
+        "title": "整租·碧桂园蜜柚 1室1厅 南",
+        "houseInfo": "链家/60.00㎡/塔子湖/距市民之家站974m",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/bc1cce49-9746-49b8-abb4-5bd6d33b5274.jpg.496x372.jpg",
+        "type_id": 38
+    },
+    {
+        "title": "整租·金湖清水湾 3室1厅 南",
+        "houseInfo": "104.85㎡/金银湖",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/9bf3277c-588b-4c33-9c00-c6b0e028a240.jpg.496x372.jpg",
+        "type_id": 39
+    },
+    {
+        "title": "整租·济生新村 2室1厅 东南",
+        "houseInfo": "链家/67.30㎡/前进江汉",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/3b8a9463-b3ae-4042-b71f-0d4c397ea7c7.jpeg.496x372.jpg",
+        "type_id": 40
+    },
+    {
+        "title": "合租·磨山港湾 4居室 南卧",
+        "houseInfo": "欧家公寓/22.00㎡/王家湾/距玉龙路站739m",
+        "Price": "800元/月",
+        "tag": [
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/783b4588-a1ed-4da1-90be-aaaef004afd4.496x372.jpg",
+        "type_id": 41
+    },
+    {
+        "title": "整租·福星华府誉境 3室2厅 南/北",
+        "houseInfo": "118.20㎡/杨汊湖/距杨汊湖站731m",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/pc1_iOgCU3DM1_1.jpg.496x372.jpg",
+        "type_id": 42
+    },
+    {
+        "title": "合租·名仕阁 5居室 南卧",
+        "houseInfo": "久久公寓/8.00㎡/集贤/距武胜路站487m",
+        "Price": "750元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/9938e826-d94b-4238-a87b-81864713b473.496x372.jpg",
+        "type_id": 43
+    },
+    {
+        "title": "整租·南星威综合楼 2室2厅 北",
+        "houseInfo": "108.58㎡/吴家山/距五环大道站372m",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_DXCFzxltm_1.jpg.496x372.jpg",
+        "type_id": 44
+    },
+    {
+        "title": "独栋·东城公寓 光谷企业天地店 A户型 开间",
+        "houseInfo": "20.00㎡/光谷东",
+        "Price": "1350元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/d09e429d-c7b6-4593-8ec8-a4135fe79539.496x372.jpg",
+        "type_id": 45
+    },
+    {
+        "title": "合租·中建南湖壹号 4居室 南卧",
+        "houseInfo": "链家/20.00㎡/珞狮南路",
+        "Price": "900元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/c0ff79b4-98b5-4c8b-a341-b6d076fae0fd.jpg.496x372.jpg",
+        "type_id": 46
+    },
+    {
+        "title": "合租·中国铁建国际城 4居室 南卧",
+        "houseInfo": "欧家公寓/18.00㎡/王家湾",
+        "Price": "1000元/月",
+        "tag": [
+            "独立卫生间",
+            "月租",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/1ecef5cf-efb4-4ab1-aa2e-1e6c04a74374.496x372.jpg",
+        "type_id": 47
+    },
+    {
+        "title": "整租·名士1号 1室0厅 东南",
+        "houseInfo": "46.84㎡/珞狮南路",
+        "Price": "2200元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_60qMrt0wb_1.jpg.496x372.jpg",
+        "type_id": 48
+    },
+    {
+        "title": "合租·逸景华庭 3居室 南卧",
+        "houseInfo": "自如/13.00㎡/关山大道",
+        "Price": "890元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/81648101-14c2-4bee-a89e-b17efc2646af.496x372.jpg",
+        "type_id": 49
+    },
+    {
+        "title": "整租·博海名居 3室2厅 南/北",
+        "houseInfo": "115.86㎡/杨汊湖/距石桥站1.1km",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/15a40fe6-0e24-4d03-adf0-2fcd3bb0d1c1.jpg.496x372.jpg",
+        "type_id": 50
+    },
+    {
+        "title": "合租·丹亭懿府 3居室 南卧",
+        "houseInfo": "自如/15.00㎡/百步亭/距丹水池站642m",
+        "Price": "760元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/d45265a1-607b-49ce-9422-5dc4ea6d8dd3.496x372.jpg",
+        "type_id": 51
+    },
+    {
+        "title": "整租·中建壹品澜湾 3室2厅 南/北",
+        "houseInfo": "117.39㎡/金银湖",
+        "Price": "1300元/月",
+        "tag": [
+            "官方核验",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/09a36b216b7c617467d978846efa4147-012.jpg.496x372.jpg",
+        "type_id": 52
+    },
+    {
+        "title": "合租·金涛翰林苑 4居室 南卧",
+        "houseInfo": "自如/10.90㎡/二七/距二七小路站232m",
+        "Price": "690元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-house-1/img/9c5fa5757dc381383834f2a84a08b0b0-1612901496837/3de983e6b3a69e0e141067bdb701a70c.jpg.496x372.jpg",
+        "type_id": 53
+    },
+    {
+        "title": "整租·福星惠誉国际城三期 3室2厅 南/北",
+        "houseInfo": "链家/126.45㎡/沙湖",
+        "Price": "4500元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_6z7AGnxS1_1.jpg.496x372.jpg",
+        "type_id": 54
+    },
+    {
+        "title": "整租·武汉碧桂园天玺湾 3室2厅 南/北",
+        "houseInfo": "114.95㎡/庙山",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_4r9jST3q5_1.jpg.496x372.jpg",
+        "type_id": 55
+    },
+    {
+        "title": "整租·金诺雅苑 3室2厅 南/北",
+        "houseInfo": "93.62㎡/武昌火车站",
+        "Price": "2600元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_0UoPyI7or_1.jpg.496x372.jpg",
+        "type_id": 56
+    },
+    {
+        "title": "合租·中建光谷之星 5居室 南卧",
+        "houseInfo": "鸿威公寓/25.00㎡/光谷东/距豹澥站1.1km",
+        "Price": "999元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/f70d46fe-fc72-4989-9704-88387ff0fa3b.496x372.jpg",
+        "type_id": 57
+    },
+    {
+        "title": "整租·美奇国际 2室1厅 东南",
+        "houseInfo": "77.49㎡/汉正街/距汉正街站280m",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/0d18f4061389bba7507f3ef58b4139c3-073.jpg.496x372.jpg",
+        "type_id": 58
+    },
+    {
+        "title": "整租·碧桂生态城依云 3室2厅 南",
+        "houseInfo": "124.29㎡/光谷东",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/297ce9e0-241f-4327-a62e-c1a52fcaeb7e.jpg.496x372.jpg",
+        "type_id": 59
+    },
+    {
+        "title": "整租·文豪苑 3室2厅 南/北",
+        "houseInfo": "137.00㎡/虎泉杨家湾/距杨家湾站1.2km",
+        "Price": "3500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_cC01BNoM8_1.jpg.496x372.jpg",
+        "type_id": 60
+    },
+    {
+        "title": "合租·万科汉阳国际D壹区 3居室 南卧",
+        "houseInfo": "自如/16.00㎡/王家湾",
+        "Price": "760元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/d6566dfc-f7d4-4754-8c03-d341be3dc536.496x372.jpg",
+        "type_id": 61
+    },
+    {
+        "title": "整租·金诺雅苑 3室2厅 南/北",
+        "houseInfo": "93.62㎡/武昌火车站",
+        "Price": "2600元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_0UoPyI7or_1.jpg.496x372.jpg",
+        "type_id": 62
+    },
+    {
+        "title": "合租·福星城南区 5居室 南卧",
+        "houseInfo": "致和公寓/16.00㎡/长港路/距长港路站1km",
+        "Price": "700元/月",
+        "tag": [
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/dc9205d9-245c-48ba-bb2c-0fbe699df262.496x372.jpg",
+        "type_id": 63
+    },
+    {
+        "title": "整租·美奇国际 2室1厅 东南",
+        "houseInfo": "77.49㎡/汉正街/距汉正街站280m",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/0d18f4061389bba7507f3ef58b4139c3-073.jpg.496x372.jpg",
+        "type_id": 64
+    },
+    {
+        "title": "合租·逸景华庭 3居室 南卧",
+        "houseInfo": "自如/13.00㎡/关山大道",
+        "Price": "890元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/81648101-14c2-4bee-a89e-b17efc2646af.496x372.jpg",
+        "type_id": 65
+    },
+    {
+        "title": "合租·金融街壹号 3居室 南卧",
+        "houseInfo": "链家/14.00㎡/育才花桥/距赵家条站242m",
+        "Price": "1200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/fda8a79acf37b914b9ab4abeb979c4d2-003.jpg.496x372.jpg",
+        "type_id": 66
+    },
+    {
+        "title": "合租·金涛翰林苑 4居室 南卧",
+        "houseInfo": "自如/10.90㎡/二七/距二七小路站232m",
+        "Price": "690元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-house-1/img/9c5fa5757dc381383834f2a84a08b0b0-1612901496837/3de983e6b3a69e0e141067bdb701a70c.jpg.496x372.jpg",
+        "type_id": 67
+    },
+    {
+        "title": "整租·武汉碧桂园天玺湾 3室2厅 南/北",
+        "houseInfo": "114.95㎡/庙山",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_4r9jST3q5_1.jpg.496x372.jpg",
+        "type_id": 68
+    },
+    {
+        "title": "合租·中泰花园 4居室 南卧",
+        "houseInfo": "寓客/15.60㎡/白沙洲",
+        "Price": "800元/月",
+        "tag": [
+            "官方核验",
+            "拎包入住",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/2b711854-aab5-4beb-8bbb-e8c54b9ecd43.496x372.jpg",
+        "type_id": 69
+    },
+    {
+        "title": "整租·佳兆业滨江壹号 3室1厅 南",
+        "houseInfo": "链家/113.78㎡/王家湾",
+        "Price": "2600元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/8c5194c3608112fe2bfb171d421ea5e6-093.jpg.496x372.jpg",
+        "type_id": 70
+    },
+    {
+        "title": "合租·欧洲花园 4居室 南卧",
+        "houseInfo": "伟凤公寓/18.00㎡/徐东/距徐东站337m",
+        "Price": "750元/月",
+        "tag": [
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/db78e9cc-a632-4674-a366-13d86721c1f7.496x372.jpg",
+        "type_id": 71
+    },
+    {
+        "title": "整租·福星华府誉境 3室1厅 南",
+        "houseInfo": "91.74㎡/杨汊湖/距杨汊湖站477m",
+        "Price": "1300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/de1837c7-835b-477d-bbab-0e8ea3533b53_1000.jpg.496x372.jpg",
+        "type_id": 72
+    },
+    {
+        "title": "合租·欧洲花园 5居室 南卧",
+        "houseInfo": "广发租房/20.00㎡/徐东/距徐东站495m",
+        "Price": "1300元/月",
+        "tag": [
+            "独立卫生间",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/f1f234f0-362b-4aac-8fd4-2eaf42123d32.496x372.jpg",
+        "type_id": 73
+    },
+    {
+        "title": "整租·华发阳逻金茂逸墅 3室2厅 南/北",
+        "houseInfo": "96.40㎡/阳逻",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_8878I4kYx_1.jpg.496x372.jpg",
+        "type_id": 74
+    },
+    {
+        "title": "整租·万达御湖世家 4室2厅 南/北",
+        "houseInfo": "链家/306.31㎡/楚河汉街",
+        "Price": "25000元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/bd5b5d7d-78d4-4cda-929d-f6617c86fd4c.jpg.496x372.jpg",
+        "type_id": 75
+    },
+    {
+        "title": "整租·顶琇国际城 2室2厅 南",
+        "houseInfo": "47.00㎡/唐家墩/距唐家墩站258m",
+        "Price": "4000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/b867955e-b82b-453c-a48a-dc5c29d12ffc.jpg.496x372.jpg",
+        "type_id": 76
+    },
+    {
+        "title": "合租·长航蓝晶国际A区 4居室 南卧",
+        "houseInfo": "清风公寓/18.00㎡/关山大道",
+        "Price": "750元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/a2d26a67-02ba-4e23-a6fb-03a756c53bb1.496x372.jpg",
+        "type_id": 77
+    },
+    {
+        "title": "整租·金湖清水湾 3室2厅 南/北",
+        "houseInfo": "88.87㎡/金银湖",
+        "Price": "1850元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/786b1dae0a32f14ccc8526a099551510-053.jpg.496x372.jpg",
+        "type_id": 78
+    },
+    {
+        "title": "合租·陌陌屋三元中央公园 1居室 南卧",
+        "houseInfo": "15.00㎡/塔子湖/距中一路站817m",
+        "Price": "1000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/270ade98f2bc2e80b7a9261be762bba4-066.jpg.496x372.jpg",
+        "type_id": 79
+    },
+    {
+        "title": "整租·美奇国际 2室1厅 东南",
+        "houseInfo": "77.49㎡/汉正街/距汉正街站280m",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/0d18f4061389bba7507f3ef58b4139c3-073.jpg.496x372.jpg",
+        "type_id": 80
+    },
+    {
+        "title": "独栋·克拉美家公寓 光谷悦城店 毕业实习短租一居室 开间",
+        "houseInfo": "35.00㎡/光谷东/距黄龙山路站1.1km",
+        "Price": "1280元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/94eb0b4c-5987-4a7e-85f4-84ded4a8b379.496x372.jpg",
+        "type_id": 81
+    },
+    {
+        "title": "整租·碧桂园生态城依云 3室2厅 南",
+        "houseInfo": "124.29㎡/光谷东",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/297ce9e0-241f-4327-a62e-c1a52fcaeb7e.jpg.496x372.jpg",
+        "type_id": 82
+    },
+    {
+        "title": "独栋·东城公寓 光谷企业天地店 A户型 开间",
+        "houseInfo": "20.00㎡/光谷东",
+        "Price": "1350元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/d09e429d-c7b6-4593-8ec8-a4135fe79539.496x372.jpg",
+        "type_id": 83
+    },
+    {
+        "title": "合租·新长江香榭琴台 4居室 南卧",
+        "houseInfo": "链家/13.00㎡/钟家村",
+        "Price": "950元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/eda4ae05dcf10afc33564550a13b10bd-091.jpg.496x372.jpg",
+        "type_id": 84
+    },
+    {
+        "title": "独栋·格林寓公寓 中南路店 短租季付特惠C 1室1厅",
+        "houseInfo": "18.00㎡/中南丁字桥/距宝通寺站672m",
+        "Price": "1280元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "开放厨房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/e6c15a2d-2abf-40df-8850-6ad4e5547ee1.496x372.jpg",
+        "type_id": 85
+    },
+    {
+        "title": "整租·顶琇国际城 2室2厅 南",
+        "houseInfo": "47.00㎡/唐家墩/距唐家墩站258m",
+        "Price": "4000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/b867955e-b82b-453c-a48a-dc5c29d12ffc.jpg.496x372.jpg",
+        "type_id": 86
+    },
+    {
+        "title": "独栋·美滋梦公寓 罗家港地铁店 罗家港整租三室 3室2厅",
+        "houseInfo": "90.00㎡/东湖东亭/距铁机路站1.2km",
+        "Price": "2300元/月",
+        "tag": [
+            "官方核验",
+            "新上",
+            "近地铁",
+            "精装",
+            "有阳台",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/a99da9ce-69b3-4ec3-b72e-3d89f2f1591f.496x372.jpg",
+        "type_id": 87
+    },
+    {
+        "title": "整租·金湖清水湾 3室2厅 南/北",
+        "houseInfo": "88.87㎡/金银湖",
+        "Price": "1850元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/786b1dae0a32f14ccc8526a099551510-053.jpg.496x372.jpg",
+        "type_id": 88
+    },
+    {
+        "title": "独栋·克拉美家公寓 金融港店 独卫可短租阳光一居室 开间",
+        "houseInfo": "20.00㎡/关山大道/距金融港北站1.1km",
+        "Price": "1080元/月",
+        "tag": [
+            "官方核验",
+            "新上",
+            "月租",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/cc4f718c-f357-40db-8bfd-a0cfb19c52c8.496x372.jpg",
+        "type_id": 89
+    },
+    {
+        "title": "合租·陌陌屋三元中央公园 1居室 南卧",
+        "houseInfo": "15.00㎡/塔子湖/距中一路站817m",
+        "Price": "1000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/270ade98f2bc2e80b7a9261be762bba4-066.jpg.496x372.jpg",
+        "type_id": 90
+    },
+    {
+        "title": "独栋·克拉美家公寓 APP广场店 可做饭一居室 1室1厅",
+        "houseInfo": "23.00㎡/民族大道",
+        "Price": "1480元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/23134fac-ce38-47df-908d-5a8b0c3fd59b.496x372.jpg",
+        "type_id": 91
+    },
+    {
+        "title": "合租·金融街壹号 3居室 南卧",
+        "houseInfo": "链家/14.00㎡/育才花桥/距赵家条站242m",
+        "Price": "1200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/fda8a79acf37b914b9ab4abeb979c4d2-003.jpg.496x372.jpg",
+        "type_id": 92
+    },
+    {
+        "title": "独栋·武汉祥瑞公寓 万达店 万达温馨独卫房 开间",
+        "houseInfo": "25.00㎡/新华路万达/距范湖站1.1km",
+        "Price": "1100元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/0e0d70bd-13b2-4e27-b146-319ece88ebc3.496x372.jpg",
+        "type_id": 93
+    },
+    {
+        "title": "整租·合汇景苑 3室2厅 东南",
+        "houseInfo": "93.34㎡/钟家村/距建港站836m",
+        "Price": "3000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_wZPuQes7x_1.jpg.496x372.jpg",
+        "type_id": 94
+    },
+    {
+        "title": "整租·福星华府誉境 3室1厅 南",
+        "houseInfo": "91.74㎡/杨汊湖/距杨汊湖站477m",
+        "Price": "1300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/de1837c7-835b-477d-bbab-0e8ea3533b53_1000.jpg.496x372.jpg",
+        "type_id": 95
+    },
+    {
+        "title": "整租·华发阳逻金茂逸墅 3室2厅 南/北",
+        "houseInfo": "96.40㎡/阳逻",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_8878I4kYx_1.jpg.496x372.jpg",
+        "type_id": 96
+    },
+    {
+        "title": "独栋·克拉美家公寓 光谷四中店 超性价比精装一居月付 开间",
+        "houseInfo": "20.00㎡/光谷东",
+        "Price": "1180元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/271e8714-8a8b-4f70-ae80-fd3833b50dc5.496x372.jpg",
+        "type_id": 97
+    },
+    {
+        "title": "整租·万达御湖世家 4室2厅 南/北",
+        "houseInfo": "链家/306.31㎡/楚河汉街",
+        "Price": "25000元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/bd5b5d7d-78d4-4cda-929d-f6617c86fd4c.jpg.496x372.jpg",
+        "type_id": 98
+    },
+    {
+        "title": "整租·佳兆业滨江壹号 3室1厅 南",
+        "houseInfo": "链家/113.78㎡/王家湾",
+        "Price": "2600元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/8c5194c3608112fe2bfb171d421ea5e6-093.jpg.496x372.jpg",
+        "type_id": 99
+    },
+    {
+        "title": "整租·广信万汇城 4室2厅 南",
+        "houseInfo": "141.95㎡/庙山",
+        "Price": "3700元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/ebe1f51d-6239-43ed-be11-e7d799303bdb.jpg.496x372.jpg",
+        "type_id": 100
+    },
+    {
+        "title": "独栋·泊寓 百步亭店 地铁短租阳光LOFT 1室1厅",
+        "houseInfo": "25.00㎡/堤角/距新荣客运站站1.1km",
+        "Price": "941元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/5ef31d5c-354c-4b02-87dc-681da73c2bf5.496x372.jpg",
+        "type_id": 101
+    },
+    {
+        "title": "整租·常青花园恒大御景 3室1厅 南/北",
+        "houseInfo": "104.00㎡/常青花园/距金银潭站760m",
+        "Price": "3300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/a9644a5e78a7d96828fa0a9737fcfdc3-044.jpg.496x372.jpg",
+        "type_id": 102
+    },
+    {
+        "title": "独栋·魔方公寓 武汉东湖店 寒假特惠租12免2 1室1厅",
+        "houseInfo": "30.00㎡/东湖东亭/距省博湖北日报站867m",
+        "Price": "1800-1899元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/9b7a446e-cb0f-44b4-983d-4961ca278ca6.496x372.jpg",
+        "type_id": 103
+    },
+    {
+        "title": "整租·金鹤园小区 3室2厅 东南",
+        "houseInfo": "103.00㎡/青山",
+        "Price": "2600元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/93e2a410d04c8a699cc3241462d67d83-001.jpg.496x372.jpg",
+        "type_id": 104
+    },
+    {
+        "title": "独栋·荆州大厦公寓 王家湾店 开学季特价房 开间",
+        "houseInfo": "25.00㎡/王家湾/距王家湾站667m",
+        "Price": "950元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/68273022-3f07-4249-a6f2-27ead4bfee1f.496x372.jpg",
+        "type_id": 105
+    },
+    {
+        "title": "整租·北斗花园 3室3厅 南/北",
+        "houseInfo": "链家/156.24㎡/唐家墩/距唐家墩站335m",
+        "Price": "3950元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/127c2e0b24d837f70c0a1d33a3d5d7ad-073.jpg.496x372.jpg",
+        "type_id": 106
+    },
+    {
+        "title": "独栋·克拉美家公寓 光谷软件园店 精装修1居室 开间",
+        "houseInfo": "20.00㎡/关山大道",
+        "Price": "1099元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/9b55d0ea-d07d-4eee-a6bb-25b999b5fec8.496x372.jpg",
+        "type_id": 107
+    },
+    {
+        "title": "整租·金地中法仟佰汇 4室2厅 南/北",
+        "houseInfo": "163.86㎡/蔡甸城区/距凤凰路站288m",
+        "Price": "2200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/7a0804f7-ea27-4f14-873b-620c5565653d.jpg.496x372.jpg",
+        "type_id": 108
+    },
+    {
+        "title": "独栋·冠寓 武汉CBD店 优选LOFT人才公寓 1室1厅",
+        "houseInfo": "40.00㎡/长丰常码头/距常码头站678m",
+        "Price": "1500元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "开放厨房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/dc990cbd-43b7-4383-8d5b-487117851e4a.496x372.jpg",
+        "type_id": 109
+    },
+    {
+        "title": "整租·空港中心 1室1厅 东南",
+        "houseInfo": "46.70㎡/盘龙城",
+        "Price": "1400元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_8mIoJN8Ab_1.jpg.496x372.jpg",
+        "type_id": 110
+    },
+    {
+        "title": "合租·珞珈雅苑 3居室 南卧",
+        "houseInfo": "广发租房/25.00㎡/珞狮南路/距文昌路站586m",
+        "Price": "1050元/月",
+        "tag": [
+            "官方核验",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/ab623d11-ddb2-42b4-ba05-a30ebf1595bb.496x372.jpg",
+        "type_id": 111
+    },
+    {
+        "title": "整租·汉口城市广场四期 2室1厅 南/北",
+        "houseInfo": "90.03㎡/后湖",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_O6OtSsSsI_1.jpg.496x372.jpg",
+        "type_id": 112
+    },
+    {
+        "title": "独栋·冠寓 武汉华师一附中店 简约单间免费送搬家 开间",
+        "houseInfo": "16.00㎡/三环南",
+        "Price": "1391元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/35a617c4-10c8-4fe0-ab2b-7a1b42b47365.496x372.jpg",
+        "type_id": 113
+    },
+    {
+        "title": "整租·绿地国际金融城一期 3室1厅 东南/西南",
+        "houseInfo": "链家/142.30㎡/积玉桥/距三角路站343m",
+        "Price": "4800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_T92VAGN0J_1.jpg.496x372.jpg",
+        "type_id": 114
+    },
+    {
+        "title": "整租·宝利金国际广场 1室1厅 东",
+        "houseInfo": "60.00㎡/前进江汉/距六渡桥站846m",
+        "Price": "2300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/192177c770248f05915a56d0f7fca467-096.jpg.496x372.jpg",
+        "type_id": 115
+    },
+    {
+        "title": "整租·经开未来城 2室2厅 南",
+        "houseInfo": "38.08㎡/沌口/距汉阳客运站站123m",
+        "Price": "3000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/410111b0-4bc3-4ee8-9137-a38e41833c7f.png.496x372.jpg",
+        "type_id": 116
+    },
+    {
+        "title": "合租·融创公园壹号三期 3居室 南卧",
+        "houseInfo": "自如/16.00㎡/塔子湖",
+        "Price": "730元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/e3aea145-2a88-48ec-8297-6c1ce3560f5c.496x372.jpg",
+        "type_id": 117
+    },
+    {
+        "title": "整租·菱角湖万达广场B区 3室2厅 南/北",
+        "houseInfo": "129.00㎡/新华路万达",
+        "Price": "3600元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/96ed65d445f5d27ea8fd1c146da87173-023.jpg.496x372.jpg",
+        "type_id": 118
+    },
+    {
+        "title": "合租·中建南湖壹号 4居室 东卧",
+        "houseInfo": "链家/94.00㎡/珞狮南路",
+        "Price": "800元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/2dc23a3e-1f08-4fdd-8734-e36943516fe1.jpg.496x372.jpg",
+        "type_id": 119
+    },
+    {
+        "title": "整租·常青花园五小区 2室2厅 东南",
+        "houseInfo": "链家/96.00㎡/常青花园/距金银潭站819m",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_gfXQEpGkG.jpg.496x372.jpg",
+        "type_id": 120
+    },
+    {
+        "title": "独栋·OVU公寓 金融港青年公寓 高层大单间B型 开间",
+        "houseInfo": "24.00㎡/金融港/距金融港北站1.2km",
+        "Price": "1418元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/b0dc6dfa-5fbf-4c2a-9703-05eb9b0a930b.496x372.jpg",
+        "type_id": 121
+    },
+    {
+        "title": "整租·广电兰亭荣荟 3室2厅 南",
+        "houseInfo": "125.13㎡/古田",
+        "Price": "3500元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/05ba0880c27ff398185693d32b7e9daa-094.jpg.496x372.jpg",
+        "type_id": 122
+    },
+    {
+        "title": "独栋·斑斓公寓 街道口店 精装一居套房 1室1厅",
+        "houseInfo": "45.00㎡/街道口/距街道口站291m",
+        "Price": "2800元/月",
+        "tag": [
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "有阳台",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/5661ea56-5ae3-4cda-980f-33735532200c.496x372.jpg",
+        "type_id": 123
+    },
+    {
+        "title": "整租·顶琇国际城 2室2厅 南",
+        "houseInfo": "47.01㎡/唐家墩/距唐家墩站258m",
+        "Price": "3500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/6fd9f8bfa705a555c652c440fd042dea-071.jpg.496x372.jpg",
+        "type_id": 124
+    },
+    {
+        "title": "独栋·冠寓 武汉CBD店 泛海天街人才公寓 开间",
+        "houseInfo": "20.00㎡/长丰常码头/距常码头站678m",
+        "Price": "1000元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/358aa374-c42a-4782-b082-3338c616336c.496x372.jpg",
+        "type_id": 125
+    },
+    {
+        "title": "合租·广电兰亭都荟 2居室 东南/南卧",
+        "houseInfo": "链家/170.33㎡/钟家村",
+        "Price": "1200元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/ba21e570-3b68-4f4e-8e37-6fa2634625e6.jpg.496x372.jpg",
+        "type_id": 126
+    },
+    {
+        "title": "独栋·冠寓 武汉软件新城店 特价房软件新城一居室 开间",
+        "houseInfo": "20.00㎡/光谷东",
+        "Price": "900元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/099bb136-0a37-44a4-b694-eb21faaa50b6.496x372.jpg",
+        "type_id": 127
+    },
+    {
+        "title": "整租·绿地国际金融城一期 3室2厅 东南",
+        "houseInfo": "117.79㎡/积玉桥/距三角路站440m",
+        "Price": "4000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_Quzgd5CDl_1.jpg.496x372.jpg",
+        "type_id": 128
+    },
+    {
+        "title": "独栋·冠寓 武汉常青城地铁站店 双十一特价精装一居室 1室1厅",
+        "houseInfo": "50.00㎡/将军路/距常青城站970m",
+        "Price": "1440元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "有阳台",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/7a4afb37-b3ae-4081-8fcc-c4935ebccacd.496x372.jpg",
+        "type_id": 129
+    },
+    {
+        "title": "合租·东湖名邸 4居室 南卧",
+        "houseInfo": "20.00㎡/东湖东亭/距省博湖北日报站69m",
+        "Price": "1380元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/29f58b85-f07b-4ef5-bfb2-7db0fac3b047.jpg.496x372.jpg",
+        "type_id": 130
+    },
+    {
+        "title": "独栋·纽家服务公寓 芳草店 蓝莓之夜 2室1厅",
+        "houseInfo": "60.00-85.00㎡/四新/距四新大道站1.1km",
+        "Price": "2400-3000元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "有阳台",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/389693a6-bc2b-42cf-8e44-7d9c53cd4fc7.496x372.jpg",
+        "type_id": 131
+    },
+    {
+        "title": "整租·裕荣家园 4室2厅 南",
+        "houseInfo": "链家/154.31㎡/CBD西北湖/距汉口火车站站969m",
+        "Price": "4500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_xmLIR5fO9_2.jpg.496x372.jpg",
+        "type_id": 132
+    },
+    {
+        "title": "独栋·冠寓 武汉高新二路店 简约静谧一居D 开间",
+        "houseInfo": "22.00㎡/金融港/距黄龙山路站375m",
+        "Price": "1199-1403元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-house-1/img/572657c7145600418dd70f26ff0d90bf-1669134713070/f96702b741b0a82788f1a8650f2b8cb4.jpg.496x372.jpg",
+        "type_id": 133
+    },
+    {
+        "title": "整租·万科高尔夫城市花园 2室1厅 西南",
+        "houseInfo": "链家/87.33㎡/金银湖",
+        "Price": "2300元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/e6c40755-77b8-4d7b-852b-4d4e8f58764d.jpg.496x372.jpg",
+        "type_id": 134
+    },
+    {
+        "title": "整租·盘龙理想世家 3室2厅 南",
+        "houseInfo": "96.17㎡/盘龙城",
+        "Price": "1900元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_2O2hNiqIE_1.jpg.496x372.jpg",
+        "type_id": 135
+    },
+    {
+        "title": "合租·洪岭公寓 6居室 南卧",
+        "houseInfo": "144.00㎡/街道口",
+        "Price": "800元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/23c776a370a22ea7ac0e9564c97bde1b-013.jpg.496x372.jpg",
+        "type_id": 136
+    },
+    {
+        "title": "独栋·魔方公寓 武汉武昌火车站店 寒假特惠租房首月减免 1室1厅",
+        "houseInfo": "25.00-27.00㎡/武昌火车站/距梅苑小区站291m",
+        "Price": "1358-1660元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/ef900fb0-43e7-4baa-a3d7-f6db5b251d32.496x372.jpg",
+        "type_id": 137
+    },
+    {
+        "title": "整租·日月山水东区 3室2厅 南/北",
+        "houseInfo": "115.00㎡/盘龙城",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/559cbdd5-4c32-45a8-b633-be0111f66248.jpg.496x372.jpg",
+        "type_id": 138
+    },
+    {
+        "title": "整租·佳兴苑 4室1厅 南/北",
+        "houseInfo": "146.25㎡/CBD西北湖/距汉口火车站站774m",
+        "Price": "3500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/a60c88e3c4ae8959ceedb0f67cb4c632-017.jpg.496x372.jpg",
+        "type_id": 139
+    },
+    {
+        "title": "整租·恋湖家园五期 2室2厅 南",
+        "houseInfo": "链家/92.49㎡/金银湖",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_HwwFT1S0M_1.jpg.496x372.jpg",
+        "type_id": 140
+    },
+    {
+        "title": "独栋·魔方公寓 武汉武昌火车站店 寒假特惠租房首月减免 1室1厅",
+        "houseInfo": "25.00-27.00㎡/武昌火车站/距梅苑小区站291m",
+        "Price": "1358-1660元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/ef900fb0-43e7-4baa-a3d7-f6db5b251d32.496x372.jpg",
+        "type_id": 141
+    },
+    {
+        "title": "整租·三眼桥 2室1厅 南",
+        "houseInfo": "50.22㎡/唐家墩",
+        "Price": "1700元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_OVMoXmFk5_1.jpg.496x372.jpg",
+        "type_id": 142
+    },
+    {
+        "title": "独栋·OVU公寓 金融港青年公寓 高层小单间-A 开间",
+        "houseInfo": "17.00㎡/金融港/距金融港北站1.2km",
+        "Price": "1100-1208元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/8bca8800-8cb7-4c72-ba1d-e8567bd0f244.496x372.jpg",
+        "type_id": 143
+    },
+    {
+        "title": "整租·崇仁小路199号 3室2厅 东南",
+        "houseInfo": "121.21㎡/集贤/距武胜路站647m",
+        "Price": "2480元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/98bf56555fdfe879f5aa465ddb074839-087.jpg.496x372.jpg",
+        "type_id": 144
+    },
+    {
+        "title": "独栋·纽宾凯NEW+公寓 四新店 南北通透两居室 2室1厅",
+        "houseInfo": "57.00㎡/四新/距四新大道站1km",
+        "Price": "1850元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "有阳台",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/5f9d6a1d-fa71-4063-96c9-81f694289c5f.496x372.jpg",
+        "type_id": 145
+    },
+    {
+        "title": "整租·经开官湖澜岸 3室2厅 东南",
+        "houseInfo": "105.79㎡/后官湖",
+        "Price": "1200元/月",
+        "tag": [
+            "官方核验",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_W8IBBHjpc_1.jpg.496x372.jpg",
+        "type_id": 146
+    },
+    {
+        "title": "独栋·泊寓 后湖2035店二期 秒杀房·独卫开间 1室1厅",
+        "houseInfo": "29.00㎡/堤角/距新荣客运站站783m",
+        "Price": "939元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/b8261aaf-4f4e-4f6c-a47c-8e5716206072.496x372.jpg",
+        "type_id": 147
+    },
+    {
+        "title": "整租·朗诗绿色街区 3室2厅 南",
+        "houseInfo": "93.00㎡/王家湾/距陶家岭站1km",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/7ec655e59b76b690aae571dfa0c51b41-081.jpg.496x372.jpg",
+        "type_id": 148
+    },
+    {
+        "title": "独栋·OVU公寓 金融港青年公寓 人才公寓房 开间",
+        "houseInfo": "24.00㎡/金融港/距金融港北站1.2km",
+        "Price": "700元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/0924e4b4-41ea-4b27-87bb-b87ee80fc90e.496x372.jpg",
+        "type_id": 149
+    },
+    {
+        "title": "整租·沁园铭城 3室2厅 东",
+        "houseInfo": "120.16㎡/蔡甸城区/距临嶂大道站1km",
+        "Price": "1500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_0BqBwge72.jpg.496x372.jpg",
+        "type_id": 150
+    },
+    {
+        "title": "合租·东湖庭园 4居室 南卧",
+        "houseInfo": "启诚公寓/20.00㎡/东湖东亭/距罗家港站1.1km",
+        "Price": "950元/月",
+        "tag": [
+            "官方核验",
+            "独立卫生间",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/663caf40-e071-49eb-8174-40acddabad22.496x372.jpg",
+        "type_id": 151
+    },
+    {
+        "title": "整租·都市申新花园 3室2厅 南",
+        "houseInfo": "78.67㎡/宗关",
+        "Price": "2400元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_27XyijrjG.jpg.496x372.jpg",
+        "type_id": 152
+    },
+    {
+        "title": "合租·保利华都 4居室 南卧",
+        "houseInfo": "武汉合家公寓/20.00㎡/虎泉杨家湾/距杨家湾站896m",
+        "Price": "1250元/月",
+        "tag": [
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/8407ddc9-1128-441c-8fed-28baafa9aa84.496x372.jpg",
+        "type_id": 153
+    },
+    {
+        "title": "整租·华发未来荟 3室2厅 东南",
+        "houseInfo": "91.27㎡/四新",
+        "Price": "2100元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/94ece3ae-5a33-41a4-81de-971337679ce3.jpg.496x372.jpg",
+        "type_id": 154
+    },
+    {
+        "title": "整租·绿地国际金融城一期 3室2厅 南",
+        "houseInfo": "110.52㎡/积玉桥/距三角路站320m",
+        "Price": "4700元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_TijONbnVq_1.jpg.496x372.jpg",
+        "type_id": 155
+    },
+    {
+        "title": "整租·中胜国际 1室1厅 东南",
+        "houseInfo": "60.00㎡/后湖",
+        "Price": "2300元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/07274575-7efa-4334-8978-99d38b6f748b.jpg.496x372.jpg",
+        "type_id": 156
+    },
+    {
+        "title": "合租·世纪江尚 4居室 南卧",
+        "houseInfo": "自如/17.90㎡/[前进江汉]/距江汉路站550m",
+        "Price": "1490元/月",
+        "tag": [
+            "官方核验",
+            "独立卫生间",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/cf590aff-f9ef-4ac6-b1c2-2151ac40d6bf.496x372.jpg",
+        "type_id": 157
+    },
+    {
+        "title": "合租·银海华庭 5居室 南卧",
+        "houseInfo": "15.00㎡/水果湖/距洪山路站1.1km",
+        "Price": "950元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/b26d73a7-2316-4df3-8af1-5f0315881a60.jpg.496x372.jpg",
+        "type_id": 158
+    },
+    {
+        "title": "整租·新华家园 2室2厅 南",
+        "houseInfo": "90.00㎡/杨汊湖",
+        "Price": "2900元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/df7cc8f5a6e7cd5547626f5988abe275-026.jpg.496x372.jpg",
+        "type_id": 159
+    },
+    {
+        "title": "整租·融侨锦城 3室2厅 南",
+        "houseInfo": "链家/141.04㎡/古田/距古田三路站533m",
+        "Price": "3300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/e0afe6c9-d2e5-482c-a0a5-894643b103b6.jpg.496x372.jpg",
+        "type_id": 160
+    },
+    {
+        "title": "整租·嘉禾园 5室2厅 南/北",
+        "houseInfo": "160.84㎡/吴家山/距二雅路站1km",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/40a5e251740691e7ff0d20e36977487a-041.jpg.496x372.jpg",
+        "type_id": 161
+    },
+    {
+        "title": "整租·中奇欧式花园 3室2厅 南/北",
+        "houseInfo": "链家/121.87㎡/武广万松园",
+        "Price": "4500元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/f2ad4df6-0d6f-461b-824e-5e0292e65eb7.jpg.496x372.jpg",
+        "type_id": 162
+    },
+    {
+        "title": "整租·兴华尚都国际 3室2厅 南",
+        "houseInfo": "链家/98.27㎡/CBD西北湖/距双墩站654m",
+        "Price": "3000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/82b792e97ccf2a33eddcbb119c07d1e6-024.jpg.496x372.jpg",
+        "type_id": 163
+    },
+    {
+        "title": "整租·水岸星城 2室2厅 西南",
+        "houseInfo": "97.00㎡/沙湖",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_d0mjA5GIJ_1.jpg.496x372.jpg",
+        "type_id": 164
+    },
+    {
+        "title": "整租·3604小区 2室2厅 南",
+        "houseInfo": "100.00㎡/宝丰崇仁/距太平洋站639m",
+        "Price": "1900元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/162e7e5b-7265-4954-89ed-83d124a6d581.jpg.496x372.jpg",
+        "type_id": 165
+    },
+    {
+        "title": "整租·沁园铭城 3室2厅 东",
+        "houseInfo": "120.16㎡/蔡甸城区/距临嶂大道站1km",
+        "Price": "1500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_0BqBwge72.jpg.496x372.jpg",
+        "type_id": 166
+    },
+    {
+        "title": "整租·湘龙鑫城 3室2厅 东南/南",
+        "houseInfo": "链家/127.15㎡/白沙洲",
+        "Price": "2000元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_PElTjE8Ok_1.jpg.496x372.jpg",
+        "type_id": 167
+    },
+    {
+        "title": "整租·光谷陆景苑 3室2厅 南",
+        "houseInfo": "链家/130.50㎡/光谷东",
+        "Price": "4000元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/328d6d5f-9fb5-4b5e-b8a9-a98788ee57b4.jpg.496x372.jpg",
+        "type_id": 168
+    },
+    {
+        "title": "整租·开来枫景佳园 3室2厅 南",
+        "houseInfo": "130.75㎡/卓刀泉/距虎泉站558m",
+        "Price": "3800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_YaZ1NgAIC_1.jpg.496x372.jpg",
+        "type_id": 169
+    },
+    {
+        "title": "整租·汉水新城中法印象 3室2厅 南/北",
+        "houseInfo": "99.56㎡/蔡甸城区",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/83a6677ca260e9d9834b8fa914817e24-100.jpg.496x372.jpg",
+        "type_id": 170
+    },
+    {
+        "title": "整租·外滩棕榈泉 3室2厅 东南",
+        "houseInfo": "链家/140.24㎡/三阳路/距黄浦路站872m",
+        "Price": "7000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 171
+    },
+    {
+        "title": "整租·解放大道248号 3室1厅 南",
+        "houseInfo": "79.57㎡/宗关/距宗关站229m",
+        "Price": "2200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 172
+    },
+    {
+        "title": "整租·福星惠誉东澜岸 4室2厅 南/北",
+        "houseInfo": "链家/168.51㎡/白沙洲",
+        "Price": "4500元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 173
+    },
+    {
+        "title": "整租·东湖春树里 3室1厅 南/北",
+        "houseInfo": "105.93㎡/东湖东亭/距梨园站529m",
+        "Price": "4000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 174
+    },
+    {
+        "title": "整租·F学府 2室1厅 南/北",
+        "houseInfo": "108.67㎡/盘龙城",
+        "Price": "1300元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 175
+    },
+    {
+        "title": "整租·中建锦绣双城 4室2厅 南/北",
+        "houseInfo": "143.00㎡/蔡甸城区/距新庙村站613m",
+        "Price": "1700元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 176
+    },
+    {
+        "title": "整租·中南拂晓城 3室2厅 南",
+        "houseInfo": "98.00㎡/黄陂其它",
+        "Price": "1000元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 177
+    },
+    {
+        "title": "整租·天勤花园 3室1厅 南/北",
+        "houseInfo": "91.98㎡/古田",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 178
+    },
+    {
+        "title": "整租·大东门三村 2室1厅 南",
+        "houseInfo": "74.02㎡/武昌火车站/距武昌火车站站746m",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 179
+    },
+    {
+        "title": "合租·融创公园壹号 5居室 南卧",
+        "houseInfo": "美忆寓/15.00㎡/塔子湖/距中一路站562m",
+        "Price": "850元/月",
+        "tag": [
+            "官方核验",
+            "独立卫生间",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/8beb7927-c2b5-4d4a-8463-da5a8595542b.496x372.jpg",
+        "type_id": 180
+    },
+    {
+        "title": "合租·太子尚品 4居室 南/北卧",
+        "houseInfo": "14.00㎡/四新",
+        "Price": "750元/月",
+        "tag": [
+            "官方核验",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/a3cd3ad5-5657-4ba6-91d8-a712b20bcb19.jpg.496x372.jpg",
+        "type_id": 181
+    },
+    {
+        "title": "整租·紫竹园(武昌) 3室1厅 南/北",
+        "houseInfo": "96.74㎡/武昌火车站/距武昌火车站站1.1km",
+        "Price": "2000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc0_P0bRQRY1R_1.jpg.496x372.jpg",
+        "type_id": 182
+    },
+    {
+        "title": "整租·瑞云公馆 1室1厅 南",
+        "houseInfo": "43.00㎡/后湖",
+        "Price": "1300元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/2ed3c9a9d6123f27c871107f03bf43cf-079.jpg.496x372.jpg",
+        "type_id": 183
+    },
+    {
+        "title": "整租·华腾园 2室1厅 南/北",
+        "houseInfo": "85.93㎡/徐东/距岳家嘴站845m",
+        "Price": "2600元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/2356451f-342b-497c-b9c7-a9a64551d51c.jpg.496x372.jpg",
+        "type_id": 184
+    },
+    {
+        "title": "合租·阳光在线二期 4居室 南卧",
+        "houseInfo": "清风公寓/18.00㎡/民族大道",
+        "Price": "700元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/1ab950f0-432f-4e2c-b9e7-82bbb0fe63f1.496x372.jpg",
+        "type_id": 185
+    },
+    {
+        "title": "整租·清江泓景 2室1厅 南",
+        "houseInfo": "78.14㎡/文化大道/距江夏客厅站370m",
+        "Price": "2200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_yvBKcBViy_1.jpg.496x372.jpg",
+        "type_id": 186
+    },
+    {
+        "title": "整租·绿地中央广场三期 5室3厅 南",
+        "houseInfo": "链家/190.98㎡/四新",
+        "Price": "5000元/月",
+        "tag": [
+            "官方核验",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/6b53c371-a09c-4613-aa7d-5fa8d9672956.JPG.496x372.jpg",
+        "type_id": 187
+    },
+    {
+        "title": "整租·武汉铁路大东门住宅小区 3室1厅 南/北",
+        "houseInfo": "95.02㎡/武昌火车站/距武昌火车站站271m",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_LaIoSaS8p_1.jpg.496x372.jpg",
+        "type_id": 188
+    },
+    {
+        "title": "整租·复地东湖国际六期 3室2厅 南/北",
+        "houseInfo": "134.04㎡/中北路/距青鱼嘴站594m",
+        "Price": "5600元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/6867fec0-551a-4750-9cb7-73221915a657.jpg.496x372.jpg",
+        "type_id": 189
+    },
+    {
+        "title": "整租·驿山高尔夫 5室3厅 南",
+        "houseInfo": "链家/276.57㎡/光谷东",
+        "Price": "13500元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 190
+    },
+    {
+        "title": "合租·江腾苑A1区 3居室 南卧",
+        "houseInfo": "集家公寓/20.00㎡/钟家村",
+        "Price": "980元/月",
+        "tag": [
+            "官方核验",
+            "独立卫生间",
+            "月租",
+            "拎包入住",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/97226851-195b-482b-955c-4e65d49b33ad.496x372.jpg",
+        "type_id": 191
+    },
+    {
+        "title": "合租·邓甲新城C区 3居室 南卧",
+        "houseInfo": "集家公寓/26.00㎡/钟家村",
+        "Price": "650元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/1b8aa7aa-1e5b-45f0-8307-8b34d8facad2.496x372.jpg",
+        "type_id": 192
+    },
+    {
+        "title": "整租·沿海赛洛城 3室2厅 南",
+        "houseInfo": "84.78㎡/金银湖",
+        "Price": "1700元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/d2f365fbc3a9ed34b9a2011d1038b5dd-060.jpg.496x372.jpg",
+        "type_id": 193
+    },
+    {
+        "title": "整租·长航蓝晶国际写字楼 1室0厅 南",
+        "houseInfo": "48.00㎡/关山大道",
+        "Price": "2600元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/2d60e9b1835740e27b821129c145ef40-045.jpg.496x372.jpg",
+        "type_id": 194
+    },
+    {
+        "title": "整租·万科四季花城西半岛 2室2厅 南/北",
+        "houseInfo": "88.55㎡/金银湖",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/2b7c3e77df2b1bf87bf64d8938004fab-010.jpg.496x372.jpg",
+        "type_id": 195
+    },
+    {
+        "title": "整租·招商江湾国际 2室1厅 南",
+        "houseInfo": "70.29㎡/古田/距古田二路站775m",
+        "Price": "2300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/e286be4707becd513904956458e712e0-046.jpg.496x372.jpg",
+        "type_id": 196
+    },
+    {
+        "title": "整租·中央锦城 3室2厅 南/北",
+        "houseInfo": "110.90㎡/新华路万达/距唐家墩站196m",
+        "Price": "3000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_I4f9EjY6V_1.jpg.496x372.jpg",
+        "type_id": 197
+    },
+    {
+        "title": "整租·中南欢乐汇 1室1厅 南",
+        "houseInfo": "42.00㎡/武昌火车站/距梅苑小区站235m",
+        "Price": "2400元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/2dd1775e-354d-436d-afec-9f070f686e1e.jpg.496x372.jpg",
+        "type_id": 198
+    },
+    {
+        "title": "整租·纺织设计院宿舍 2室2厅 南",
+        "houseInfo": "103.24㎡/东湖东亭",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/0cf7b47c8c168c66d1f1fcb3a963656c-049.jpg.496x372.jpg",
+        "type_id": 199
+    },
+    {
+        "title": "整租·新城阅璟台 4室2厅 南",
+        "houseInfo": "130.33㎡/白沙洲",
+        "Price": "2600元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/ccd43d6f-4cb8-4c8b-941c-2f06eb2c7491.jpg.496x372.jpg",
+        "type_id": 200
+    },
+    {
+        "title": "整租·越秀星汇云锦 3室1厅 南",
+        "houseInfo": "142.57㎡/宝丰崇仁/距硚口路站353m",
+        "Price": "6000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/3dfe9c3a-a8d6-4a34-9dde-b112331aff63.jpg.496x372.jpg",
+        "type_id": 201
+    },
+    {
+        "title": "合租·招商江湾国际 3居室 南卧",
+        "houseInfo": "自如/18.00㎡/[古田]/距古田二路站1km",
+        "Price": "930元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/3eea45d2-3cf5-48c2-9a9f-f7e527ab32df.496x372.jpg",
+        "type_id": 202
+    },
+    {
+        "title": "整租·恒大绿洲 3室1厅 东南",
+        "houseInfo": "110.27㎡/中法生态城/距新天站771m",
+        "Price": "1700元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_yniTFW67Y_1.jpg.496x372.jpg",
+        "type_id": 203
+    },
+    {
+        "title": "合租·福星惠誉榜YOUNG 3居室 南卧",
+        "houseInfo": "自如/9.90㎡/百步亭/距新荣客运站站572m",
+        "Price": "630元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/99dbf810-2bf8-4a70-9aa2-908f1ddc0016.496x372.jpg",
+        "type_id": 204
+    },
+    {
+        "title": "整租·美联时光里 2室1厅 南",
+        "houseInfo": "63.04㎡/塔子湖/距石桥站258m",
+        "Price": "2380元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/f9119d50-9a21-450e-a52b-235e8df965fb.jpg.496x372.jpg",
+        "type_id": 205
+    },
+    {
+        "title": "整租·金色港湾五期 3室1厅 南/北",
+        "houseInfo": "100.74㎡/沌口/距三角湖站209m",
+        "Price": "3800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/f4d5be8aa1d3fb40ec7a0ca54b3fb957-031.jpg.496x372.jpg",
+        "type_id": 206
+    },
+    {
+        "title": "合租·顶琇晶城 3居室 南卧",
+        "houseInfo": "自如/12.00㎡/[唐家墩]/距唐家墩站153m",
+        "Price": "690元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/559b59cc-e037-4f67-8c40-59dc9ee084f4.496x372.jpg",
+        "type_id": 207
+    },
+    {
+        "title": "合租·南国中心 4居室 南卧",
+        "houseInfo": "自如/15.00㎡/武广万松园/距中山公园站821m",
+        "Price": "1190元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/eaeb5409-c134-4389-801d-d876c581f41a.496x372.jpg",
+        "type_id": 208
+    },
+    {
+        "title": "整租·长投景城汉口年华 2室2厅 南",
+        "houseInfo": "80.78㎡/百步亭/距后湖大道站817m",
+        "Price": "2300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/5f9767ea5905c9119ccba119b5687a85-088.jpg.496x372.jpg",
+        "type_id": 209
+    },
+    {
+        "title": "整租·福星惠誉国际城一期 3室2厅 南",
+        "houseInfo": "92.04㎡/沙湖/距汪家墩站363m",
+        "Price": "3600元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/9f9bdeb76485b799684165153f937960-018.jpg.496x372.jpg",
+        "type_id": 210
+    },
+    {
+        "title": "合租·融科天域 4居室 南卧",
+        "houseInfo": "后舍公寓/25.00㎡/关山大道",
+        "Price": "1750元/月",
+        "tag": [
+            "官方核验",
+            "独立卫生间",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/7d9b3f13-1767-4200-9125-bb51588e3a8e.496x372.jpg",
+        "type_id": 211
+    },
+    {
+        "title": "整租·正荣府 2室1厅 东南",
+        "houseInfo": "104.34㎡/四新",
+        "Price": "2600元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_EPdmRpYOR_1.jpg.496x372.jpg",
+        "type_id": 212
+    },
+    {
+        "title": "合租·金融街壹号 3居室 南卧",
+        "houseInfo": "自如/9.20㎡/育才花桥/距罗家庄站988m",
+        "Price": "760元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-house-1/9c5fa5757dc381383834f2a84a08b0b0-1586036085188/9aa83b521cee9fa76f56550fca06fe29.jpg.496x372.jpg",
+        "type_id": 213
+    },
+    {
+        "title": "合租·王家湾中央生活区 4居室 南卧",
+        "houseInfo": "自如/20.00㎡/王家湾/距玉龙路站723m",
+        "Price": "1290元/月",
+        "tag": [
+            "官方核验",
+            "独立卫生间",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/a731165a-9a00-44b3-96b7-daab365fdc80.496x372.jpg",
+        "type_id": 214
+    },
+    {
+        "title": "整租·葛洲坝卡尔顿庄园 5室2厅 南/北",
+        "houseInfo": "322.59㎡/华科大",
+        "Price": "19000元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/459637f35433a1a81fb335b193cd49dd-052.jpg.496x372.jpg",
+        "type_id": 215
+    },
+    {
+        "title": "整租·汉华花园 1室1厅 东南",
+        "houseInfo": "41.26㎡/集贤/距武胜路站211m",
+        "Price": "1200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc0_dtUq7cc2w_1.jpg.496x372.jpg",
+        "type_id": 216
+    },
+    {
+        "title": "整租·幸福时代四期 3室2厅 南",
+        "houseInfo": "链家/108.65㎡/后湖/距百步亭花园路站507m",
+        "Price": "3100元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 217
+    },
+    {
+        "title": "整租·金地格林春岸 2室2厅 南",
+        "houseInfo": "83.27㎡/金银湖",
+        "Price": "1700元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_5PERfnaCH_1.jpg.496x372.jpg",
+        "type_id": 218
+    },
+    {
+        "title": "整租·金地中法仟佰汇 3室2厅 南",
+        "houseInfo": "128.00㎡/蔡甸城区/距凤凰路站343m",
+        "Price": "2200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/99f4d399-18b8-48f4-acd2-9b0ff09c9275.jpg.496x372.jpg",
+        "type_id": 219
+    },
+    {
+        "title": "整租·民强街7号 3室2厅 南/北",
+        "houseInfo": "153.50㎡/楚河汉街/距小龟山站749m",
+        "Price": "4800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/56794ea75151237914ca84af8ee665da-090.jpg.496x372.jpg",
+        "type_id": 220
+    },
+    {
+        "title": "整租·华立新华时代 3室2厅 东/南/西",
+        "houseInfo": "146.75㎡/CBD西北湖/距菱角湖站720m",
+        "Price": "4000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_E5SgIiH2H_1.jpg.496x372.jpg",
+        "type_id": 221
+    },
+    {
+        "title": "整租·德盛大厦 2室2厅 南",
+        "houseInfo": "103.04㎡/唐家墩/距竹叶山站377m",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/59a47de1-c1a9-4478-b195-de19ef2d0f3d.jpg.496x372.jpg",
+        "type_id": 222
+    },
+    {
+        "title": "整租·武监小区 3室2厅 南",
+        "houseInfo": "链家/85.72㎡/宝丰崇仁",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/50906046-c346-4484-9793-3a3a45f606d0.jpg.496x372.jpg",
+        "type_id": 223
+    },
+    {
+        "title": "整租·旭辉华宇江悦府 3室2厅 南",
+        "houseInfo": "链家/111.97㎡/白沙洲",
+        "Price": "2300元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/bf6ec919-7c83-418f-8dd3-db3b697cedc1_1000.jpg.496x372.jpg",
+        "type_id": 224
+    },
+    {
+        "title": "整租·联投金色港湾 4室2厅 东南",
+        "houseInfo": "110.99㎡/沌口",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/e9d9f7f55f6df434fccbc66f9f59bee3-098.jpg.496x372.jpg",
+        "type_id": 225
+    },
+    {
+        "title": "整租·惠誉花园 6室2厅 跃层 东南/西北",
+        "houseInfo": "链家/287.42㎡/沙湖/距徐家棚站294m",
+        "Price": "10000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/rsp_pic_upload020376b2-a1a1-477a-aff4-113195311127.jpg.496x372.jpg",
+        "type_id": 226
+    },
+    {
+        "title": "整租·恒大绿洲 4室2厅 北",
+        "houseInfo": "145.00㎡/中法生态城/距新天站528m",
+        "Price": "2600元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_0AebRTvWu_1.jpg.496x372.jpg",
+        "type_id": 227
+    },
+    {
+        "title": "整租·将军家苑 4室2厅 复式 南/北",
+        "houseInfo": "147.00㎡/将军路",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_AG0uDwbns_1.jpg.496x372.jpg",
+        "type_id": 228
+    },
+    {
+        "title": "合租·福星府 5居室 南卧",
+        "houseInfo": "自如/15.00㎡/杨汊湖/距杨汊湖站991m",
+        "Price": "790元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/96136892-b33f-465a-bc18-037375c692fb.496x372.jpg",
+        "type_id": 229
+    },
+    {
+        "title": "整租·保利清能西海岸别墅 4室2厅 南/北",
+        "houseInfo": "链家/170.88㎡/藏龙岛",
+        "Price": "4800元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/bccd7025-6103-4f43-967c-3d4cf801fcb2.jpg.496x372.jpg",
+        "type_id": 230
+    },
+    {
+        "title": "整租·华润中央公园一期 3室2厅 南/北",
+        "houseInfo": "链家/96.89㎡/七里庙",
+        "Price": "3500元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_kL7Hxi0uF_1.jpg.496x372.jpg",
+        "type_id": 231
+    },
+    {
+        "title": "整租·佳兆业滨江壹号 3室2厅 南",
+        "houseInfo": "链家/113.78㎡/王家湾",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_iF1SseLoj_1.jpg.496x372.jpg",
+        "type_id": 232
+    },
+    {
+        "title": "整租·天顺园一村 2室1厅 南",
+        "houseInfo": "83.00㎡/长丰常码头",
+        "Price": "1200元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/16a03f5f-b166-480b-8918-0cbe57d07aba.jpg.496x372.jpg",
+        "type_id": 233
+    },
+    {
+        "title": "合租·东湖熙园 4居室 南卧",
+        "houseInfo": "优租寓/28.00㎡/楚河汉街/距楚河汉街站653m",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "独立卫生间",
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/686aa120-27ed-4f10-8890-a6fc27162ae7.496x372.jpg",
+        "type_id": 234
+    },
+    {
+        "title": "整租·宝丰街站邻园社区 2室1厅 南",
+        "houseInfo": "65.25㎡/集贤/距崇仁路站50m",
+        "Price": "2000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_uOCTCFrVi_1.jpg.496x372.jpg",
+        "type_id": 235
+    },
+    {
+        "title": "整租·佳兆业滨江壹号 2室1厅 南/西",
+        "houseInfo": "链家/67.69㎡/王家湾",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/test-0f3bee19-c07f-4b7c-a30f-59fe840ff056.png.496x372.jpg",
+        "type_id": 236
+    },
+    {
+        "title": "整租·友谊国际D+公馆 2室2厅 南",
+        "houseInfo": "36.19㎡/积玉桥/距新河街站208m",
+        "Price": "3800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/0c117189-99dd-4c3b-9e05-0ae9a2f19607.jpg.496x372.jpg",
+        "type_id": 237
+    },
+    {
+        "title": "整租·汉口城市广场SOHO 2室2厅 东南",
+        "houseInfo": "43.86㎡/后湖",
+        "Price": "2100元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/cfd86435be35514f131ecf77b8c2f707-081.jpg.496x372.jpg",
+        "type_id": 238
+    },
+    {
+        "title": "整租·江花商住楼 4室1厅 南",
+        "houseInfo": "链家/123.00㎡/育才花桥",
+        "Price": "3000元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_HzGUAtnrZ_1.jpg.496x372.jpg",
+        "type_id": 239
+    },
+    {
+        "title": "合租·南车花园 3居室 南卧",
+        "houseInfo": "小当家公寓/19.00㎡/文化大道/距大花岭站565m",
+        "Price": "750元/月",
+        "tag": [
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/f7ab7c19-d099-49ea-a056-d963effd6be7.496x372.jpg",
+        "type_id": 240
+    },
+    {
+        "title": "整租·新城璟汇 2室2厅 南",
+        "houseInfo": "77.63㎡/金银湖",
+        "Price": "2200元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/fc3cda3513feedd35dc440ec9f3a4042-012.jpg.496x372.jpg",
+        "type_id": 241
+    },
+    {
+        "title": "整租·盛景公馆  2室1厅 南",
+        "houseInfo": "85.10㎡/后湖/距竹叶山站838m",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/05b5ac83d430257ed29b3d524ea8e95f-066.jpg.496x372.jpg",
+        "type_id": 242
+    },
+    {
+        "title": "合租·沙湖怡景 5居室 南卧",
+        "houseInfo": "优租寓/14.00㎡/楚河汉街/距小龟山站287m",
+        "Price": "950元/月",
+        "tag": [
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/93264373-ea3f-41a2-9de9-c41ff49153b5.496x372.jpg",
+        "type_id": 243
+    },
+    {
+        "title": "合租·幸福佳苑 3居室 南卧",
+        "houseInfo": "优嘉公寓/20.00㎡/街道口",
+        "Price": "700元/月",
+        "tag": [
+            "官方核验",
+            "独立卫生间",
+            "月租",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/d8ec4950-bd2d-4934-a325-a8433fed35f0.496x372.jpg",
+        "type_id": 244
+    },
+    {
+        "title": "整租·融科天城一期 2室1厅 东南",
+        "houseInfo": "45.49㎡/三阳路/距大智路站409m",
+        "Price": "5000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/145cf9b3362a124f19d1eb5e773e3e41-035.jpg.496x372.jpg",
+        "type_id": 245
+    },
+    {
+        "title": "合租·幸福佳苑 3居室 南卧",
+        "houseInfo": "优嘉公寓/20.00㎡/街道口",
+        "Price": "900元/月",
+        "tag": [
+            "官方核验",
+            "独立卫生间",
+            "月租",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/ae281309-e792-4689-aa7d-6640ab6e9e71.496x372.jpg",
+        "type_id": 246
+    },
+    {
+        "title": "整租·中国铁建1818中心 3室1厅 南/北",
+        "houseInfo": "98.68㎡/楚河汉街/距水果湖站680m",
+        "Price": "4300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc0_OJ04QcJMl_1.jpg.496x372.jpg",
+        "type_id": 247
+    },
+    {
+        "title": "合租·保利新武昌 3居室 南卧",
+        "houseInfo": "自如/11.00㎡/白沙洲/距张家湾站709m",
+        "Price": "660元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/9ff93238-8fa7-462d-8946-c2515f3b3023.496x372.jpg",
+        "type_id": 248
+    },
+    {
+        "title": "合租·保利新武昌 3居室 南卧",
+        "houseInfo": "自如/18.00㎡/白沙洲",
+        "Price": "860元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/fb1a9bd5-a180-4e8a-9783-f50f2a4e052f.496x372.jpg",
+        "type_id": 249
+    },
+    {
+        "title": "整租·恺得南湖国际 1室1厅 南",
+        "houseInfo": "55.00㎡/珞狮南路",
+        "Price": "2200元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/392d9093c73a773885e0082410b78390-080.jpg.496x372.jpg",
+        "type_id": 250
+    },
+    {
+        "title": "整租·鑫海花园 1室0厅 南",
+        "houseInfo": "28.17㎡/宝丰崇仁/距太平洋站959m",
+        "Price": "900元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://s1.ljcdn.com/matrix_m/dist/m/src/resource/default/315x240.png?_v=20221116142547909",
+        "type_id": 251
+    },
+    {
+        "title": "整租·青菱城市花园一期 3室2厅 南/北",
+        "houseInfo": "89.71㎡/白沙洲",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_AfeRGvMJx.jpg.496x372.jpg",
+        "type_id": 252
+    },
+    {
+        "title": "合租·葛洲坝世纪花园二期、三期 3居室 南卧",
+        "houseInfo": "自如/17.88㎡/华科大",
+        "Price": "890元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/d2fef581-cf03-4b0d-ba85-703391dee8a8.496x372.jpg",
+        "type_id": 253
+    },
+    {
+        "title": "合租·保利新武昌 3居室 南卧",
+        "houseInfo": "自如/16.50㎡/白沙洲/距张家湾站499m",
+        "Price": "860元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/97138730-52f7-45cb-a5ad-7170f8fdc19e.496x372.jpg",
+        "type_id": 254
+    },
+    {
+        "title": "合租·石桥花园D区 3居室 南卧",
+        "houseInfo": "自如/13.00㎡/塔子湖/距石桥站834m",
+        "Price": "690元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/1d08ce4e-3efc-472a-9b17-e0a6d4006654.496x372.jpg",
+        "type_id": 255
+    },
+    {
+        "title": "整租·新澳城市印象 2室1厅 南",
+        "houseInfo": "59.28㎡/阳逻/距阳逻开发区站263m",
+        "Price": "1300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/a48b8f16-7c61-413b-a59c-124b3a54837b.jpg.496x372.jpg",
+        "type_id": 256
+    },
+    {
+        "title": "整租·德成长江国际 2室1厅 南",
+        "houseInfo": "104.12㎡/徐东/距徐家棚站506m",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/ff50c6f3-428b-4939-84a9-384f6ccde65d.jpg.496x372.jpg",
+        "type_id": 257
+    },
+    {
+        "title": "整租·武汉生物研究所宿舍 2室1厅 南/北",
+        "houseInfo": "69.00㎡/首义/距彭刘杨站907m",
+        "Price": "2200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/test-9417c160-591e-49e0-8781-32d3472c078d.png.496x372.jpg",
+        "type_id": 258
+    },
+    {
+        "title": "合租·君荟天地 3居室 南卧",
+        "houseInfo": "自如/9.90㎡/塔子湖",
+        "Price": "600元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/b64b2563-6a5d-4e16-819c-91bbc5d5806d.496x372.jpg",
+        "type_id": 259
+    },
+    {
+        "title": "独栋·海豚湾公寓 徐东一店 05号户型 开间",
+        "houseInfo": "28.00㎡/徐东/距汪家墩站266m",
+        "Price": "1900元/月",
+        "tag": [
+            "月租",
+            "近地铁",
+            "精装",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/d9b7a27d-6c3e-4146-b83a-f70f6a19e93a.496x372.jpg",
+        "type_id": 260
+    },
+    {
+        "title": "独栋·海豚湾公寓 徐东一店 11号房型 开间",
+        "houseInfo": "23.00㎡/徐东/距汪家墩站266m",
+        "Price": "1500元/月",
+        "tag": [
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/874c08e9-cd44-466c-b5d9-c0cf1b25b234.496x372.jpg",
+        "type_id": 261
+    },
+    {
+        "title": "整租·俪湖天地 3室1厅 南/西",
+        "houseInfo": "链家/81.48㎡/文化大道/距大花岭站1.1km",
+        "Price": "2100元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_f1nnUJcuE_2.jpg.496x372.jpg",
+        "type_id": 262
+    },
+    {
+        "title": "独栋·冠寓 武汉高新二路店 换房免搬家，找我就行 开间",
+        "houseInfo": "20.00㎡/金融港/距黄龙山路站375m",
+        "Price": "1500元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/9dd62d4a-c07b-4dba-aafb-24920a2587c8.496x372.jpg",
+        "type_id": 263
+    },
+    {
+        "title": "整租·凯乐花园 2室2厅 南/北",
+        "houseInfo": "107.30㎡/中南丁字桥/距小东门站739m",
+        "Price": "3800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/e3dc45fccd3c7c09108763b8b9b29145-020.jpg.496x372.jpg",
+        "type_id": 264
+    },
+    {
+        "title": "整租·嘉园大厦 1室1厅 南",
+        "houseInfo": "58.25㎡/中南丁字桥/距中南路站118m",
+        "Price": "3000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_FVJn4tJt1_1.jpg.496x372.jpg",
+        "type_id": 265
+    },
+    {
+        "title": "独栋·金家优选公寓 友谊路店 无中介武广一居 开间",
+        "houseInfo": "26.00㎡/汉正街/距六渡桥站701m",
+        "Price": "1500元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "有阳台",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/a2740ad2-be6a-46bd-ad4c-e5a3990abaa9.496x372.jpg",
+        "type_id": 266
+    },
+    {
+        "title": "整租·海珀御观 4室2厅 西南",
+        "houseInfo": "234.00㎡/积玉桥/距三角路站684m",
+        "Price": "11900元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_WtmAvuqpa_1.jpg.496x372.jpg",
+        "type_id": 267
+    },
+    {
+        "title": "独栋·冠寓 武汉华师一附中店 华师一可做饭带厨房 1室1厅",
+        "houseInfo": "30.00-40.00㎡/三环南",
+        "Price": "1627-1929元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "精装",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/3f66fc8a-29e4-4afb-a649-949769a9b4c3.496x372.jpg",
+        "type_id": 268
+    },
+    {
+        "title": "独栋·冠寓 武汉杨春湖人才公寓店 暖心搬家人才7折 1室1厅",
+        "houseInfo": "55.00㎡/青山",
+        "Price": "1180-1480元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "有阳台",
+            "开放厨房",
+            "押一付一"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/6f6215dd-c994-4b7f-ae5e-d534b4196213.496x372.jpg",
+        "type_id": 269
+    },
+    {
+        "title": "整租·航空小路61到74号 2室1厅 南",
+        "houseInfo": "89.31㎡/武广万松园/距王家墩东站446m",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/0f731188c1af222bd2581aefc61c4392-009.jpg.496x372.jpg",
+        "type_id": 270
+    },
+    {
+        "title": "整租·泛悦城 3室2厅 南/北",
+        "houseInfo": "141.57㎡/关山大道/距华中科技大学站519m",
+        "Price": "7000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/84c31eceb519ae40ab0698caf211ae44-010.jpg.496x372.jpg",
+        "type_id": 271
+    },
+    {
+        "title": "整租·名流公馆 3室2厅 南",
+        "houseInfo": "链家/126.88㎡/钟家村",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_0jvt0Izib_1.jpg.496x372.jpg",
+        "type_id": 272
+    },
+    {
+        "title": "独栋·积木小屋公寓 民族大道店 直租独卫舒适单间 1室1厅",
+        "houseInfo": "18.00㎡/民族大道",
+        "Price": "1480元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/40c2e88d-0358-4276-87c1-e9e1d7b605db.496x372.jpg",
+        "type_id": 273
+    },
+    {
+        "title": "独栋·积木小屋公寓 杨家湾 B精装修整租一居室 1室1厅",
+        "houseInfo": "33.00㎡/虎泉杨家湾/距杨家湾站125m",
+        "Price": "1680元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "开放厨房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/69ccdfcf-5b83-4a91-9634-f807aabd90a4.496x372.jpg",
+        "type_id": 274
+    },
+    {
+        "title": "整租·复地东湖国际六期 2室2厅 南",
+        "houseInfo": "链家/88.84㎡/中北路",
+        "Price": "4500元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/48578e84-6f24-4860-b4d5-4f010ec8bea6_1000.jpg.496x372.jpg",
+        "type_id": 275
+    },
+    {
+        "title": "整租·凤凰花园三期 2室2厅 南/北",
+        "houseInfo": "86.00㎡/金融港/距藏龙东街站483m",
+        "Price": "7100元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/50f4e678-69af-4d06-bc08-c2ed48d20422.jpg.496x372.jpg",
+        "type_id": 276
+    },
+    {
+        "title": "整租·保利城SOHO中心 1室1厅 东南",
+        "houseInfo": "44.00㎡/团结大道",
+        "Price": "2100元/月",
+        "tag": [
+            "官方核验",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/5fb5eaa90902bb737e88f03012c615a0-004.jpg.496x372.jpg",
+        "type_id": 277
+    },
+    {
+        "title": "合租·尚文创业城 8居室 南卧",
+        "houseInfo": "链家/214.30㎡/虎泉杨家湾/距杨家湾站406m",
+        "Price": "900元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/ad69f0bd-31cc-4dfe-9066-9fba87628e72.jpg.496x372.jpg",
+        "type_id": 278
+    },
+    {
+        "title": "整租·汉街壹号公馆 3室2厅 南/北",
+        "houseInfo": "197.68㎡/楚河汉街/距楚河汉街站911m",
+        "Price": "11000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/a638d6dc-a9e0-47b4-860c-3407b8537b3c.jpg.496x372.jpg",
+        "type_id": 279
+    },
+    {
+        "title": "合租·文豪苑 4居室 南卧",
+        "houseInfo": "鸿威公寓/15.00㎡/虎泉杨家湾/距光谷广场站1.1km",
+        "Price": "600元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/9628506a-6fdc-4f67-bfb9-fd7df3202add.496x372.jpg",
+        "type_id": 280
+    },
+    {
+        "title": "整租·佳兆业悦府 3室2厅 南",
+        "houseInfo": "111.00㎡/东西湖其它/距三店站122m",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/4f510783-bca0-44cb-a83f-d071002aa0b2.jpg.496x372.jpg",
+        "type_id": 281
+    },
+    {
+        "title": "合租·南车花园 3居室 东卧",
+        "houseInfo": "小当家公寓/17.00㎡/文化大道/距大花岭站565m",
+        "Price": "800元/月",
+        "tag": [
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/de00a97d-b2bb-43eb-91f6-825a9595a3f6.496x372.jpg",
+        "type_id": 282
+    },
+    {
+        "title": "合租·福星惠誉汉阳华府 3居室 东南卧",
+        "houseInfo": "15.00㎡/钟家村/距拦江路站301m",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/4a7e871e-ffb5-488d-a901-480dc120d19a.jpg.496x372.jpg",
+        "type_id": 283
+    },
+    {
+        "title": "合租·福星惠誉汉阳华府 3居室 东南卧",
+        "houseInfo": "12.00㎡/钟家村/距拦江路站301m",
+        "Price": "1500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/4a7e871e-ffb5-488d-a901-480dc120d19a.jpg.496x372.jpg",
+        "type_id": 284
+    },
+    {
+        "title": "整租·大华滨江天地 2室1厅 南",
+        "houseInfo": "77.25㎡/青山/距科普公园站924m",
+        "Price": "2600元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/ca51279d2986334e3a219650222e29c8-030.jpg.496x372.jpg",
+        "type_id": 285
+    },
+    {
+        "title": "合租·沙湖怡景 5居室 南卧",
+        "houseInfo": "优租寓/18.00㎡/楚河汉街/距小龟山站287m",
+        "Price": "1500元/月",
+        "tag": [
+            "独立卫生间",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/08d55b76-1994-4339-ae37-3daade576c73.496x372.jpg",
+        "type_id": 286
+    },
+    {
+        "title": "整租·康乐苑 2室1厅 南",
+        "houseInfo": "链家/79.00㎡/老南湖/距瑞安街站316m",
+        "Price": "2300元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/bb378fb7-0e4d-4a12-8942-3b054623e051.jpg.496x372.jpg",
+        "type_id": 287
+    },
+    {
+        "title": "整租·铂金天地 3室2厅 南/北",
+        "houseInfo": "链家/124.60㎡/沙湖/距汪家墩站1.1km",
+        "Price": "3600元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/564fa8016e2dd895969f1bbce2e913b9-036.jpg.496x372.jpg",
+        "type_id": 288
+    },
+    {
+        "title": "合租·波光园一期 5居室 复式 南卧",
+        "houseInfo": "寓客/20.00㎡/武昌火车站/距梅苑小区站743m",
+        "Price": "1090元/月",
+        "tag": [
+            "官方核验",
+            "拎包入住",
+            "近地铁",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/c3646339-2706-4b1a-b385-8b9d7404e485.496x372.jpg",
+        "type_id": 289
+    },
+    {
+        "title": "合租·禹洲朗廷元著 4居室 南卧",
+        "houseInfo": "15.00㎡/沌口/距江城大道站706m",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/e7ee7955-b6e9-4e4e-8e37-6ccdb0656617.jpg.496x372.jpg",
+        "type_id": 290
+    },
+    {
+        "title": "合租·保利华都 5居室 南卧",
+        "houseInfo": "武汉合家公寓/25.00㎡/虎泉杨家湾/距杨家湾站896m",
+        "Price": "1050元/月",
+        "tag": [
+            "独立卫生间",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/ef3e56ea-a9ea-461f-9ad5-3451043bd4fa.496x372.jpg",
+        "type_id": 291
+    },
+    {
+        "title": "整租·德盛大厦 2室2厅 南",
+        "houseInfo": "链家/103.13㎡/唐家墩/距竹叶山站345m",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_sc1i1nGKv_1.jpg.496x372.jpg",
+        "type_id": 292
+    },
+    {
+        "title": "整租·花样年幸福万象 1室1厅 南",
+        "houseInfo": "链家/44.66㎡/团结大道/距仁和路站620m",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/a06ca8a0834fd075a5c74eb82e31e7d0-066.jpg.496x372.jpg",
+        "type_id": 293
+    },
+    {
+        "title": "整租·丽水新城 2室2厅 南/北",
+        "houseInfo": "87.35㎡/蔡甸城区/距蔡甸广场站660m",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_GBphDlJst.jpg.496x372.jpg",
+        "type_id": 294
+    },
+    {
+        "title": "整租·恒大首府 4室2厅 南",
+        "houseInfo": "158.90㎡/积玉桥/距三层楼站834m",
+        "Price": "7000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc0_e4SWGnihB_1.jpg.496x372.jpg",
+        "type_id": 295
+    },
+    {
+        "title": "合租·关南小区 2居室 南卧",
+        "houseInfo": "链家/15.00㎡/关山大道",
+        "Price": "1200元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/c1b9a2b6af5bee2ffa4acd4204e4c03f-002.jpg.496x372.jpg",
+        "type_id": 296
+    },
+    {
+        "title": "整租·湖岸嘉苑 4室1厅 南",
+        "houseInfo": "120.00㎡/沌口",
+        "Price": "1700元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/fd793657772019de98a4148b60eadca0-096.jpg.496x372.jpg",
+        "type_id": 297
+    },
+    {
+        "title": "整租·电建澋悦苑 3室2厅 南",
+        "houseInfo": "109.47㎡/古田",
+        "Price": "2580元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/a28dd423-7840-4736-b65d-058782a2af7c.jpg.496x372.jpg",
+        "type_id": 298
+    },
+    {
+        "title": "合租·宝安璞园三期 5居室 南卧",
+        "houseInfo": "寓客/7.00㎡/南湖沃尔玛",
+        "Price": "800元/月",
+        "tag": [
+            "官方核验",
+            "拎包入住",
+            "精装",
+            "独立阳台",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/8d5203b6-537f-44fc-be2b-62c2b5a5796a.496x372.jpg",
+        "type_id": 299
+    },
+    {
+        "title": "整租·丹亭懿府 4室2厅 东南",
+        "houseInfo": "125.73㎡/百步亭/距丹水池站884m",
+        "Price": "2000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/61526f1d048a54e0d0b2ae2669a2e8dc-098.jpg.496x372.jpg",
+        "type_id": 300
+    },
+    {
+        "title": "整租·武珞路358号 2室1厅 东/西",
+        "houseInfo": "74.00㎡/武昌火车站/距梅苑小区站769m",
+        "Price": "1500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_6DjsCG4D5.jpg.496x372.jpg",
+        "type_id": 301
+    },
+    {
+        "title": "整租·天元四季花城 3室2厅 南/北",
+        "houseInfo": "112.30㎡/中法生态城/距知音站1.1km",
+        "Price": "2200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/ce583d6a-e038-408e-b323-1e1b8afe859e.jpg.496x372.jpg",
+        "type_id": 302
+    },
+    {
+        "title": "合租·汉阳人信汇四期天誉 4居室 南卧",
+        "houseInfo": "欧家公寓/21.00㎡/王家湾/距龙阳村站357m",
+        "Price": "1000元/月",
+        "tag": [
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/951d2300-54c2-4dc7-8432-78dd80bd2219.496x372.jpg",
+        "type_id": 303
+    },
+    {
+        "title": "整租·福星惠誉水岸国际澜桥公馆二期 2室2厅 南",
+        "houseInfo": "89.00㎡/沙湖",
+        "Price": "2500元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_yPjE4ePL2_1.jpg.496x372.jpg",
+        "type_id": 304
+    },
+    {
+        "title": "整租·钢都花园126街坊 3室2厅 南",
+        "houseInfo": "99.05㎡/青山/距科普公园站590m",
+        "Price": "2000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/a749909a49a54d520b04dd3cc6960591-032.jpg.496x372.jpg",
+        "type_id": 305
+    },
+    {
+        "title": "整租·碧海花园 5室2厅 复式 南/北",
+        "houseInfo": "254.93㎡/金银湖",
+        "Price": "4000元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/prod-d8f802c3-e273-4032-9e91-4a2786ae3795.jpg.496x372.jpg",
+        "type_id": 306
+    },
+    {
+        "title": "合租·龙阳熙苑 5居室 东南卧",
+        "houseInfo": "欧家公寓/17.00㎡/王家湾/距王家湾站702m",
+        "Price": "840元/月",
+        "tag": [
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/d28082f9-e330-498b-8c1e-f8039633295f.496x372.jpg",
+        "type_id": 307
+    },
+    {
+        "title": "整租·中大长江紫都二期 3室2厅 南/北",
+        "houseInfo": "133.93㎡/白沙洲",
+        "Price": "2000元/月",
+        "tag": [
+            "官方核验",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_G4Liu9X2t.jpg.496x372.jpg",
+        "type_id": 308
+    },
+    {
+        "title": "合租·龙阳熙苑 4居室 南卧",
+        "houseInfo": "欧家公寓/15.00㎡/王家湾/距龙阳村站415m",
+        "Price": "550元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/c01b0efc-b120-487d-9a24-3807a1724d19.496x372.jpg",
+        "type_id": 309
+    },
+    {
+        "title": "整租·百瑞景御院 5室2厅 南/北",
+        "houseInfo": "链家/200.00㎡/中南丁字桥",
+        "Price": "10500元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/b510c9a011732bdb9f346e6b558ec4a3-098.jpg.496x372.jpg",
+        "type_id": 310
+    },
+    {
+        "title": "整租·万景橘苑二期 2室2厅 东南",
+        "houseInfo": "93.00㎡/杨汊湖",
+        "Price": "2400元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_lQb65ZmQw.jpg.496x372.jpg",
+        "type_id": 311
+    },
+    {
+        "title": "整租·珑璟轩 4室2厅 南",
+        "houseInfo": "链家/128.45㎡/盘龙城/距巨龙大道站903m",
+        "Price": "2400元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/e6e75521-31dc-4ef3-b3f8-caf9d96805ab.jpg.496x372.jpg",
+        "type_id": 312
+    },
+    {
+        "title": "整租·长堤街349号 2室1厅 南",
+        "houseInfo": "70.00㎡/宝丰崇仁/距武胜路站621m",
+        "Price": "1000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/1160779cfb33bd267e60d4422bf31096-087.jpg.496x372.jpg",
+        "type_id": 313
+    },
+    {
+        "title": "整租·百胜春天 4室2厅 南/北",
+        "houseInfo": "114.32㎡/后湖",
+        "Price": "2100元/月",
+        "tag": [
+            "官方核验",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_66SdMm0HC_1.jpg.496x372.jpg",
+        "type_id": 314
+    },
+    {
+        "title": "整租·德威大厦 5室3厅 东/南",
+        "houseInfo": "链家/224.88㎡/育才花桥/距赵家条站704m",
+        "Price": "6000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/f6a69c7e2423bf72f28c8a13d75b6816-070.jpg.496x372.jpg",
+        "type_id": 315
+    },
+    {
+        "title": "整租·积玉桥万达SOHO 1室1厅 南",
+        "houseInfo": "40.00㎡/积玉桥/距积玉桥站473m",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/pc1_foWvqcdh8_1.jpg.496x372.jpg",
+        "type_id": 316
+    },
+    {
+        "title": "整租·东湖尚郡 5室2厅 东南",
+        "houseInfo": "链家/133.00㎡/团结大道",
+        "Price": "6700元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/24c16b3cc7150751d284eb33e33c8ddb-059.jpg.496x372.jpg",
+        "type_id": 317
+    },
+    {
+        "title": "整租·解放公园路 3室2厅 西南",
+        "houseInfo": "76.13㎡/黄埔永清/距三阳路站732m",
+        "Price": "1200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_8HPDKeYCM_1.jpg.496x372.jpg",
+        "type_id": 318
+    },
+    {
+        "title": "合租·龙阳熙苑 4居室 南卧",
+        "houseInfo": "欧家公寓/21.00㎡/王家湾",
+        "Price": "1000元/月",
+        "tag": [
+            "月租",
+            "拎包入住",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/e3421a37-fd5a-42c0-a773-df036ce36894.496x372.jpg",
+        "type_id": 319
+    },
+    {
+        "title": "整租·盘龙新天地一期 2室2厅 南",
+        "houseInfo": "103.00㎡/盘龙城",
+        "Price": "1700元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_vYXci1GT0_1.jpg.496x372.jpg",
+        "type_id": 320
+    },
+    {
+        "title": "整租·万科金色城市K3地块 3室2厅 南",
+        "houseInfo": "链家/91.19㎡/白沙洲",
+        "Price": "1900元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/f717a577-8010-4dc3-82bf-83fabc464f34.jpg.496x372.jpg",
+        "type_id": 321
+    },
+    {
+        "title": "合租·新城丽景 3居室 南卧",
+        "houseInfo": "欧家公寓/17.00㎡/钟家村",
+        "Price": "700元/月",
+        "tag": [
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/e19562a0-2ecc-42e3-8f2c-00a252da3201.496x372.jpg",
+        "type_id": 322
+    },
+    {
+        "title": "整租·文秀街7号 1室1厅 南",
+        "houseInfo": "全骋公寓/37.00㎡/珞狮南路/距文治街站593m",
+        "Price": "1260元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/5acce607-6255-4e0a-9ccb-52abdbd0dc8f.496x372.jpg",
+        "type_id": 323
+    },
+    {
+        "title": "整租·文秀街7号 1室1厅 南",
+        "houseInfo": "全骋公寓/37.00㎡/珞狮南路/距文治街站593m",
+        "Price": "1360元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/10c06bd5-ddf7-4cb6-9869-7a4676b13125.496x372.jpg",
+        "type_id": 324
+    },
+    {
+        "title": "整租·文秀街7号 1室1厅 南",
+        "houseInfo": "全骋公寓/37.00㎡/珞狮南路/距文治街站593m",
+        "Price": "1330元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/3b3d7757-e213-4382-9e00-7a4470b9d9e6.496x372.jpg",
+        "type_id": 325
+    },
+    {
+        "title": "整租·金湖听语 3室2厅 南",
+        "houseInfo": "124.71㎡/金银湖/距金银湖站836m",
+        "Price": "1000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_DaDSrgPj0_1.jpg.496x372.jpg",
+        "type_id": 326
+    },
+    {
+        "title": "整租·铁机西区 2室1厅 南",
+        "houseInfo": "链家/70.56㎡/杨园/距余家头站1km",
+        "Price": "1500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/5d9c83575d151db68572709ffdb074bb-096.jpg.496x372.jpg",
+        "type_id": 327
+    },
+    {
+        "title": "整租·福星城北区 1室0厅 南",
+        "houseInfo": "链家/145.33㎡/长港路/距长港路站1km",
+        "Price": "800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/495d0991-f39f-4c17-8ff4-4ef89aa4f76c.jpg.496x372.jpg",
+        "type_id": 328
+    },
+    {
+        "title": "整租·丹亭懿府 3室2厅 南",
+        "houseInfo": "100.10㎡/百步亭",
+        "Price": "1700元/月",
+        "tag": [
+            "官方核验"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/5730656b9aa593a1e395191aebfe4bfe-099.jpg.496x372.jpg",
+        "type_id": 329
+    },
+    {
+        "title": "整租·天元四季花城 3室2厅 南",
+        "houseInfo": "134.59㎡/中法生态城",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/58e4919b-5400-41e7-bf5b-e2ec9d73fcf6.jpg.496x372.jpg",
+        "type_id": 330
+    },
+    {
+        "title": "整租·汉口新界广场 2室2厅 南",
+        "houseInfo": "251.00㎡/武广万松园",
+        "Price": "10000元/月",
+        "tag": [
+            "官方核验",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/091e7b303b1753f8a8c5a0a444abde85-053.jpg.496x372.jpg",
+        "type_id": 331
+    },
+    {
+        "title": "整租·长江明珠 2室2厅 东南",
+        "houseInfo": "91.62㎡/堤角/距朱家河站988m",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/5e206593-4756-43af-8859-6af9a51ce4f3.jpg.496x372.jpg",
+        "type_id": 332
+    },
+    {
+        "title": "整租·江汉大学教工宿舍 2室1厅 南",
+        "houseInfo": "77.82㎡/育才花桥/距赵家条站731m",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_lpcNjJ0zK_1.jpg.496x372.jpg",
+        "type_id": 333
+    },
+    {
+        "title": "整租·文秀街7号 1室1厅 南",
+        "houseInfo": "全骋公寓/37.00㎡/珞狮南路/距文治街站593m",
+        "Price": "1300元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/261c4234-f959-45fb-a4e1-04671f2356ea.496x372.jpg",
+        "type_id": 334
+    },
+    {
+        "title": "整租·文秀街7号 1室1厅 东北",
+        "houseInfo": "全骋公寓/38.00㎡/珞狮南路/距文治街站593m",
+        "Price": "1380元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/de2a9407-9c7c-4e55-be7e-a0169ef056c7.496x372.jpg",
+        "type_id": 335
+    },
+    {
+        "title": "合租·光谷未来城 3居室 南卧",
+        "houseInfo": "自如/16.00㎡/光谷东/距黄龙山路站757m",
+        "Price": "930元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/4f877dcf-ea99-4314-b007-9401b56d6211.496x372.jpg",
+        "type_id": 336
+    },
+    {
+        "title": "合租·光谷未来城 3居室 南卧",
+        "houseInfo": "自如/16.00㎡/光谷东/距黄龙山路站757m",
+        "Price": "960元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/79bbc04c-56d5-4e58-9fc5-ed23984e63ff.496x372.jpg",
+        "type_id": 337
+    },
+    {
+        "title": "整租·华发阳逻金茂逸墅 3室2厅 南/北",
+        "houseInfo": "94.31㎡/阳逻",
+        "Price": "1700元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/fff7c1c5b22f8ae9a0b2c13f84789fb4-040.jpg.496x372.jpg",
+        "type_id": 338
+    },
+    {
+        "title": "整租·文秀街7号 1室1厅 南",
+        "houseInfo": "全骋公寓/37.00㎡/珞狮南路/距文治街站593m",
+        "Price": "1380元/月",
+        "tag": [
+            "租",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/e66e2baf-fe85-412f-a759-ff29ee7c3e18.496x372.jpg",
+        "type_id": 339
+    },
+    {
+        "title": "整租·统建大江园南苑 3室2厅 南",
+        "houseInfo": "132.26㎡/育才花桥",
+        "Price": "4200元/月",
+        "tag": [
+            "官方核验",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/cf85eb0a885c45b9895acbdcfa660b07-035.jpg.496x372.jpg",
+        "type_id": 340
+    },
+    {
+        "title": "合租·大兴路13号 4居室 东南卧",
+        "houseInfo": "久久公寓/10.00㎡/前进江汉/距六渡桥站863m",
+        "Price": "950元/月",
+        "tag": [
+            "月租",
+            "近地铁",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/dab1d427-788e-4560-bffe-87af813205a1.496x372.jpg",
+        "type_id": 341
+    },
+    {
+        "title": "整租·恒大绿洲 3室2厅 西北",
+        "houseInfo": "108.00㎡/中法生态城/距新天站387m",
+        "Price": "1700元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/f541e1fe-9266-43e8-9806-b7e03c0696e2.jpg.496x372.jpg",
+        "type_id": 342
+    },
+    {
+        "title": "整租·武汉二师教工宿舍 2室1厅 南/北",
+        "houseInfo": "链家/56.93㎡/中南丁字桥/距中南路站974m",
+        "Price": "3500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/2d650542-dc82-4a0e-b910-6c6d2d6a1edf.jpg.496x372.jpg",
+        "type_id": 343
+    },
+    {
+        "title": "整租·世纪江尚 2室2厅 东南",
+        "houseInfo": "89.40㎡/前进江汉/距江汉路站342m",
+        "Price": "6200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_wsqlUZoVU_1.jpg.496x372.jpg",
+        "type_id": 344
+    },
+    {
+        "title": "整租·金地自在城 3室2厅 南",
+        "houseInfo": "87.25㎡/团结大道/距仁和路站687m",
+        "Price": "3200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/444663c3-1d5f-4f31-82dd-f69a5f167f9c.jpg.496x372.jpg",
+        "type_id": 345
+    },
+    {
+        "title": "整租·远洋心苑 3室2厅 南/北",
+        "houseInfo": "98.38㎡/长港路/距长港路站1.2km",
+        "Price": "3200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_1XA0Kf7EA.jpg.496x372.jpg",
+        "type_id": 346
+    },
+    {
+        "title": "整租·玉三小区 2室1厅 东",
+        "houseInfo": "67.74㎡/宝丰崇仁/距硚口路站563m",
+        "Price": "1600元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_8551ddYEM_1.jpg.496x372.jpg",
+        "type_id": 347
+    },
+    {
+        "title": "整租·常青花园十三区 2室1厅 南",
+        "houseInfo": "89.00㎡/常青花园/距常青花园站732m",
+        "Price": "2200元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/9d68896c-133a-4927-95a6-7bc4b997a6f8.jpg.496x372.jpg",
+        "type_id": 348
+    },
+    {
+        "title": "整租·世纪星城 1室1厅 东",
+        "houseInfo": "42.20㎡/王家湾/距王家湾站407m",
+        "Price": "1400元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/b2dc27c7078f486dcce646544078db06-007.jpg.496x372.jpg",
+        "type_id": 349
+    },
+    {
+        "title": "整租·汉口城市广场SOHO 1室0厅 南",
+        "houseInfo": "44.85㎡/后湖/距后湖大道站50m",
+        "Price": "1500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/e061343df6b3da6f02f056c9e038a570-024.jpg.496x372.jpg",
+        "type_id": 350
+    },
+    {
+        "title": "整租·远洋东方境世界观 3室2厅 南",
+        "houseInfo": "126.25㎡/钟家村/距钟家村站708m",
+        "Price": "4500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/0487c12e-bd2d-4f9b-b8fc-3aed9c49e0bc.jpg.496x372.jpg",
+        "type_id": 351
+    },
+    {
+        "title": "整租·世茂锦绣长江二期 5室2厅 东南",
+        "houseInfo": "262.00㎡/钟家村/距马鹦路站603m",
+        "Price": "10500元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/a6eb2a00f32a865b258f13bbed4648e5-071.jpg.496x372.jpg",
+        "type_id": 352
+    },
+    {
+        "title": "合租·融侨锦江 5居室 东南卧",
+        "houseInfo": "聚享家公寓/15.00㎡/宗关/距宗关站369m",
+        "Price": "800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/8d32ba9d-5681-432c-8975-658b6e759a2e.496x372.jpg",
+        "type_id": 353
+    },
+    {
+        "title": "整租·文秀街7号 1室1厅 南",
+        "houseInfo": "美滋梦公寓/37.00㎡/珞狮南路/距文治街站593m",
+        "Price": "1380元/月",
+        "tag": [
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/fa34cf8f-233f-49c3-96c2-604cb0b72061.496x372.jpg",
+        "type_id": 354
+    },
+    {
+        "title": "整租·统建锦绣江南 3室1厅 南/北",
+        "houseInfo": "89.05㎡/中北路/距青鱼嘴站1.2km",
+        "Price": "3800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/4643f23542039f244f93cc037e2007f1-007.jpg.496x372.jpg",
+        "type_id": 355
+    },
+    {
+        "title": "整租·宝安中国院子 6室2厅 南/北",
+        "houseInfo": "366.74㎡/盘龙城",
+        "Price": "9000元/月",
+        "tag": [
+            "官方核验",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/bbe3bb0c-e53a-4322-a798-d8838712cdb5.jpg.496x372.jpg",
+        "type_id": 356
+    },
+    {
+        "title": "整租·美联联邦生活区二期城仕 4室1厅 南",
+        "houseInfo": "97.05㎡/塔子湖/距中一路站1.1km",
+        "Price": "2800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/6568a02b-d73a-41b6-865c-f3a1ca35e21e.png.496x372.jpg",
+        "type_id": 357
+    },
+    {
+        "title": "整租·文秀街7号 1室1厅 南",
+        "houseInfo": "美滋梦公寓/37.00㎡/珞狮南路/距文治街站593m",
+        "Price": "1380元/月",
+        "tag": [
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/75dd1e84-b678-461a-900a-b741a54187cb.496x372.jpg",
+        "type_id": 358
+    },
+    {
+        "title": "整租·金地自在城 4室2厅 南",
+        "houseInfo": "135.00㎡/团结大道/距园林路站464m",
+        "Price": "5000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/28f8a8a92849ccb4c64960045cb77a65-056.jpg.496x372.jpg",
+        "type_id": 359
+    },
+    {
+        "title": "整租·水陆小区 3室1厅 南",
+        "houseInfo": "107.60㎡/首义/距复兴路站605m",
+        "Price": "2100元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_CNEFByY7O_1.jpg.496x372.jpg",
+        "type_id": 360
+    },
+    {
+        "title": "合租·保利心语三期 4居室 南卧",
+        "houseInfo": "自如/13.00㎡/[创意天地,马湖,野芷湖,板桥,珞狮南路]/距马湖站611m",
+        "Price": "830元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-house-1/9c5fa5757dc381383834f2a84a08b0b0-1555445040484/1350fd50fbe8f5f93dae570c3e0b8b11.jpg.496x372.jpg",
+        "type_id": 361
+    },
+    {
+        "title": "合租·保利心语三期 5居室 南卧",
+        "houseInfo": "自如/14.50㎡/珞狮南路/距马湖站833m",
+        "Price": "860元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-house-1/9c5fa5757dc381383834f2a84a08b0b0-1587415774635/425344ee4cc462d4f9b81f432bd90a0b.jpg.496x372.jpg",
+        "type_id": 362
+    },
+    {
+        "title": "合租·世纪江尚 4居室 南卧",
+        "houseInfo": "自如/14.10㎡/[前进江汉,菱角湖万达,循礼门]/距江汉路站811m",
+        "Price": "1030元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/34b43bdf-e2b0-41e2-bccd-ac2eec85b48f.496x372.jpg",
+        "type_id": 363
+    },
+    {
+        "title": "合租·汉口花园幽兰居 3居室 北卧",
+        "houseInfo": "自如/15.00㎡/塔子湖/距石桥站836m",
+        "Price": "830元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/55c77656-d204-4c71-bf6d-552299902221.496x372.jpg",
+        "type_id": 364
+    },
+    {
+        "title": "整租·统建同安家园 3室2厅 东南",
+        "houseInfo": "125.40㎡/后湖/距后湖大道站727m",
+        "Price": "2550元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/418ff473-d8f4-4660-9664-9949e53e9b15.jpg.496x372.jpg",
+        "type_id": 365
+    },
+    {
+        "title": "整租·万松小区 4室0厅 东南",
+        "houseInfo": "链家/85.49㎡/武广万松园/距取水楼站809m",
+        "Price": "1800元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_prS1uBOIu_1.jpg.496x372.jpg",
+        "type_id": 366
+    },
+    {
+        "title": "合租·桃花源 3居室 南卧",
+        "houseInfo": "自如/11.90㎡/光谷东",
+        "Price": "790元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/df0b94cc-cdf5-4669-aac7-2e7752ef3c71.496x372.jpg",
+        "type_id": 367
+    },
+    {
+        "title": "合租·东湖睿园 3居室 南卧",
+        "houseInfo": "自如/15.70㎡/东湖东亭/距梨园站586m",
+        "Price": "1030元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "独立阳台",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-house-1/9c5fa5757dc381383834f2a84a08b0b0-1554705719206/8c2651498a1321feab35d8948d8613c7.jpg.496x372.jpg",
+        "type_id": 368
+    },
+    {
+        "title": "整租·万科汉口传奇悦庭 3室2厅 南",
+        "houseInfo": "118.00㎡/长港路/距汉口火车站站822m",
+        "Price": "3400元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_jMX8BDttg_1.jpg.496x372.jpg",
+        "type_id": 369
+    },
+    {
+        "title": "整租·名流人和天地六期 2室1厅 南",
+        "houseInfo": "89.20㎡/盘龙城",
+        "Price": "850元/月",
+        "tag": [
+            "官方核验",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/0f584e332ba531f4bf315d6e650334b6-050.jpg.496x372.jpg",
+        "type_id": 370
+    },
+    {
+        "title": "整租·庭瑞新汉口 2室1厅 复式 南/西北",
+        "houseInfo": "45.00㎡/金银湖",
+        "Price": "900元/月",
+        "tag": [
+            "官方核验",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/pc1_yw4RRzZIF_1.jpg.496x372.jpg",
+        "type_id": 371
+    },
+    {
+        "title": "合租·三阳金城 4居室 南卧",
+        "houseInfo": "自如/10.12㎡/三阳路/距大智路站1.1km",
+        "Price": "930元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/b5856f53-9873-49fd-9e23-02155d0becd0.496x372.jpg",
+        "type_id": 372
+    },
+    {
+        "title": "整租·晋合金桥世家 3室2厅 东南/南",
+        "houseInfo": "链家/102.74㎡/后湖/距市民之家站530m",
+        "Price": "3900元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "双卫生间"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/8cc7bf33-d876-47c9-8980-cc84295c2cbc.jpg.496x372.jpg",
+        "type_id": 373
+    },
+    {
+        "title": "整租·香奈天鹅湖 3室2厅 东南",
+        "houseInfo": "73.47㎡/盘龙城",
+        "Price": "1500元/月",
+        "tag": [
+            "官方核验",
+            "双卫生间",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/420100-inspection/02b20785-b9a3-4358-84d8-6c4ed39b3c01.jpg.496x372.jpg",
+        "type_id": 374
+    },
+    {
+        "title": "合租·汉口花园幽兰居 3居室 南卧",
+        "houseInfo": "自如/12.00㎡/塔子湖/距石桥站836m",
+        "Price": "630元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/5a4a532a-cf2b-4065-9361-c8fd78f31f8b.496x372.jpg",
+        "type_id": 375
+    },
+    {
+        "title": "整租·碧桂园蜜柚 2室2厅 南",
+        "houseInfo": "链家/59.90㎡/塔子湖/距市民之家站974m",
+        "Price": "1000元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/d2ff6a47-95e9-4295-a03e-47b831ca20cb.jpg.496x372.jpg",
+        "type_id": 376
+    },
+    {
+        "title": "整租·融侨锦城 2室1厅 南",
+        "houseInfo": "链家/50.00㎡/古田/距古田三路站504m",
+        "Price": "1700元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/ffd5b64fb2da2deedd576da0424228c8-092.jpg.496x372.jpg",
+        "type_id": 377
+    },
+    {
+        "title": "整租·江南花园 2室2厅 南",
+        "houseInfo": "101.89㎡/杨园/距杨园铁四院站1.1km",
+        "Price": "2400元/月",
+        "tag": [
+            "官方核验",
+            "近地铁",
+            "精装"
+        ],
+        "picLink": "https://image1.ljcdn.com/110000-inspection/abccfe8b74f7eb559863e6f6d3aa04de-061.jpg.496x372.jpg",
+        "type_id": 378
+    },
+    {
+        "title": "合租·汉口花园幽兰居 3居室 南卧",
+        "houseInfo": "自如/10.00㎡/塔子湖/距石桥站827m",
+        "Price": "660元/月",
+        "tag": [
+            "官方核验",
+            "月租",
+            "拎包入住",
+            "近地铁",
+            "精装",
+            "押一付一",
+            "随时看房"
+        ],
+        "picLink": "https://image1.ljcdn.com/rent-user-avatar/c0c32d9d-06e7-41ed-9c23-22b91a45362a.496x372.jpg",
+        "type_id": 379
+    }
+]

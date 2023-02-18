@@ -1,0 +1,28 @@
+[
+    {
+        "partnerId": 0,
+        "storeId": 0,
+        "memberId": 790812,
+        "productId": 2193,
+        "productName": "飞科儿童电动牙刷FT7110萌动绿",
+        "productSn": "FT7110MDL",
+        "productPic": "https://pic.flyco.net.cn/mall/goods/FT7110MDL/main/FT7110绿-主图-天猫_1639719036853.png",
+        "productSubTitle": "",
+        "productPrice": 299,
+        "createTime": "2022-11-30 19:55:38",
+        "status": "正常"
+    },
+    {
+        "partnerId": 0,
+        "storeId": 0,
+        "memberId": 790812,
+        "productId": 2546,
+        "productName": "飞科儿童电动牙刷FT7110天使蓝",
+        "productSn": "FT7110TSL",
+        "productPic": "https://pic.flyco.net.cn/mall/goods/FT7110TSL/main/蓝色_1661523060916.jpg",
+        "productSubTitle": "",
+        "productPrice": 299,
+        "createTime": "2022-11-30 19:55:05",
+        "status": "正常"
+    }
+]

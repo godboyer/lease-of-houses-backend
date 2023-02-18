@@ -1,0 +1,10 @@
+{
+  "data": {
+    "goodsCount": 3, //"商品计数"
+    "goodsAmount": 637,   //金额计数
+    "checkedGoodsCount": 3,
+    "checkedGoodsAmount": 637,
+    "checkedTotalPromotionAmount": 0,
+    "checkedTotalAddBuyAmount": 0  //已检查总添加购买金额
+  }
+}

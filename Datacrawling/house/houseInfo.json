@@ -1,0 +1,2482 @@
+[
+  {
+    "house_id": "808127924",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "1040 /月",
+    "house_description": "房源位置\n这是1套位于京汉城市广场的品质房源。小区共有8栋楼。小区有24小时安保。小区是开放式结构。房源距离此门较近。内部配套设施有饮水站，快递柜。菜篮子，小超市，便利店靠近房源所在楼栋，方便购买生活所需。单元楼附近就是饮水站，操作简便，满足居民24小时的饮水需求。楼栋概况\n小区是2020年建的，楼栋外立面较新。楼栋总层数为49层，楼道、电梯有专人定期清扫消毒。单元配备门禁。房源概况\n房源在第32层，是城市景观房，视野好。这套房源朝北。厨房里配备了国内外一线品牌的烟机灶具。卫生间干净整洁，集淋浴、洗漱、如厕为一体。南北侧均有窗户，通风顺畅，为南北通透的户型。起居室和卧室均朝南。此套为您介绍的房源，有2间卧室，是您和家人同住很好的选择。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1667888952808/8069122/realsee_edit/media_files/579cc72619edbab9dcbf14fdce71e4bf.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/8f641404-7e7a-4180-ba23-22c605da2830_229.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/8f641404-7e7a-4180-ba23-22c605da2830_229.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/96f1e49c-7593-4b53-930d-5511267bf68e_297.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d7b6a1cd-32d6-4ff1-b170-91173f9a17e7_555.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7a522bcd-5f8c-49d1-b9df-4ee37d6e060e_580.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bca3e683-5847-4b5b-af2d-a03bef1a0d55_659.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e121fa3e-39bf-4e5e-8896-fa4f0a1351c1_766.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/759d775a-f709-47ca-95f2-1ac60f23d4e8_139.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7f94c99f-ad24-48ea-a3f2-cf1c58781f39_490.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f8e72b58-4004-4628-96be-69ce47041c97_655.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dab81708-1dea-400f-a148-b02da3896067_718.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/fb62026c-d8f6-4158-b74c-54a19bb28677_638.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/77/E4/ChAZYWNp-Y6Ad15DAAFAD43lA18635.png_C_380_285_Q80.png"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1667888952808/8069122/realsee_edit/media_files/579cc72619edbab9dcbf14fdce71e4bf.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/8f641404-7e7a-4180-ba23-22c605da2830_229.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8f641404-7e7a-4180-ba23-22c605da2830_229.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/96f1e49c-7593-4b53-930d-5511267bf68e_297.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d7b6a1cd-32d6-4ff1-b170-91173f9a17e7_555.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7a522bcd-5f8c-49d1-b9df-4ee37d6e060e_580.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bca3e683-5847-4b5b-af2d-a03bef1a0d55_659.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e121fa3e-39bf-4e5e-8896-fa4f0a1351c1_766.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/759d775a-f709-47ca-95f2-1ac60f23d4e8_139.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7f94c99f-ad24-48ea-a3f2-cf1c58781f39_490.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f8e72b58-4004-4628-96be-69ce47041c97_655.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dab81708-1dea-400f-a148-b02da3896067_718.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/fb62026c-d8f6-4158-b74c-54a19bb28677_638.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/77/E4/ChAZYWNp-Y6Ad15DAAFAD43lA18635.png_C_800_600_Q100.png"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_101592/20220414_56286187.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "冰箱", "icon": "iconbingxiang" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "床", "icon": "iconchuang" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "需签约至2023-12-12" },
+        {
+          "label": "签约须知",
+          "value": "精选业主直租不支持转租，不支持企业签约"
+        },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "建筑面积", "value": "72㎡" },
+        { "label": "朝向", "value": "朝北" },
+        { "label": "户型", "value": "2室1厅" },
+        { "label": "位置", "value": "小区距1号线大智路站步行约44米" },
+        { "label": "楼层", "value": "32/49" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2020年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "30%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60024600.png", "60024600"],
+      "house_name": "业主直租·京汉城市广场·2居室",
+      "username": "邴笑",
+      "phone": "01056801900 转 208036",
+      "pic": "http://pic.ziroom.com/steward_images/60024600.png?time=20220902163657&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "809262281",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "947 /月",
+    "house_description": "房源位置\n这是1套自如品质房源，位于保利上城西区。总共有9栋楼。小区里有快递柜。楼栋概况\n房源所在小区建于2021年，楼栋外立面很新。房源所在楼栋共有39层。2梯4户。有保洁阿姨定期维护楼道、走廊的卫生。单元安装有门禁，很安全。房源概况\n这间5居室的06卧面积宽敞，为奔波在都市的您提供了舒适的港湾。该房源在18层，卧室朝南。卧室里有独立阳台，贯穿室内室外的景致，将空间延伸到室外。厨房有窗户，油烟味比较容易散出。公用卫生间采用干湿分离设计，既安全又卫生。公用卫生间有窗户，方便异味排散。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1666255189365/5918652/realsee_edit/media_files/13a5679f23e14280abed35f85b0f3e7e.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/feb2e9e0-0cf1-4055-9dc7-d053bfa7770c_260.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/feb2e9e0-0cf1-4055-9dc7-d053bfa7770c_260.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/11cb31f1-10a4-4646-ae17-e7ef9882a9fe_313.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/715e4ab3-422b-49fb-8d6f-f8a631fb012a_091.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e721b336-fe78-4bf2-ad1d-007c86443b94_105.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/89f70b36-3802-4374-87a8-ac6ec137c875_670.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/afad3648-6268-4a38-927b-5fae0dc5068f_663.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5ac75fb5-7c8a-41d6-b568-d82451742134_388.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/54cd0f9c-c0e0-4e46-83bf-51c7b70b6747_268.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4f626419-2ca1-48ab-9294-42ad90d94521_111.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/A7/B2/ChAZYWOde5WAObU7AAJS5-zSsOI092.png_C_380_285_Q80.png"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1666255189365/5918652/realsee_edit/media_files/13a5679f23e14280abed35f85b0f3e7e.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/feb2e9e0-0cf1-4055-9dc7-d053bfa7770c_260.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/feb2e9e0-0cf1-4055-9dc7-d053bfa7770c_260.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/11cb31f1-10a4-4646-ae17-e7ef9882a9fe_313.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/715e4ab3-422b-49fb-8d6f-f8a631fb012a_091.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e721b336-fe78-4bf2-ad1d-007c86443b94_105.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/89f70b36-3802-4374-87a8-ac6ec137c875_670.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/afad3648-6268-4a38-927b-5fae0dc5068f_663.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5ac75fb5-7c8a-41d6-b568-d82451742134_388.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/54cd0f9c-c0e0-4e46-83bf-51c7b70b6747_268.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4f626419-2ca1-48ab-9294-42ad90d94521_111.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/A7/B2/ChAZYWOde5WAObU7AAJS5-zSsOI092.png_C_800_600_Q100.png"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102344/20221027_48805293.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "17.06㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "5室1厅" },
+        { "label": "位置", "value": "小区距5号线张家湾站步行约801米" },
+        { "label": "楼层", "value": "18/39" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2021年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "30%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60030778.png", "60030778"],
+      "house_name": "自如友家·保利上城西区·5居室-06卧",
+      "username": "曾雄",
+      "phone": "01056801900 转 208161",
+      "pic": "http://pic.ziroom.com/steward_images/60030778.png?time=20220112174515&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808088220",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2858 /月",
+    "house_description": "房源位置\n这套品质房源，位于十里华府。共有6栋楼。有可出租的车位。小区有1个门。房源离小区大门不远，出行方便。有多项设施供住户使用，如饮水站，快递柜，花园。房源的附近就是健身广场，锻炼方便。楼栋概况\n小区是2009年建立的，楼栋内外环境好。单元有门禁，安全性较高。楼栋一共有18层，2梯4户，住户密度小，比较安静。楼栋的楼道、墙壁等都会有人定期清洁。房源概况\n这间4居室的05卧面积较大，两人住也不会太拥挤。房源在第4层，在窗边可欣赏小区的花园景色。这间房是朝南的卧室。卧室配有惬意又舒适的阳台，让空间更加通透。装修亮点\n房间为原木色系，融合棉、麻的设计，让您在简单的空间中享受贴近自然的生活。房间为环保装修，板材结实耐用。且配备了国内外一线品牌家电，品质安全有保障。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653619964875/1867219/realsee_edit/media_files/acddafa34b82804bae8c0f59228a6cc6.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/84e96f2d-58b9-4cd9-a81f-62a4d76c20ee_919.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8d80d41b-3ba8-4e7f-8a15-592ff17ddc05_850.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5ace95c3-a9b8-4532-a0f8-1b6d87c1f7c2_461.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e306f567-a617-4447-bbab-c9ba19e6765d_665.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e1c697b2-1ac3-4b1d-a1eb-904216561477_879.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8887c845-2d2c-4374-bbe1-39ea58e27994_730.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c5b50dee-012e-48fd-8676-0a4038bd73fa_805.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/473e5c29-59c4-46b5-a93e-7c08474660cd_498.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f49ca264-169f-4698-8412-82aa767f3b35_001.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/53ead545-dd0b-48cc-867a-1ffffcebd168_849.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/eac0e3d5-c8c7-4c60-9f34-0c5e83a8fb37.png_C_380_285_Q80.png"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653619964875/1867219/realsee_edit/media_files/acddafa34b82804bae8c0f59228a6cc6.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/84e96f2d-58b9-4cd9-a81f-62a4d76c20ee_919.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8d80d41b-3ba8-4e7f-8a15-592ff17ddc05_850.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5ace95c3-a9b8-4532-a0f8-1b6d87c1f7c2_461.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e306f567-a617-4447-bbab-c9ba19e6765d_665.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e1c697b2-1ac3-4b1d-a1eb-904216561477_879.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8887c845-2d2c-4374-bbe1-39ea58e27994_730.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c5b50dee-012e-48fd-8676-0a4038bd73fa_805.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/473e5c29-59c4-46b5-a93e-7c08474660cd_498.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f49ca264-169f-4698-8412-82aa767f3b35_001.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/53ead545-dd0b-48cc-867a-1ffffcebd168_849.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/eac0e3d5-c8c7-4c60-9f34-0c5e83a8fb37.png_C_800_600_Q100.png"
+    ],
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "床", "icon": "iconchuang" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "预计2023-01-31可入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "约19㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距4号线十里铺站步行约265米" },
+        { "label": "楼层", "value": "4/18" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2009年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "40%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60042107.png", "60042107"],
+      "house_name": "自如友家·十里华府·4居室-05卧",
+      "username": "王小双",
+      "phone": "01056801900 转 208259",
+      "pic": "http://pic.ziroom.com/steward_images/60042107.png?time=20220621174639&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "792810085",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "1292 /月",
+    "house_description": "房源位置\n这套舒适雅致的房源位于保利公园九里五期。小区共有9栋楼。在小区内可以看到全天执勤的安保人员。该小区日常开放3个门。房源离东门较近，走一会就到了。小区内配备饮水站，快递柜。其中便利店就在楼下，生活便利。房源附近有篮球场，锻炼身体很方便。楼栋概况\n房源所在小区建于2018年，楼栋外立面很新。楼栋共有34层，2梯4户，私密性好。小区注重卫生管理，会定期安排人员维护楼栋的卫生。单元有门禁。房源概况\n这间4居室的05卧面积较大，两人住也不会太拥挤。房源位于第25层，在窗边能俯瞰波澜水面，城市美景尽收眼底。卧室朝南，白天光照充足，冬天比较暖和。厨房有1扇窗户，采光通风好。公用卫生间有窗户，保证了通风采光。装修亮点\n卧室的装修以灰、粉色为主，营造出简约低调的居室氛围。房间优选环保无醛板材，为您居住安全保驾护航。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://imgpro.ziroom.com/9656c281-92ec-4c59-ac73-cc20cff03da6_525.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/9656c281-92ec-4c59-ac73-cc20cff03da6_525.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/eb352fc7-3a8a-45d2-95de-37d32c74cc40_920.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6105ab8f-636a-48bf-b464-d6ecb693f45e_306.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6a42406f-b32a-4d52-8078-744e2dc7dcae_612.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/2f03b1b109da8e18f8252f0b914534aa_395.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/fab49dc15c72b33f0ad634057235de7a_876.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7681851e0a7cc1ce230891f6ede7c692_023.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/38d0175730a7ec5ccbfa14f2a2aa7259_933.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/84f38ab3e12c0f805eb8d394d8c605b5_343.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/72/23/ChAZYWNki_uAB-XxAAI7YNpr4Ss077.png_C_380_285_Q80.png"
+    ],
+    "swiper_BigPic": [
+      "https://imgpro.ziroom.com/9656c281-92ec-4c59-ac73-cc20cff03da6_525.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/9656c281-92ec-4c59-ac73-cc20cff03da6_525.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/eb352fc7-3a8a-45d2-95de-37d32c74cc40_920.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6105ab8f-636a-48bf-b464-d6ecb693f45e_306.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6a42406f-b32a-4d52-8078-744e2dc7dcae_612.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/2f03b1b109da8e18f8252f0b914534aa_395.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/fab49dc15c72b33f0ad634057235de7a_876.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7681851e0a7cc1ce230891f6ede7c692_023.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/38d0175730a7ec5ccbfa14f2a2aa7259_933.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/84f38ab3e12c0f805eb8d394d8c605b5_343.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/72/23/ChAZYWNki_uAB-XxAAI7YNpr4Ss077.png_C_800_600_Q100.png"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102344/20221109_50545397.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "沙发", "icon": "iconshafa" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "书架", "icon": "iconshujia" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "椅子", "icon": "iconyizi" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "18.4㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距7号线建安街站步行约503米" },
+        { "label": "楼层", "value": "25/34" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2018年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "35%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60030778.png", "60030778"],
+      "house_name": "自如友家·保利公园九里五期·4居室-05卧",
+      "username": "曾雄",
+      "phone": "01056801900 转 208161",
+      "pic": "http://pic.ziroom.com/steward_images/60030778.png?time=20220112174515&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808988924",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "1875 /月",
+    "house_description": "房源位置\n房源位于百步亭长青壹号。小区一共有12个楼栋。全天有保安执勤。小区共开放2个门。小区配套成熟，有健身广场，塑胶跑道，快递柜，花园。饮水站就在楼下，方便自取饮用纯净水。楼栋旁边就是健身广场，适合爱健身的朋友。楼栋概况\n这个2019年新建的小区，配套设施都比较新。楼栋总层数为33层，2梯4户，等待电梯时间短。有保洁阿姨定期维护楼道、走廊的卫生。单元口有门禁，住起来更安心。房源概况\n这间3居室的01卧空间较大，可以独住、合住。房源在25层，享有无遮挡城市观景视野。卧室朝向为南。厨房有窗户，可以通风散味。公用卫生间有窗户，方便通风换气。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653656304609/2720421/realsee_edit/media_files/1ZD07uoPrc4.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/8bf33236-f2e4-495a-96c6-5bd82f3333dd_572.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/8bf33236-f2e4-495a-96c6-5bd82f3333dd_572.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1b08a6bc-c0d8-4371-b0a0-927d221a1c48_067.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f522d836-0d8c-4587-ac6d-dea1dc7dbd82_913.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5ec8d9f8-685b-48b7-a9dc-7d6675512f7d_452.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5fed6ece-7350-4a6a-a61e-9a475d182a19_522.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/9ae44683-6528-40b2-ac4d-f22e2369d274_097.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1b1ad59c-1ebd-4db3-81c6-47064a9cecfc_861.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/59cb9d94-0cc8-4a42-bb3a-655cdef3c849_264.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4ba2a6a9-42ae-4cae-a82c-8e5ce2bd8383_550.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/AE/3F/ChAZ2GO05oyAEVD8AAI2mJEXG_A618.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653656304609/2720421/realsee_edit/media_files/1ZD07uoPrc4.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/8bf33236-f2e4-495a-96c6-5bd82f3333dd_572.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8bf33236-f2e4-495a-96c6-5bd82f3333dd_572.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1b08a6bc-c0d8-4371-b0a0-927d221a1c48_067.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f522d836-0d8c-4587-ac6d-dea1dc7dbd82_913.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5ec8d9f8-685b-48b7-a9dc-7d6675512f7d_452.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5fed6ece-7350-4a6a-a61e-9a475d182a19_522.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/9ae44683-6528-40b2-ac4d-f22e2369d274_097.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1b1ad59c-1ebd-4db3-81c6-47064a9cecfc_861.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/59cb9d94-0cc8-4a42-bb3a-655cdef3c849_264.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4ba2a6a9-42ae-4cae-a82c-8e5ce2bd8383_550.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/AE/3F/ChAZ2GO05oyAEVD8AAI2mJEXG_A618.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102867/20220426_00851002.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "17㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "3室1厅" },
+        { "label": "位置", "value": "小区距2号线常青花园站步行约440米" },
+        { "label": "楼层", "value": "25/33" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2019年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "30%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60043567.png", "60043567"],
+      "house_name": "自如友家·百步亭长青壹号·3居室-01卧",
+      "username": "李华钱",
+      "phone": "01056801900 转 208240",
+      "pic": "http://pic.ziroom.com/steward_images/60043567.png?time=20220916184006&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "807838971",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "3632 /月",
+    "house_description": "房源位置\n房源位于光明上海公馆。一共有9个楼栋。有24小时安保。小区有1个大门。内部配有快递柜，花园。楼栋概况\n小区于2014年建成，楼体及小区设施都很新。楼栋总层数为40层，楼道卫生状况较好，日常有保洁阿姨专门清扫。单元口有门禁，住起来更安心。房源概况\n该房源有5间卧室，这间是06卧，比较宽敞，如果你喜欢运动，可以摆放一些运动器械。房源位于第26层，卧室朝南。卧室配有惬意又舒适的阳台，让空间更加通透。装修亮点\n卧室装修为原木色系，让人在木色与白色的交织中，感受自然纯粹。房间优选环保无醛板材，为您居住安全保驾护航。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653653662112/7009192/realsee_edit/media_files/e5ea7baf22a4093172b41c8380a6ae85.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/9d7f5f6f-4314-4465-8b0a-eebc9666759e_083.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dc83f194-a82f-4a9f-bc38-290deaf036a3_009.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/fe4818e3-58ef-4455-ac36-da5431303599_848.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b42caf4e-ebee-4cb1-9aa3-0122793ab137_171.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3335d1d9-e8e7-4320-8c2b-344cdd639048_764.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/27c90762-caf5-4223-8951-4d88591d7ea0_631.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/40b17bc5-b6df-4bce-ba06-1cf127611ba3_083.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/df1255f5-f57d-450d-a1e2-fd754157898d_214.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/9e342966-11bb-489c-967b-ec04c2c1977e_510.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a9a182fd-ad30-4d38-985f-90befcb806c4_229.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ba5811c4-fabb-4c50-92d9-1c1bf8d504fd_915.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1817f7ee-cc45-4d74-9d69-3e52c491bba1_566.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/579461f4-3f69-455f-a8e4-6d6c39df5127_030.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/81a0cbe8-358b-480f-9808-a2fdb3187f3b_971.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m3/M00/07/C5/ChAZVGAPDHaAWwSWAAdIVlQJJJk921.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653653662112/7009192/realsee_edit/media_files/e5ea7baf22a4093172b41c8380a6ae85.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/9d7f5f6f-4314-4465-8b0a-eebc9666759e_083.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dc83f194-a82f-4a9f-bc38-290deaf036a3_009.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/fe4818e3-58ef-4455-ac36-da5431303599_848.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b42caf4e-ebee-4cb1-9aa3-0122793ab137_171.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3335d1d9-e8e7-4320-8c2b-344cdd639048_764.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/27c90762-caf5-4223-8951-4d88591d7ea0_631.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/40b17bc5-b6df-4bce-ba06-1cf127611ba3_083.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/df1255f5-f57d-450d-a1e2-fd754157898d_214.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/9e342966-11bb-489c-967b-ec04c2c1977e_510.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a9a182fd-ad30-4d38-985f-90befcb806c4_229.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ba5811c4-fabb-4c50-92d9-1c1bf8d504fd_915.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1817f7ee-cc45-4d74-9d69-3e52c491bba1_566.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/579461f4-3f69-455f-a8e4-6d6c39df5127_030.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/81a0cbe8-358b-480f-9808-a2fdb3187f3b_971.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m3/M00/07/C5/ChAZVGAPDHaAWwSWAAdIVlQJJJk921.jpg_C_800_600_Q100.jpg"
+    ],
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "衣柜", "icon": "iconyigui" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "15.9㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "5室1厅" },
+        { "label": "位置", "value": "小区距8号线塔子湖站步行约592米" },
+        { "label": "楼层", "value": "26/40" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2014年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "35%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60040119.png", "60040119"],
+      "house_name": "自如友家·光明上海公馆·5居室-06卧",
+      "username": "李小龙",
+      "phone": "01056801900 转 208054",
+      "pic": "http://pic.ziroom.com/steward_images/60040119.png?time=20220318193751&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "809335424",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2665 /月",
+    "house_description": "",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1673353327930/4545822/realsee_edit/media_files/1ZClL6Pknq8.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/319f6cd4-d965-4828-b5b7-87606dca8766_696.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/319f6cd4-d965-4828-b5b7-87606dca8766_696.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/462fa3c9-e94d-48dc-be97-51b1425adef2_894.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b709c08d-7cd2-46fb-87e6-5c78b7fb8e48_854.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0cf0e541-6734-40fa-afa0-0513e985405a_698.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4d1cd259-3228-490a-97dd-375014c6c268_661.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e2f34986-0243-4aee-943f-7a5a198f1ebf_607.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/039db962-df9b-4a27-9a82-2894268852b5_875.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/998ec96d-0955-4f3c-9be3-bf8861c7847f.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1673353327930/4545822/realsee_edit/media_files/1ZClL6Pknq8.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/319f6cd4-d965-4828-b5b7-87606dca8766_696.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/319f6cd4-d965-4828-b5b7-87606dca8766_696.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/462fa3c9-e94d-48dc-be97-51b1425adef2_894.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b709c08d-7cd2-46fb-87e6-5c78b7fb8e48_854.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0cf0e541-6734-40fa-afa0-0513e985405a_698.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4d1cd259-3228-490a-97dd-375014c6c268_661.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e2f34986-0243-4aee-943f-7a5a198f1ebf_607.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/039db962-df9b-4a27-9a82-2894268852b5_875.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/998ec96d-0955-4f3c-9be3-bf8861c7847f.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_101656/20230115_90313282.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "床垫", "icon": "iconchuangdian" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "预计2024-01-31可入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "18㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距6号线杨汊湖站步行约796米" },
+        { "label": "楼层", "value": "33/34" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2018年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "35%" }
+      ]
+    },
+    "Homeowner_info": {
+      "house_name": "自如友家·融创融公馆·4居室-05卧",
+      "username": "",
+      "phone": ""
+    }
+  },
+  {
+    "house_id": "809357719",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "1027 /月",
+    "house_description": "",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1673178530194/763697/realsee_edit/media_files/5566b1db4f322958ceccf813bcfd93fe.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/e0cdafba-9224-4627-933a-dbb8cb712f97_007.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/e0cdafba-9224-4627-933a-dbb8cb712f97_007.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d5eab2ff-5216-4cf4-8794-fa9bcde31fb6_812.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c46d550b-657d-4664-948c-9f69f79e9663_477.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0361194e-e34d-413d-a34c-8ad145472756_461.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ed8d6c0f-faa2-4f9b-8c66-99c9aedbb94c_754.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/36d0c58c-0338-44ab-b1af-320caa7f06ff_057.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5926240e-b08a-47c3-bdfa-5a01642b7231_468.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/79b67c73-3c9d-4a30-a720-8e011a8a8934_002.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/441a2f03-b7f1-4e98-9166-5b5b84141b97_471.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/78f03454-b7d6-4097-bb30-06a90e91dc5b_106.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/c956508a-98b5-4ab7-8952-db2248bd65d1.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1673178530194/763697/realsee_edit/media_files/5566b1db4f322958ceccf813bcfd93fe.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/e0cdafba-9224-4627-933a-dbb8cb712f97_007.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e0cdafba-9224-4627-933a-dbb8cb712f97_007.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d5eab2ff-5216-4cf4-8794-fa9bcde31fb6_812.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c46d550b-657d-4664-948c-9f69f79e9663_477.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0361194e-e34d-413d-a34c-8ad145472756_461.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ed8d6c0f-faa2-4f9b-8c66-99c9aedbb94c_754.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/36d0c58c-0338-44ab-b1af-320caa7f06ff_057.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5926240e-b08a-47c3-bdfa-5a01642b7231_468.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/79b67c73-3c9d-4a30-a720-8e011a8a8934_002.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/441a2f03-b7f1-4e98-9166-5b5b84141b97_471.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/78f03454-b7d6-4097-bb30-06a90e91dc5b_106.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/c956508a-98b5-4ab7-8952-db2248bd65d1.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102248/20230111_01354562.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "衣柜", "icon": "iconyigui" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "19.43㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距4号线玉龙路站步行约794米" },
+        { "label": "楼层", "value": "3/45" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2017年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "25%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60035741.png", "60035741"],
+      "house_name": "自如友家·磨山港湾·4居室-05卧",
+      "username": "陈文锋",
+      "phone": "01056801900 转 208091",
+      "pic": "http://pic.ziroom.com/steward_images/60035741.png?time=20210910193318&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808377033",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "3736 /月",
+    "house_description": "房源位置\n这是1套自如品质房源，位于锦绣汉江六区。总共有1栋楼。有保安负责维护小区安全。内部配有小超市。楼栋概况\n房源所在小区建于2020年，楼栋外立面很新。楼栋共48层，2梯4户，住户密度小，比较安静。楼栋的楼道、墙壁等都会有人定期清洁。出入单元需通过门禁。房源概况\n这间3居室的03卧面积宽敞，为奔波在都市的您提供了舒适的港湾。房源在第15层，卧室朝南。有惬意又舒适的独立阳台。厨房有1扇窗户，采光通风好。公区的卫生间为明窗设计，以便及时排除湿气。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653627242703/7944069/realsee_edit/media_files/db9369bcdca77d9b873d90cadc4909d7_1Zspc3fIJDN.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/f0d777c8-3273-4450-994f-46fd0fd724a7_589.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/f0d777c8-3273-4450-994f-46fd0fd724a7_589.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d69cc399-35c8-4cd3-9f16-d4439088a561_431.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a01bc705-a356-47d9-b032-841168e93692_979.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/43f55bd7-9403-47aa-b574-1f17d48eb5c3_787.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7133f449-6d33-4e48-8643-358e8770fe24_320.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bc7e09ed-e330-4ac1-bb84-d9e907879df6_339.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/188b6463-b8ee-40fb-a6bd-6a1aecb1175e_006.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0d247665-350b-4c73-addf-7f3ab9eaa080_094.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/2de938f6-3a4f-4819-8a85-3b759df9955d_842.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/48ce80bb-ffb0-4858-b990-7f98d1d5585e_473.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/23/19/ChAZ2GMdcqiAT9vQAAD79kf2hnw028.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653627242703/7944069/realsee_edit/media_files/db9369bcdca77d9b873d90cadc4909d7_1Zspc3fIJDN.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/f0d777c8-3273-4450-994f-46fd0fd724a7_589.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f0d777c8-3273-4450-994f-46fd0fd724a7_589.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d69cc399-35c8-4cd3-9f16-d4439088a561_431.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a01bc705-a356-47d9-b032-841168e93692_979.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/43f55bd7-9403-47aa-b574-1f17d48eb5c3_787.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7133f449-6d33-4e48-8643-358e8770fe24_320.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bc7e09ed-e330-4ac1-bb84-d9e907879df6_339.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/188b6463-b8ee-40fb-a6bd-6a1aecb1175e_006.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0d247665-350b-4c73-addf-7f3ab9eaa080_094.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/2de938f6-3a4f-4819-8a85-3b759df9955d_842.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/48ce80bb-ffb0-4858-b990-7f98d1d5585e_473.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/23/19/ChAZ2GMdcqiAT9vQAAD79kf2hnw028.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_103277/20220527_78957163.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "冰箱", "icon": "iconbingxiang" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "17㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "3室1厅" },
+        { "label": "位置", "value": "小区距4号线玉龙路站步行约247米" },
+        { "label": "楼层", "value": "15/48" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2020年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "暂无数据" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60042107.png", "60042107"],
+      "house_name": "自如友家·锦绣汉江六区·3居室-03卧",
+      "username": "王小双",
+      "phone": "01056801900 转 208259",
+      "pic": "http://pic.ziroom.com/steward_images/60042107.png?time=20220621174639&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808163456",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "3382 /月",
+    "house_description": "",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653623207693/9910130/realsee_edit/media_files/92fcccb54d8a961f08cebf0aa5364842.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/92ee220d-2b98-472f-8b99-656b2238f730_898.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/92ee220d-2b98-472f-8b99-656b2238f730_898.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6a775f8c-46d4-4443-bff9-0717928a104c_303.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/11ab6029-ae00-4322-a114-6e3023cd728b_435.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1e9784ce-e6e5-48d2-9deb-3e111c3de1da_320.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/eb4570d1-2261-4f14-add5-48f408b76905_623.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/668adde6-ef8a-4225-9180-0a1905a8cbaf_861.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ff2a0fa6-2753-4401-816b-86e9e7c39e93_601.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/29f87f46-aec5-45c4-958c-6edf3d857dc6_652.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5369e3c3-5045-4c1e-bc4a-60e812af719b_119.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8f1206ee-e24c-437d-b56e-680a8848e024_277.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/12/B4/ChAZ2GEWQQqAaSI-AAIgo45whrc033.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653623207693/9910130/realsee_edit/media_files/92fcccb54d8a961f08cebf0aa5364842.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/92ee220d-2b98-472f-8b99-656b2238f730_898.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/92ee220d-2b98-472f-8b99-656b2238f730_898.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6a775f8c-46d4-4443-bff9-0717928a104c_303.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/11ab6029-ae00-4322-a114-6e3023cd728b_435.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1e9784ce-e6e5-48d2-9deb-3e111c3de1da_320.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/eb4570d1-2261-4f14-add5-48f408b76905_623.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/668adde6-ef8a-4225-9180-0a1905a8cbaf_861.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ff2a0fa6-2753-4401-816b-86e9e7c39e93_601.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/29f87f46-aec5-45c4-958c-6edf3d857dc6_652.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5369e3c3-5045-4c1e-bc4a-60e812af719b_119.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8f1206ee-e24c-437d-b56e-680a8848e024_277.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/12/B4/ChAZ2GEWQQqAaSI-AAIgo45whrc033.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102867/20210904_12107543.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "冰箱", "icon": "iconbingxiang" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床垫", "icon": "iconchuangdian" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "预计2023-02-02可入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "17.8㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "3室1厅" },
+        { "label": "位置", "value": "小区距2号线常青城站步行约547米" },
+        { "label": "楼层", "value": "3/30" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2017年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "30%" }
+      ]
+    },
+    "Homeowner_info": {
+      "house_name": "自如友家·地铁时代常青城·3居室-03卧",
+      "username": "朱蓉佳",
+      "phone": ""
+    }
+  },
+  {
+    "house_id": "807342223",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "1588 /月",
+    "house_description": "房源位置\n本套自如房源位于惠东花园。小区总共有7栋楼。在小区内可以看到全天执勤的安保人员。小区共开放3个门。房源离东门较近，走一会就到了。内部配有快递柜。单元楼附近就是饮水站，操作简便，满足居民24小时的饮水需求。楼栋概况\n小区建成于2000年，楼龄较新。楼栋总高7层。楼道卫生状况较好，日常有保洁阿姨专门清扫。出入单元需通过门禁。房源概况\n这间6居室的02卧面积宽敞，为奔波在都市的您提供了舒适的港湾。房源在2楼，这是1间朝南的卧室，光照充足。装修亮点\n房间配色是少女粉和低调灰，粉嫩又不失高贵。房间为环保装修，板材结实耐用。且配备了国内外优秀品牌家电，品质安全有保障。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1655704990559/8815852/realsee_edit/media_files/1ZwJhVo7wkk.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/028882f5-d84f-492c-a984-b244afe90705_349.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/028882f5-d84f-492c-a984-b244afe90705_349.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7a282e43-0a31-4989-a612-aac779b98058_415.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/632cf6a2-94f8-41cb-9f69-6f583c867cb0_304.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/31a10d01-0aa5-40a0-887d-f9216f50376a_752.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6aa03842-a6cc-4313-bc62-786eb7ffef7a_257.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d1905bf9-f0cf-45e4-a44d-d4340d375530_080.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/55b5120e-636d-4629-b361-d241d2730695_240.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/61268aa9-b392-44cd-9a36-331978609745_461.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/93262d3b-b7fe-4c6e-9c69-6c1068c5af2e_455.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4b878c87-cb80-47f4-8ec8-cf262c556872_316.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/67edb1fa-69ee-4052-b1af-fdafe3775abc_348.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/34567c65-9edb-49cf-8966-d8bc8e8dbc2d_671.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c9ada96f-9710-4560-8eaf-a34770dc25b9_636.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/B2/92/ChAZ2GPHydiAIoncAAJbN7SVl88471.png_C_380_285_Q80.png"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1655704990559/8815852/realsee_edit/media_files/1ZwJhVo7wkk.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/028882f5-d84f-492c-a984-b244afe90705_349.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/028882f5-d84f-492c-a984-b244afe90705_349.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7a282e43-0a31-4989-a612-aac779b98058_415.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/632cf6a2-94f8-41cb-9f69-6f583c867cb0_304.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/31a10d01-0aa5-40a0-887d-f9216f50376a_752.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6aa03842-a6cc-4313-bc62-786eb7ffef7a_257.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d1905bf9-f0cf-45e4-a44d-d4340d375530_080.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/55b5120e-636d-4629-b361-d241d2730695_240.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/61268aa9-b392-44cd-9a36-331978609745_461.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/93262d3b-b7fe-4c6e-9c69-6c1068c5af2e_455.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4b878c87-cb80-47f4-8ec8-cf262c556872_316.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/67edb1fa-69ee-4052-b1af-fdafe3775abc_348.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/34567c65-9edb-49cf-8966-d8bc8e8dbc2d_671.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c9ada96f-9710-4560-8eaf-a34770dc25b9_636.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/B2/92/ChAZ2GPHydiAIoncAAJbN7SVl88471.png_C_800_600_Q100.png"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_101592/20220420_67792223.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "浴霸", "icon": "iconyuba" },
+      { "name": "书架", "icon": "iconshujia" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "23.6㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "6室1厅" },
+        { "label": "位置", "value": "小区距3号线香港路站步行约42米" },
+        { "label": "楼层", "value": "2/7" },
+        { "label": "电梯", "value": "无" },
+        { "label": "年代", "value": "2000年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "暂无数据" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60028307.png", "60028307"],
+      "house_name": "自如友家·惠东花园·6居室-02卧",
+      "username": "寇义伟",
+      "phone": "01056801900 转 208128",
+      "pic": "http://pic.ziroom.com/steward_images/60028307.png?time=20210320125038&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "790425534",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "3613 /月",
+    "house_description": "房源概况\n独立阳台，通风好，视野开阔，私密性好，配有边桌和沙发，喜欢阅读的你，下班之后可以静静的躺在沙发上看书。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://imgpro.ziroom.com/99e97258-a9f1-4a6c-9496-bdcc0344ec08_528.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ffe2ad21-004b-4cde-9f6d-f21b6883d6a4_408.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a82491aa-e2aa-40b6-8ab7-dab84ff10cdd_185.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/859f9f09-5753-4a0a-9361-a4484e5ea2b9_374.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b44ecbf8-50d7-440a-b693-77390ad00a26_940.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/52aa0ba3-adb1-4157-af16-a224195aa639_494.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/67b733ef-5f0c-4aef-b6e5-02b19a5d6418_056.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/44f38d97-7e96-411a-8593-5f04e7dccab3_136.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/488ccdb4-9052-4119-b897-01d4ab1de429_341.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3f63e8d5-995f-49f4-a6e8-6daaa6d95d34_606.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/de8d9f32-527a-4dea-9f57-d1508df39a19_508.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m2/M00/66/3D/CtgFCF0-9-uAX-DtAAVgrl04L20595.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://imgpro.ziroom.com/99e97258-a9f1-4a6c-9496-bdcc0344ec08_528.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ffe2ad21-004b-4cde-9f6d-f21b6883d6a4_408.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a82491aa-e2aa-40b6-8ab7-dab84ff10cdd_185.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/859f9f09-5753-4a0a-9361-a4484e5ea2b9_374.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b44ecbf8-50d7-440a-b693-77390ad00a26_940.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/52aa0ba3-adb1-4157-af16-a224195aa639_494.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/67b733ef-5f0c-4aef-b6e5-02b19a5d6418_056.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/44f38d97-7e96-411a-8593-5f04e7dccab3_136.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/488ccdb4-9052-4119-b897-01d4ab1de429_341.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3f63e8d5-995f-49f4-a6e8-6daaa6d95d34_606.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/de8d9f32-527a-4dea-9f57-d1508df39a19_508.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m2/M00/66/3D/CtgFCF0-9-uAX-DtAAVgrl04L20595.jpg_C_800_600_Q100.jpg"
+    ],
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "沙发", "icon": "iconshafa" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "预计2023-09-11可入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "20㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "3室1厅" },
+        { "label": "位置", "value": "小区距8号线塔子湖站步行约91米" },
+        { "label": "楼层", "value": "24/30" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2013年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "30%" }
+      ]
+    },
+    "Homeowner_info": {
+      "house_name": "自如友家·塔子湖兴隆苑·3居室-03卧",
+      "username": "",
+      "phone": ""
+    }
+  },
+  {
+    "house_id": "808123507",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2327 /月",
+    "house_description": "房源位置\n这套房源位于纽宾凯公园里，可安心入住。共有6栋楼。小区有24小时安保。小区有1个门。住户与车辆均从该门出入。内部配套设施有便利店，花园。楼栋附近有便利店，能满足日常所需。楼栋概况\n这个2020年新建的小区，配套设施都比较新。楼栋一共有45层，3梯4户，私密性好。平常能看到保洁阿姨清理和打扫楼道，卫生保持较好。单元口有门禁，住起来更安心。房源概况\n这间4居室的05卧面积较大，两人住也不会太拥挤。房源在26楼，享有无遮挡城市观景视野。这是1间朝南的卧室，光照充足。有独立阳台，可以摆放绿植，让房间绿意满满。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653645404186/3934013/realsee_edit/media_files/7af711bd5854cba0bbd26ae3feecaff6.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/a0ddb4cc-8744-46b0-aff2-577b24bb8409_848.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/a0ddb4cc-8744-46b0-aff2-577b24bb8409_848.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/90082e87-583b-4a7f-a10d-adc6df3ae8b5_169.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b1ab2382-da3c-4b67-942b-46b9129e343b_177.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/298fb153-6593-474c-ae32-962aa29f6161_294.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/328b76ee-97f1-4d78-9b34-52192468fed3_184.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f6fb7a06-f43a-4e4d-96ab-ff5027130745_162.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4169ce04-f98e-4a01-86f9-d5ceb2dcdc59_988.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f74f0941-a8c9-42d8-8e08-f24480d7dcb4_189.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/184c1232-982b-4ce2-b84d-5449e4d441f9_384.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dbdfe752-6274-4023-affc-206c64a48767_668.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/93/33/ChAZ2GOE4keAESkiAAIuRFDKVo8383.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653645404186/3934013/realsee_edit/media_files/7af711bd5854cba0bbd26ae3feecaff6.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/a0ddb4cc-8744-46b0-aff2-577b24bb8409_848.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a0ddb4cc-8744-46b0-aff2-577b24bb8409_848.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/90082e87-583b-4a7f-a10d-adc6df3ae8b5_169.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b1ab2382-da3c-4b67-942b-46b9129e343b_177.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/298fb153-6593-474c-ae32-962aa29f6161_294.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/328b76ee-97f1-4d78-9b34-52192468fed3_184.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f6fb7a06-f43a-4e4d-96ab-ff5027130745_162.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4169ce04-f98e-4a01-86f9-d5ceb2dcdc59_988.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f74f0941-a8c9-42d8-8e08-f24480d7dcb4_189.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/184c1232-982b-4ce2-b84d-5449e4d441f9_384.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dbdfe752-6274-4023-affc-206c64a48767_668.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/93/33/ChAZ2GOE4keAESkiAAIuRFDKVo8383.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_103277/20230104_75747167.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床", "icon": "iconchuang" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可签约至2024-07-26" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "18.5㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距4号线十里铺站步行约92米" },
+        { "label": "楼层", "value": "26/45" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2020年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "18%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60042107.png", "60042107"],
+      "house_name": "自如友家·纽宾凯公园里·4居室-05卧",
+      "username": "王小双",
+      "phone": "01056801900 转 208259",
+      "pic": "http://pic.ziroom.com/steward_images/60042107.png?time=20220621174639&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808040172",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "3665 /月",
+    "house_description": "房源位置\n本套自如房源位于阳城景园。总共有11栋楼。小区内有保安24小时轮流执勤。该小区日常开放3个门。小区修建了不少配套设施，如健身广场，篮球场，花园。菜篮子离房源很近，物美价廉。住的附近就是篮球场，网球场，塑胶跑道，下楼就可以锻炼。楼栋概况\n这个2004年建立的小区，配套设施都比较新。楼栋共有12层，1梯2户。有保洁阿姨定期维护楼道、走廊的卫生。单元安装有门禁，很安全。房源概况\n这间4居室的01卧空间较大，居住舒适。该房源在3层，推窗可见小区的花园景观。这是1间朝南的卧室。卧室带有1间储物间，收纳空间更丰富。卧室里有露台，可以布置成休闲区或花园。公区厨房带阳台，方便通风。厨房有1扇窗户，采光通风好。公区的卫生间是干湿分离设计。装修亮点\n卧室的装修以灰、粉色为主，营造出简约低调的居室氛围。房间为环保装修，板材结实耐用。且配备了国内外优秀品牌家电，品质安全有保障。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653619512631/7955197/realsee_edit/media_files/14749884031db6b310b07fae8f8192b2_1Zm2GjIiwY9.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/38163f02-9109-492f-8f3f-ad90cd1fdb8b_693.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/2a770e6a-4b8a-40ef-86d5-f421d3ff482c_221.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/36cf8411-2287-4e77-b4cd-63b22d1cce86_379.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4f9f934f-dcf6-4ee8-8484-95df65a1cddb_382.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/658c7ba5-e2f2-439c-99c1-e4f7cba1489a_957.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7eff3f7b-5c06-42e6-ac6a-b600daedf927_529.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/52a7a1ae-91cd-4891-a4da-1ec4f2ac1f7c_299.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bc2f3c7b-81eb-44b6-b856-12ff296e35c3_455.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/AF/77/ChAZ2GO5l32APUYGAAFWPx8H_6o200.png_C_380_285_Q80.png"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653619512631/7955197/realsee_edit/media_files/14749884031db6b310b07fae8f8192b2_1Zm2GjIiwY9.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/38163f02-9109-492f-8f3f-ad90cd1fdb8b_693.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/2a770e6a-4b8a-40ef-86d5-f421d3ff482c_221.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/36cf8411-2287-4e77-b4cd-63b22d1cce86_379.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4f9f934f-dcf6-4ee8-8484-95df65a1cddb_382.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/658c7ba5-e2f2-439c-99c1-e4f7cba1489a_957.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7eff3f7b-5c06-42e6-ac6a-b600daedf927_529.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/52a7a1ae-91cd-4891-a4da-1ec4f2ac1f7c_299.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bc2f3c7b-81eb-44b6-b856-12ff296e35c3_455.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/AF/77/ChAZ2GO5l32APUYGAAFWPx8H_6o200.png_C_800_600_Q100.png"
+    ],
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "床", "icon": "iconchuang" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使���面积", "value": "15.5㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距4号线十里铺站步行约295米" },
+        { "label": "楼层", "value": "3/12" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2004年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "38%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60042107.png", "60042107"],
+      "house_name": "自如友家·阳城景园·4居室-01卧",
+      "username": "王小双",
+      "phone": "01056801900 转 208259",
+      "pic": "http://pic.ziroom.com/steward_images/60042107.png?time=20220621174639&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808051050",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2340 /月",
+    "house_description": "房源位置\n这是1套位于兴华尚都国际的品质房源。共有15栋楼。有保安24小时执勤。小区有1个门。房源距离此门较近。小区配套包括健身广场，塑胶跑道，快递柜，花园。楼栋旁边就是健身广场，适合爱健身的朋友。楼栋概况\n这个2018年新建的小区，配套设施都比较新。楼栋一共有33层，2梯4户，住户密度小，比较安静。楼道、电梯有专人定期清扫消毒。出入单元需通过门禁。房源概况\n这间3居室的02卧面积较大，无论是一个人住还是情侣合住都是不错的选择。房源在9层，是城市景观房。卧室朝南，冬暖夏凉。有一扇飘窗，为您提供了日常看书看风景的地方。厨房有1扇窗户，采光通风好。公用卫生间有窗户，方便通风换气。装修亮点\n卧室的装修以绿、灰色为主，温馨舒适。房间为环保装修，板材结实耐用。且配备了国内外优秀品牌家电，品质安全有保障。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653664558997/2768063/realsee_edit/media_files/889c88696c37501cf57946382c6f5556.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/be3e17cb-74ee-4213-a88c-39ea452b6765_723.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/be3e17cb-74ee-4213-a88c-39ea452b6765_723.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6ba7329e-35b6-4893-ba93-c88b19a2f38a_933.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0decfc78-7333-4e93-88bc-80f1f42a1cb7_999.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c7ff88ee-bacb-4a87-a24e-0dd6e85b7430_368.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c9e07236-417a-41d1-a0cf-d02963108422_755.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/eea59457-8ba6-4031-8137-6a30a00ae4c4_365.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/074617ee-a4dd-4c18-9704-834179530ab1_845.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dfff4eff-a91c-433d-8e7d-b549c1633e05_313.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/11189c53-ca99-45ce-88ec-324f9f962da2_837.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dd328d35-f596-473d-a253-48f142443434_766.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/BC/3F/ChAZYWGiEMWAJ5UhAAG5hCDzw_g480.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653664558997/2768063/realsee_edit/media_files/889c88696c37501cf57946382c6f5556.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/be3e17cb-74ee-4213-a88c-39ea452b6765_723.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/be3e17cb-74ee-4213-a88c-39ea452b6765_723.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6ba7329e-35b6-4893-ba93-c88b19a2f38a_933.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0decfc78-7333-4e93-88bc-80f1f42a1cb7_999.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c7ff88ee-bacb-4a87-a24e-0dd6e85b7430_368.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c9e07236-417a-41d1-a0cf-d02963108422_755.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/eea59457-8ba6-4031-8137-6a30a00ae4c4_365.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/074617ee-a4dd-4c18-9704-834179530ab1_845.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dfff4eff-a91c-433d-8e7d-b549c1633e05_313.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/11189c53-ca99-45ce-88ec-324f9f962da2_837.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dd328d35-f596-473d-a253-48f142443434_766.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/BC/3F/ChAZYWGiEMWAJ5UhAAG5hCDzw_g480.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102247/20210523_76704159.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "14㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "3室1厅" },
+        { "label": "位置", "value": "小区距3号线双墩站步行约519米" },
+        { "label": "楼层", "value": "9/33" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2018年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "30%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60023233.png", "60023233"],
+      "house_name": "自如友家·兴华尚都国际·3居室-02卧",
+      "username": "郭昱辰",
+      "phone": "01056801900 转 208068",
+      "pic": "http://pic.ziroom.com/steward_images/60023233.png?time=20210320124957&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808370733",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2846 /月",
+    "house_description": "房源位置\n这是1套自如品质房源，位于汉阳人信汇四期天誉。小区一共有12个楼栋。小区安保实行24小时值班制。该小区有3个出入口。小区配套包括健身广场，篮球场，塑胶跑道，饮水站，花园。楼栋概况\n小区是2018年建的，楼体外观较新。楼栋一共有48层，2梯3户，私密性好。楼道卫生由小区负责，有专人清扫。单元口配备了门禁，提升了安全性。房源概况\n这间3居室的01卧面积宽敞，为奔波在都市的您提供了舒适的港湾。该房源在34层，卧室朝南，冬暖夏凉。有独立阳台，可以摆放绿植，让房间绿意满满。厨房有窗户，用于采光通风。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653663788968/283130/realsee_edit/media_files/421a0c3f04dbc1a3ad32fa002f064d0b.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/693a1c2d-2a38-4089-82b1-541afecc9e7e_917.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/693a1c2d-2a38-4089-82b1-541afecc9e7e_917.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1373b992-3504-438f-b043-d23adee0308a_468.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bdedeb4b-20ef-487c-92cd-fba156944502_844.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/02121e33-b9af-4238-a748-737f85f538ab_534.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/586ba372-0a04-46a2-9609-79abaebf65fa_489.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/09f5e629-f322-44dd-b1f2-b8880219422a_223.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/82a71b41-d0ca-48c7-b6b3-47b9f0075fe3_996.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b05d367f-062d-46df-b654-dbdd52386951_617.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b8ebc820-0c9f-4237-8a41-d5aa4d06231c_390.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/E8/BE/ChAZ2GHc31CAEAe6AAJQy-FQ7_o331.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653663788968/283130/realsee_edit/media_files/421a0c3f04dbc1a3ad32fa002f064d0b.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/693a1c2d-2a38-4089-82b1-541afecc9e7e_917.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/693a1c2d-2a38-4089-82b1-541afecc9e7e_917.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1373b992-3504-438f-b043-d23adee0308a_468.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bdedeb4b-20ef-487c-92cd-fba156944502_844.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/02121e33-b9af-4238-a748-737f85f538ab_534.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/586ba372-0a04-46a2-9609-79abaebf65fa_489.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/09f5e629-f322-44dd-b1f2-b8880219422a_223.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/82a71b41-d0ca-48c7-b6b3-47b9f0075fe3_996.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b05d367f-062d-46df-b654-dbdd52386951_617.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b8ebc820-0c9f-4237-8a41-d5aa4d06231c_390.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/E8/BE/ChAZ2GHc31CAEAe6AAJQy-FQ7_o331.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102248/20220116_85571586.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "桌子", "icon": "iconzhuozi" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "16.2㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "3室1厅" },
+        { "label": "位置", "value": "小区距3号线王家湾站步行约309米" },
+        { "label": "楼层", "value": "34/48" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2018年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "35%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60035741.png", "60035741"],
+      "house_name": "自如友家·汉阳人信汇四期天誉·3居室-01卧",
+      "username": "陈文锋",
+      "phone": "01056801900 转 208091",
+      "pic": "http://pic.ziroom.com/steward_images/60035741.png?time=20210910193318&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808061627",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2441 /月",
+    "house_description": "房源位置\n这套舒适雅致的房源位于国粹香舍。小区共有6栋楼。小区居住密度低，将更多空间赋予生活与美景。小区内有保安24小时轮流执勤。小区有1个大门。进出均通过此门。有快递柜，花园供居民日常使用。单元楼旁边就是快递柜，收取快递方便。楼栋概况\n小区是2005年建立的，楼栋内外环境好。楼栋共有15层，2梯3户，私密性好。楼道、电梯有专人定期清扫消毒。单元装有门禁。房源概况\n这间4居室的05卧面积较大，无论是一个人住还是情侣合住都是不错的选择。房源在10层，在窗边可欣赏小区花园景色，增添一份推窗见景的小美好。这间卧室朝南。厨房有独立阳台，空间更开阔。装修亮点\n卧室装修为原木色系，让人在木色与白色的交织中，感受自然纯粹。房间为环保装修，板材结实耐用。且配备了国内外优秀品牌家电，品质安全有保障。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653649635139/2096026/realsee_edit/media_files/6377be7b09cd9efca1a5d0883bde067d.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/80d59778-7f19-4656-9e77-d27d15584ad1_085.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/80d59778-7f19-4656-9e77-d27d15584ad1_085.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/33986301-2311-4369-add2-2c53f38dd9dc_060.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a601cdae-a083-48e0-ae91-a27c5b468482_820.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/cd327696-9419-4da3-b5f1-e57dc0c7761a_737.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/99273770-6c37-491e-97a1-b14f67a280e9_389.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b1f74072-f72d-43c8-a982-29e5050aa75f_066.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d791cd38-b1c4-4600-9fd8-53ce043c8cfc_446.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1f02c29f-dae5-4f3e-97a6-a90f90ed42f5_186.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/55ad1a07-c6c7-49c0-ba47-af1b8081c7aa_219.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m3/M00/18/FE/ChAZVGCf-luAPN50AAcOJS3tOmo829.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653649635139/2096026/realsee_edit/media_files/6377be7b09cd9efca1a5d0883bde067d.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/80d59778-7f19-4656-9e77-d27d15584ad1_085.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/80d59778-7f19-4656-9e77-d27d15584ad1_085.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/33986301-2311-4369-add2-2c53f38dd9dc_060.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a601cdae-a083-48e0-ae91-a27c5b468482_820.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/cd327696-9419-4da3-b5f1-e57dc0c7761a_737.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/99273770-6c37-491e-97a1-b14f67a280e9_389.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b1f74072-f72d-43c8-a982-29e5050aa75f_066.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d791cd38-b1c4-4600-9fd8-53ce043c8cfc_446.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1f02c29f-dae5-4f3e-97a6-a90f90ed42f5_186.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/55ad1a07-c6c7-49c0-ba47-af1b8081c7aa_219.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m3/M00/18/FE/ChAZVGCf-luAPN50AAcOJS3tOmo829.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_101653/20221118_23103114.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "床垫", "icon": "iconchuangdian" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "14.2㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距6号线唐家墩站步行约123米" },
+        { "label": "楼层", "value": "10/15" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2005年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "35%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60044274.png", "60044274"],
+      "house_name": "自如友家·国粹香舍·4居室-05卧",
+      "username": "胡红兵",
+      "phone": "01056801900 转 208233",
+      "pic": "http://pic.ziroom.com/steward_images/60044274.png?time=20221116133954&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808112398",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2614 /月",
+    "house_description": "房源位置\n这套位于福星惠誉福星华府峯境的房源属于抢手房源。小区共有10栋楼。小区安保实行24小时值班制。内部有健身广场，花园。楼栋概况\n这个2021年新建的小区，配套设施都比较新。楼栋总高43层。3梯4户。楼道卫生由小区负责，有专人清扫。单元有门禁。房源概况\n这间5居室的06卧面积较大，两人住也不会太拥挤。房源在28楼，推窗可见小区的花园景观。这间卧室朝南。卧室配有惬意又舒适的阳台，让空间更加通透。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653621946216/8551410/realsee_edit/media_files/1ZJ3VyBfuEA.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/fded71c2-2605-43f4-ac3b-6c9080c56e17_990.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/fded71c2-2605-43f4-ac3b-6c9080c56e17_990.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/fe9b2485-5569-40c0-aad4-da7425777bc6_041.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6de5ad45-b1d1-48b2-94ba-71b7cb2ecf23_432.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/67b520b9-945f-46e6-815d-ba53a7494147_859.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/177a83b8-c74f-469b-9c8e-52e287b39bf4_109.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/69609eec-d840-4ae4-8679-cd06f3c2fdcc_061.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/848fc434-31e0-413d-a37b-606f2567e557_204.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ecde1e44-d168-4871-9807-3ac28ad0fe62_606.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4a35aca2-00f0-4845-8518-6ade2741cbe3_043.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ef3d710e-111a-4540-8fe6-c58107facf70_251.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/68/15/ChAZ2GKKXU-ALvxJAAEQusKvIJM384.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653621946216/8551410/realsee_edit/media_files/1ZJ3VyBfuEA.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/fded71c2-2605-43f4-ac3b-6c9080c56e17_990.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/fded71c2-2605-43f4-ac3b-6c9080c56e17_990.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/fe9b2485-5569-40c0-aad4-da7425777bc6_041.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6de5ad45-b1d1-48b2-94ba-71b7cb2ecf23_432.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/67b520b9-945f-46e6-815d-ba53a7494147_859.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/177a83b8-c74f-469b-9c8e-52e287b39bf4_109.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/69609eec-d840-4ae4-8679-cd06f3c2fdcc_061.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/848fc434-31e0-413d-a37b-606f2567e557_204.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ecde1e44-d168-4871-9807-3ac28ad0fe62_606.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4a35aca2-00f0-4845-8518-6ade2741cbe3_043.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ef3d710e-111a-4540-8fe6-c58107facf70_251.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/68/15/ChAZ2GKKXU-ALvxJAAEQusKvIJM384.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102866/20230105_24169514.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "床", "icon": "iconchuang" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "18.2㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "5室1厅" },
+        { "label": "位置", "value": "小区距6号线杨汊湖站步行约489米" },
+        { "label": "楼层", "value": "28/43" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2021年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "30%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60005315.png", "60005315"],
+      "house_name": "自如友家·福星惠誉福星华府峯境·5居室-06卧",
+      "username": "黄勇",
+      "phone": "01056801900 转 208063",
+      "pic": "http://pic.ziroom.com/steward_images/60005315.png?time=20220801111217&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "807015666",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2233 /月",
+    "house_description": "房源位置\n这套位于统建同安家园的房源属于抢手房源。一共有61个楼栋。为比较稀缺的低密度小区，居住舒适度高。在小区内可以看到全天执勤的安保人员。该小区有1个出入口。房源离小区大门不远，出行方便。内部配套设施包括健身广场，理发店，菜篮子，便利店，饮水站，快递柜，花园，药店，诊所，日常生活非常方便。菜篮子，小超市，便利店靠近房源所在楼栋，方便购买生活所需。饮水站就在楼下，提供日常饮用水。住的附近就是健身广场，下楼就可以锻炼。楼栋概况\n小区建成于2009年，楼龄较新。楼栋共有34层，2梯4户，等待电梯时间短。楼栋的卫生均由居民自觉维护。单元有门禁，安全性较高。房源概况\n这间4居室的05卧空间较大，可以独住、合住。房源位于28层，窗外无遮挡，视野开阔。卧室朝向为南，冬天室内比较暖和。有独立阳台，可以摆放绿植，让房间绿意满满。装修亮点\n房间为原木色系，融合棉、麻的设计，让您在简单的空间中享受贴近自然的生活。房间优选环保无醛板材，为您居住安全保驾护航。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1655695252357/8614269/realsee_edit/media_files/1ZwrYlw5MPV.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/d19de339-5f5b-4ee8-9af0-77780c524183_607.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/d19de339-5f5b-4ee8-9af0-77780c524183_607.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6fd45325-6347-41cd-8fa9-a07bddf114e0_721.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/96053646-ed4f-4f2c-aba7-95ef4442cc95_515.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a37161df-2be4-4252-b9a6-ce76329a6a39_774.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d46a83cbb7516fee19ab81ea6ca4ac4d_521.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/51f2b74d34c0ca02bb10bc62b24b33ad_634.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bbc3e24a155175ba0b82d58521ebd9bc_043.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0cd58850d6466e554a2efe0b991a22cf_050.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7dab30bcdeaec882b4573d51e9f966b5_198.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/AF/3E/ChAZYWO43JuABUxFAAI7dSp0YrA454.png_C_380_285_Q80.png"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1655695252357/8614269/realsee_edit/media_files/1ZwrYlw5MPV.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/d19de339-5f5b-4ee8-9af0-77780c524183_607.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d19de339-5f5b-4ee8-9af0-77780c524183_607.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6fd45325-6347-41cd-8fa9-a07bddf114e0_721.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/96053646-ed4f-4f2c-aba7-95ef4442cc95_515.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a37161df-2be4-4252-b9a6-ce76329a6a39_774.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d46a83cbb7516fee19ab81ea6ca4ac4d_521.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/51f2b74d34c0ca02bb10bc62b24b33ad_634.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bbc3e24a155175ba0b82d58521ebd9bc_043.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0cd58850d6466e554a2efe0b991a22cf_050.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7dab30bcdeaec882b4573d51e9f966b5_198.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/AF/3E/ChAZYWO43JuABUxFAAI7dSp0YrA454.png_C_800_600_Q100.png"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102633/20230108_24497702.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床垫", "icon": "iconchuangdian" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "18.4㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距3号线后湖大道站步行约437米" },
+        { "label": "楼层", "value": "28/34" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2009年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "47%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60031764.png", "60031764"],
+      "house_name": "自如友家·统建同安家园·4居室-05卧",
+      "username": "胡圣",
+      "phone": "01056801900 转 208038",
+      "pic": "http://pic.ziroom.com/steward_images/60031764.png?time=20210322160254&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "809359609",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "3519 /月",
+    "house_description": "",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1673444217532/5762114/realsee_edit/media_files/cmspHobfbw.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/f021d505-2fc0-4c02-a0f1-77eef9b276dd_748.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/f021d505-2fc0-4c02-a0f1-77eef9b276dd_748.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8b5af8a8-4e24-48b4-a340-688344bfe428_996.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1c65eeb7-13de-46a7-a834-458cbf38ff53_172.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/67338849-ab86-4845-8f41-87efbc271789_329.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c6cbcc14-8002-4cf2-ba52-039fea31c2ef_897.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b94a1c25-b3b6-47e6-84b0-89f8521177c5_680.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e6d475a7-b6cc-475b-8a62-13becc804e5d_969.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f4e387f2-68e4-41b1-bf39-ec23466b3c3f_688.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/9f5465a0-daf0-45b3-bb05-3d2e2088a595_642.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/A6/76/ChAZYWOcGtaAJHjQABK7uc0BZko862.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1673444217532/5762114/realsee_edit/media_files/cmspHobfbw.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/f021d505-2fc0-4c02-a0f1-77eef9b276dd_748.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f021d505-2fc0-4c02-a0f1-77eef9b276dd_748.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8b5af8a8-4e24-48b4-a340-688344bfe428_996.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1c65eeb7-13de-46a7-a834-458cbf38ff53_172.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/67338849-ab86-4845-8f41-87efbc271789_329.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c6cbcc14-8002-4cf2-ba52-039fea31c2ef_897.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b94a1c25-b3b6-47e6-84b0-89f8521177c5_680.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e6d475a7-b6cc-475b-8a62-13becc804e5d_969.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f4e387f2-68e4-41b1-bf39-ec23466b3c3f_688.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/9f5465a0-daf0-45b3-bb05-3d2e2088a595_642.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/A6/76/ChAZYWOcGtaAJHjQABK7uc0BZko862.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102344/20230117_56984098.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "衣柜", "icon": "iconyigui" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "20.14㎡" },
+        { "label": "朝向", "value": "朝西" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距5号线白沙六路站步行约496米" },
+        { "label": "楼层", "value": "44/44" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2021年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "30%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60030778.png", "60030778"],
+      "house_name": "自如友家·东原启城三/四期·4居室-05卧",
+      "username": "曾雄",
+      "phone": "01056801900 转 208161",
+      "pic": "http://pic.ziroom.com/steward_images/60030778.png?time=20220112174515&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808188159",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2768 /月",
+    "house_description": "房源位置\n房源位于丹亭懿府。小区一共有10个楼栋。全天有保安执勤。小区开放1个门。有多项设施供住户使用，如健身广场，快递柜，花园。楼栋概况\n小区是2021年建的，楼栋外立面较新。楼栋总高34层。2梯6户。楼栋的楼道、墙壁等都会有人定期清洁。单元无门禁。房源概况\n这间5居室的03卧面积宽敞，为奔波在都市的您提供了舒适的港湾。房源位于第23层，视野开阔，可观赏城市夜景。这是1间朝南的卧室。卧室配有惬意又舒适的阳台，让空间更加通透。厨房通透明亮，有窗户。公用卫生间有窗户，采光好，方便通风。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653649051953/618498/realsee_edit/media_files/1Zz9YUxqowi.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/7b71d99c-6f6f-4e04-abc8-537d3da9e995_478.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/7b71d99c-6f6f-4e04-abc8-537d3da9e995_478.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/da9e48c3-98da-47d2-8244-fca886a73174_932.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f55349f9-a0a9-4ad7-b575-20d846ae4d32_159.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c3040953-d761-4cbf-b777-965c13a25bc8_405.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f8c04785-7dbe-42e0-b707-d4fc9a6c3c07_060.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7cc02d8f-3f7d-473c-8002-7265089ccbfb_713.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/717d5dbd-01ca-4ebb-8e69-0758be9a3e08_223.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8d385e05-7b7a-4eb8-a153-f3dc8151dc5f_655.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/2c1eaaac-cee0-41a8-b35e-392931865030_517.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/B2/97/ChAZ2GPICCCAJ_z8AAJO6St89dk821.png_C_380_285_Q80.png"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653649051953/618498/realsee_edit/media_files/1Zz9YUxqowi.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/7b71d99c-6f6f-4e04-abc8-537d3da9e995_478.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7b71d99c-6f6f-4e04-abc8-537d3da9e995_478.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/da9e48c3-98da-47d2-8244-fca886a73174_932.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f55349f9-a0a9-4ad7-b575-20d846ae4d32_159.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c3040953-d761-4cbf-b777-965c13a25bc8_405.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f8c04785-7dbe-42e0-b707-d4fc9a6c3c07_060.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7cc02d8f-3f7d-473c-8002-7265089ccbfb_713.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/717d5dbd-01ca-4ebb-8e69-0758be9a3e08_223.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8d385e05-7b7a-4eb8-a153-f3dc8151dc5f_655.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/2c1eaaac-cee0-41a8-b35e-392931865030_517.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/B2/97/ChAZ2GPICCCAJ_z8AAJO6St89dk821.png_C_800_600_Q100.png"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102633/20210916_60827061.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "17.48㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "5室1厅" },
+        { "label": "位置", "value": "小区距1号线丹水池站步行约880米" },
+        { "label": "楼层", "value": "23/34" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2021年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "35%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60031764.png", "60031764"],
+      "house_name": "自如友家·丹亭懿府·5居室-03卧",
+      "username": "胡圣",
+      "phone": "01056801900 转 208038",
+      "pic": "http://pic.ziroom.com/steward_images/60031764.png?time=20210322160254&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "754817707",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "1495 /月",
+    "house_description": "房源位置\n这是1套位于千禧城的品质房源。小区总共有13栋楼。有24小时安保。小区开放3个门。有不少配套设施，包括健身广场，饮水站，快递柜，花园。其中小超市，便利店就在楼下，生活便利。楼栋概况\n小区是2019年建的，楼栋外立面较新。楼栋总高47层。3梯6户，私密性好。小区注重卫生管理，会定期安排人员维护楼栋的卫生。单元配备门禁。房源概况\n这间4居室的05卧空间较大，居住舒适。房源在40层，享有无遮挡城市观景视野。卧室朝向为南。卧室配有惬意又舒适的阳台，让空间更加通透。厨房有窗户，用于采光通风。装修亮点\n卧室装修为原木色系，让人在木色与白色的交织中，感受自然纯粹。房间优选环保无醛板材，为您居住安全保驾护航。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://imgpro.ziroom.com/c9f4356c-3baf-41a4-9ce2-c4e88565bdb9_713.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/c9f4356c-3baf-41a4-9ce2-c4e88565bdb9_713.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/65dbf166-2ba3-447f-ac02-251dc7220917_261.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f646c2cd-bb4f-4333-9db3-6121906fdda5_083.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a60ade0f-f1a9-4ac7-8f3e-53152a573933_512.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f69920c6-22be-46a6-b7ff-58d820eb7489_790.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c1f21596-673f-417f-913d-40af8a3e1394_084.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3fcd0325-31dc-4df1-8ff7-7155b976ad3c_634.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2/M00/6F/82/ChAFD1tQr1mASwUdAAUUkTSD4Dk005.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://imgpro.ziroom.com/c9f4356c-3baf-41a4-9ce2-c4e88565bdb9_713.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c9f4356c-3baf-41a4-9ce2-c4e88565bdb9_713.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/65dbf166-2ba3-447f-ac02-251dc7220917_261.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f646c2cd-bb4f-4333-9db3-6121906fdda5_083.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a60ade0f-f1a9-4ac7-8f3e-53152a573933_512.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f69920c6-22be-46a6-b7ff-58d820eb7489_790.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c1f21596-673f-417f-913d-40af8a3e1394_084.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3fcd0325-31dc-4df1-8ff7-7155b976ad3c_634.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2/M00/6F/82/ChAFD1tQr1mASwUdAAUUkTSD4Dk005.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102246/20220306_56332587.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "路由器", "icon": "iconluyouqi" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "14.1㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距1号线古田三路站步行约19米" },
+        { "label": "楼层", "value": "40/47" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2019年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "55%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60031416.png", "60031416"],
+      "house_name": "自如友家·千禧城·4居室-05卧",
+      "username": "刘刚",
+      "phone": "01056801900 转 208071",
+      "pic": "http://pic.ziroom.com/steward_images/60031416.png?time=20210320125102&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "809353729",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "1957 /月",
+    "house_description": "",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1673421851633/1139275/realsee_edit/media_files/1ZCiuC5p8c8.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/cae7ce36-a8b1-4a27-b5d1-7e8d4155c13c_163.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/cae7ce36-a8b1-4a27-b5d1-7e8d4155c13c_163.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b291a9e0-6470-46c4-9b19-0cdbc30d083f_897.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/11c7ff78-c082-4edd-8257-1a31c038cd04_757.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/97453c60-9082-4cda-8ea8-bde700fbeffc_923.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/9bff56cd-0fc4-40d8-a62a-94db6ade0ee1_185.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c82b44e8-58ee-41a2-9c12-636dfd5e5295_913.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/339576b0-8768-4c65-bd18-dc501235209d_304.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/99203a1d-8e6c-41e2-a694-7ac008a4c822_979.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/eb0275bd-c5d7-4c27-8313-c4e58dc45e27_015.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/852c136c-952b-4f7d-a652-7e5f2bbc1839_139.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b6d198b7-558d-4daa-bb61-74e5e156b118_119.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/4917c8b9-f5d5-45dd-8856-833d03101c45.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1673421851633/1139275/realsee_edit/media_files/1ZCiuC5p8c8.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/cae7ce36-a8b1-4a27-b5d1-7e8d4155c13c_163.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/cae7ce36-a8b1-4a27-b5d1-7e8d4155c13c_163.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b291a9e0-6470-46c4-9b19-0cdbc30d083f_897.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/11c7ff78-c082-4edd-8257-1a31c038cd04_757.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/97453c60-9082-4cda-8ea8-bde700fbeffc_923.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/9bff56cd-0fc4-40d8-a62a-94db6ade0ee1_185.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c82b44e8-58ee-41a2-9c12-636dfd5e5295_913.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/339576b0-8768-4c65-bd18-dc501235209d_304.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/99203a1d-8e6c-41e2-a694-7ac008a4c822_979.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/eb0275bd-c5d7-4c27-8313-c4e58dc45e27_015.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/852c136c-952b-4f7d-a652-7e5f2bbc1839_139.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b6d198b7-558d-4daa-bb61-74e5e156b118_119.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/4917c8b9-f5d5-45dd-8856-833d03101c45.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102248/20230112_78729245.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床垫", "icon": "iconchuangdian" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "18.15㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距3号线陶家岭站步行约766米" },
+        { "label": "楼层", "value": "2/6" },
+        { "label": "电梯", "value": "无" },
+        { "label": "年代", "value": "2005年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "40%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60035741.png", "60035741"],
+      "house_name": "自如友家·南国明珠一期·4居室-05卧",
+      "username": "陈文锋",
+      "phone": "01056801900 转 208091",
+      "pic": "http://pic.ziroom.com/steward_images/60035741.png?time=20210910193318&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808158479",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2885 /月",
+    "house_description": "房源位置\n这套舒适雅致的房源位于统建大江园南苑。小区共有17栋楼。小区有24小时安保。该小区日常开放2个门。房源就在正大门附近。小区配套成熟，有篮球场，快递柜，花园。楼栋附近有菜篮子，小超市，便利店，可供日常购买蔬菜水果。饮用水可在楼下的饮水站自助购买。楼栋附近的快递柜，提供24小时自助取件服务。楼下的篮球场，网球场，开放给小区居民使用。楼栋概况\n小区建成于2005年，楼龄较新。楼栋共11层，1梯2户，住户密度小，比较安静。有保洁阿姨定期维护楼道、走廊的卫生。单元口配备了门禁，提升了安全性。房源概况\n该房源有5间卧室，这间是02卧，比较宽敞，如果你喜欢运动，可以摆放一些运动器械。房源在第6层，窗外是花园景观。卧室朝南，冬暖夏凉。厨房为明窗设计，迎着阳光或者在夕阳下做饭，烟火气也是一种享受。公用卫生间有窗户，方便通风换气。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653660199565/466748/realsee_edit/media_files/3032ed33ac3862150651e08635a40c30_1ZesJ15fGKa.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/a20af8cc-9c13-4602-8989-3017720191f7_283.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/a20af8cc-9c13-4602-8989-3017720191f7_283.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c50089d4-0c3b-477d-8588-57f4181da2b0_092.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ec1ff1bb-3b1f-45d0-adf1-55e83ecd2cd6_235.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0a846ede-a80a-4215-82a7-446fd72765b1_889.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/43b78621-4f39-4fe5-aaf7-1aa96135c868_319.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dfe9d6f9-81c6-4ee4-a345-ab9f9ad57fcf_409.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/fbabeacf-66bb-412c-9cf4-fd3adc4230c6_492.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8130561b-3192-49b6-94cb-91f204699e4f_492.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/99fc5160-6998-491a-9fbe-42235bec90e3_359.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f2cdd6f0-d6d2-4a55-ae8e-7489e4ecdf02_831.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/aa1fd153-ea17-449c-9fda-a15782cd709b_791.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/48/E8/ChAZYWFAlmqANwUiAAH6SoFO6Cg098.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653660199565/466748/realsee_edit/media_files/3032ed33ac3862150651e08635a40c30_1ZesJ15fGKa.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/a20af8cc-9c13-4602-8989-3017720191f7_283.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a20af8cc-9c13-4602-8989-3017720191f7_283.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c50089d4-0c3b-477d-8588-57f4181da2b0_092.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ec1ff1bb-3b1f-45d0-adf1-55e83ecd2cd6_235.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0a846ede-a80a-4215-82a7-446fd72765b1_889.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/43b78621-4f39-4fe5-aaf7-1aa96135c868_319.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/dfe9d6f9-81c6-4ee4-a345-ab9f9ad57fcf_409.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/fbabeacf-66bb-412c-9cf4-fd3adc4230c6_492.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8130561b-3192-49b6-94cb-91f204699e4f_492.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/99fc5160-6998-491a-9fbe-42235bec90e3_359.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f2cdd6f0-d6d2-4a55-ae8e-7489e4ecdf02_831.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/aa1fd153-ea17-449c-9fda-a15782cd709b_791.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/48/E8/ChAZYWFAlmqANwUiAAH6SoFO6Cg098.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_103086/20210820_16757160.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床垫", "icon": "iconchuangdian" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "18㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "5室1厅" },
+        { "label": "位置", "value": "小区距3号线赵家条站步行约358米" },
+        { "label": "楼层", "value": "6/11" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2005年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "35%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60037511.png", "60037511"],
+      "house_name": "自如友家·统建大江园南苑·5居室-02卧",
+      "username": "王军令",
+      "phone": "01056801900 转 208004",
+      "pic": "http://pic.ziroom.com/steward_images/60037511.png?time=20211206102052&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "809039583",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2199 /月",
+    "house_description": "房源位置\n本套自如房源位于同鑫花园。总共有40栋楼。为低密度社区，居住环境好。有24小时安保。该小区有9个出入口。房子靠近同鑫花园三号门。有多项设施供住户使用，如健身广场，理发店，菜篮子，便利店，饮水站，快递柜，花园，药店。楼栋附近有小超市，便利店，能满足日常所需。楼栋旁还有饮水站，24小时提供直饮水。楼栋概况\n房源所在小区建于2006年，楼栋外立面比较新。房源所在楼栋共有6层。楼道卫生状况较好，日常有保洁阿姨专门清扫。单元有门禁。房源概况\n这间4居室的05卧面积宽敞，为奔波在都市的您提供了舒适的港湾。房源在第4层，是花园景观房。这是1间朝北的卧室。有1个独立阳台，方便晾晒衣物和储物。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653632295161/5062527/realsee_edit/media_files/31b09ae597185145a3bdf53abbaddee7.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/e0e09f07-1a1c-491d-86b3-68a27bbfa302_826.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/e0e09f07-1a1c-491d-86b3-68a27bbfa302_826.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/68fee196-a855-4b84-b9f9-b407435378f3_369.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1c8a18c3-59f7-4126-b5fa-3975ad840f6f_693.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/93dd750f-f849-4053-81c6-6d110187781c_588.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1201ee1e-a478-4bcb-9103-6ebfcec63210_898.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3caecdb9-f49f-4dd1-a4d2-c86cf6045ac1_618.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b65c44c3-25fb-4671-9bdc-f3781a476149_246.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ad970bb0-4aa7-4b11-9b60-da9a344f1aee_167.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ecf31c1b-5c50-4de8-8c78-600b2d46b94b_369.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/19401a23-b55c-470b-9e44-cf5daa78931e_050.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/5E/97/ChAZ2GJ_hGmAH6lBAAB53281mSQ008.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653632295161/5062527/realsee_edit/media_files/31b09ae597185145a3bdf53abbaddee7.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/e0e09f07-1a1c-491d-86b3-68a27bbfa302_826.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e0e09f07-1a1c-491d-86b3-68a27bbfa302_826.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/68fee196-a855-4b84-b9f9-b407435378f3_369.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1c8a18c3-59f7-4126-b5fa-3975ad840f6f_693.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/93dd750f-f849-4053-81c6-6d110187781c_588.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/1201ee1e-a478-4bcb-9103-6ebfcec63210_898.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3caecdb9-f49f-4dd1-a4d2-c86cf6045ac1_618.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/b65c44c3-25fb-4671-9bdc-f3781a476149_246.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ad970bb0-4aa7-4b11-9b60-da9a344f1aee_167.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ecf31c1b-5c50-4de8-8c78-600b2d46b94b_369.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/19401a23-b55c-470b-9e44-cf5daa78931e_050.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/5E/97/ChAZ2GJ_hGmAH6lBAAB53281mSQ008.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102633/20221218_63351203.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "桌子", "icon": "iconzhuozi" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "床", "icon": "iconchuang" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "18.4㎡" },
+        { "label": "朝向", "value": "朝北" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距3号线后湖大道站步行约301米" },
+        { "label": "楼层", "value": "4/6" },
+        { "label": "电梯", "value": "无" },
+        { "label": "年代", "value": "2006年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "35%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60031764.png", "60031764"],
+      "house_name": "自如友家·同鑫花园·4居室-05卧",
+      "username": "胡圣",
+      "phone": "01056801900 转 208038",
+      "pic": "http://pic.ziroom.com/steward_images/60031764.png?time=20210322160254&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "808030778",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2166 /月",
+    "house_description": "房源位置\n这套舒适雅致的房源位于常青花园恒大御景。共有24栋楼。在小区内可以看到全天执勤的安保人员。小区有1个大门。有多项设施供住户使用，如健身广场，篮球场，游泳池，饮水站，快递柜，花园。便利店离房源很近，物美价廉。饮水站就在楼下，方便自取饮用纯净水。楼栋概况\n小区建成于2022年，楼龄新。楼栋总高17层。2梯4户，私密性好。楼道、电梯有专人定期清扫消毒。单元有门禁，安全性较高。房源概况\n房源在8层，是城市景观房。这套房源朝南。厨房有阳台，可用来储物。厨房里配备了国内外一线品牌的烟机灶具。卫生间干净整洁，集淋浴、洗漱、如厕为一体。南北侧均有窗户，通风顺畅，为南北通透的户型。所有房间均有很好的采光，为全明格局。厨卫门不相对。这套整租2居室有多个独立的小天地，住三、四人也很舒适。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1653633419127/7163079/realsee_edit/media_files/85eff9095b62cd4186f2e5fef15a4768.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/2538f3dc-ef34-420b-8a13-001b08e61e63_928.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/2538f3dc-ef34-420b-8a13-001b08e61e63_928.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d55265df-6c79-4b27-9ba3-3530f029625a_986.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/56280dde-a0eb-424f-a717-ff135b4ca5ef_205.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f1291ea6-054a-49a7-b4af-5f644c6e0904_883.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/62e17f97-458e-439e-8ea6-576d2f0eaa4a_235.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/160ab690-8ede-4158-8921-0c8671a07083_880.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d75a5e7b-1d51-42f3-bdfe-6adf41497d00_734.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3cbe76f3-24d3-456e-a9ec-115437bb36c9_517.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0bf63488-0918-43f2-88e4-55ad3e61ac95_527.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/850406c0-45d2-4463-b8f7-95d5fa8a9764_878.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bfc8bbf7-c289-40c2-a8b7-d3efc9d85bda_516.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4db82e2a-10ce-4159-9c93-e637775bb823_259.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8c546459-4256-41b9-9253-089f03ebda58_149.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6494e4ba-4b9d-44b5-a24f-19cfacb731ae_321.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/4F/EB/ChAZ2GJvSIOAe9fNAAHNqRaZZlY628.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1653633419127/7163079/realsee_edit/media_files/85eff9095b62cd4186f2e5fef15a4768.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/2538f3dc-ef34-420b-8a13-001b08e61e63_928.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/2538f3dc-ef34-420b-8a13-001b08e61e63_928.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d55265df-6c79-4b27-9ba3-3530f029625a_986.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/56280dde-a0eb-424f-a717-ff135b4ca5ef_205.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f1291ea6-054a-49a7-b4af-5f644c6e0904_883.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/62e17f97-458e-439e-8ea6-576d2f0eaa4a_235.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/160ab690-8ede-4158-8921-0c8671a07083_880.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/d75a5e7b-1d51-42f3-bdfe-6adf41497d00_734.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3cbe76f3-24d3-456e-a9ec-115437bb36c9_517.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0bf63488-0918-43f2-88e4-55ad3e61ac95_527.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/850406c0-45d2-4463-b8f7-95d5fa8a9764_878.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/bfc8bbf7-c289-40c2-a8b7-d3efc9d85bda_516.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/4db82e2a-10ce-4159-9c93-e637775bb823_259.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8c546459-4256-41b9-9253-089f03ebda58_149.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/6494e4ba-4b9d-44b5-a24f-19cfacb731ae_321.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/4F/EB/ChAZ2GJvSIOAe9fNAAHNqRaZZlY628.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102867/20220505_46287108.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "柜子", "icon": "iconguizi" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "沙发", "icon": "iconshafa" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "茶几", "icon": "iconchaji" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "冰箱", "icon": "iconbingxiang" },
+      { "name": "柜子", "icon": "iconguizi" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "桌子", "icon": "iconzhuozi" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "预计2023-05-30可入住" },
+        { "label": "签约时长", "value": "需签约至2023-05-26" },
+        {
+          "label": "签约须知",
+          "value": "精选业主直租不支持转租，不支持企业签约"
+        },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "建筑面积", "value": "76.45㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "2室1厅" },
+        { "label": "位置", "value": "小区距2号线金银潭站步行约357米" },
+        { "label": "楼层", "value": "8/17" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2022年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "30%" }
+      ]
+    },
+    "Homeowner_info": {
+      "house_name": "业主直租·常青花园恒大御景·2居室",
+      "username": "",
+      "phone": ""
+    }
+  },
+  {
+    "house_id": "757007579",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "1381 /月",
+    "house_description": "房源位置\n这是1套自如品质房源，位于汉口春天。一共有34个楼栋。小区为低容积率，居住如在公园般舒适。小区安保实行24小时值班制。小区共有4个出入口。小区修建了不少配套设施，如健身广场，篮球场，饮水站，快递柜，花园。菜篮子，小超市，便利店靠近房源所在楼栋，方便购买生活所需。楼栋概况\n房源所在小区建于2007年，楼栋外立面比较新。楼栋共有6层，楼道内比较干净整洁，日常有专人负责清理打扫。单元口有门禁，住起来更安心。房源概况\n这间5居室的06卧空间较大，居住舒适。房源在6楼，是城市景观房，视野好。这间房是朝南的卧室。卧室里有独立阳台，贯穿室内室外的景致，将空间延伸到室外。厨房有窗户，用于采光通风。公用卫生间有窗户，方便异味排散。装修亮点\n房间为原木色系，融合棉、麻的设计，让您在简单的空间中享受贴近自然的生活。房间为环保装修，板材结实耐用。且配备了国内外优秀品牌家电，品质安全有保障。",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://imgpro.ziroom.com/8a93b72b-20c1-4298-8e8a-9117b67a367f_860.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/8a93b72b-20c1-4298-8e8a-9117b67a367f_860.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/699149ae-a10b-4e36-bf48-82990c29101b_169.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0095ed8e-9f2e-4877-8079-21ddb0423850_485.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ead355cd-09fb-4198-bbd6-40f02c8f9da2_557.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3e725707-64f9-4e4d-a7a2-e01f6413218d_451.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5bf31866-0134-4c35-b4ee-da0415ce6a65_646.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5bf9d567-99c3-441c-adb7-a83649d73415_490.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a52ca01a-e018-4e13-939b-f77c83f1ebe2_385.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/da07a9a7-35e3-4b26-91e3-14f0f0bee11f_481.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/03b6ad9c-061b-4d45-9d05-5d0b948b7bb8_255.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m2/M00/0D/D5/CtgFCFzC7ACAIsp_AANcmU4lbPg890.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://imgpro.ziroom.com/8a93b72b-20c1-4298-8e8a-9117b67a367f_860.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/8a93b72b-20c1-4298-8e8a-9117b67a367f_860.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/699149ae-a10b-4e36-bf48-82990c29101b_169.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/0095ed8e-9f2e-4877-8079-21ddb0423850_485.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/ead355cd-09fb-4198-bbd6-40f02c8f9da2_557.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/3e725707-64f9-4e4d-a7a2-e01f6413218d_451.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5bf31866-0134-4c35-b4ee-da0415ce6a65_646.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5bf9d567-99c3-441c-adb7-a83649d73415_490.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/a52ca01a-e018-4e13-939b-f77c83f1ebe2_385.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/da07a9a7-35e3-4b26-91e3-14f0f0bee11f_481.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/03b6ad9c-061b-4d45-9d05-5d0b948b7bb8_255.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m2/M00/0D/D5/CtgFCFzC7ACAIsp_AANcmU4lbPg890.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102246/20220816_43028292.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "油烟机", "icon": "iconyouyanji" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "床", "icon": "iconchuang" },
+      { "name": "床垫", "icon": "iconchuangdian" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "需签约至2024-01-07" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "18.1㎡" },
+        { "label": "朝向", "value": "朝南" },
+        { "label": "户型", "value": "5室1厅" },
+        { "label": "位置", "value": "小区距1号线古田三路站步行约279米" },
+        { "label": "楼层", "value": "6/6" },
+        { "label": "电梯", "value": "无" },
+        { "label": "年代", "value": "2007年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "40%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60031416.png", "60031416"],
+      "house_name": "自如友家·汉口春天·5居室-06卧",
+      "username": "刘刚",
+      "phone": "01056801900 转 208071",
+      "pic": "http://pic.ziroom.com/steward_images/60031416.png?time=20210320125102&imageMogr2/thumbnail/384x/format/png"
+    }
+  },
+  {
+    "house_id": "809350901",
+    "user_id": "",
+    "city_id": "",
+    "address": "",
+    "create_time": "",
+    "lease_state": "",
+    "deleted_state": "",
+    "image_path": "",
+    "price": "2749 /月",
+    "house_description": "",
+    "house_category": "",
+    "exam_status": "",
+    "area": "",
+    "decoration_condition": "",
+    "swiper_pic": [
+      "https://vr.ziroom.com/vr/1672016613420/3688850/realsee_edit/media_files/1ZwkHvwSjDo.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/c1e669bd-8dc5-4099-bc6e-129e1f2eb99a_991.jpg_C_380_285_Q80.jpg",
+      "https://imgpro.ziroom.com/c1e669bd-8dc5-4099-bc6e-129e1f2eb99a_991.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/81188b33-62ad-4ac0-adc0-072c8652a9fb_230.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/78c029a4-851e-4132-aa56-2e311a536111_674.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5468b773-0bca-4fc1-a224-70db8e9bfb48_760.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e7617351-fa8b-46e7-bb5c-4909013f04b1_569.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7847b522-a581-46b3-8d30-5bf358842d09_688.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/41bca8a6-20b3-4e81-acd1-f6a63c60f937_986.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c752d00f-b7ca-4ae5-a7a5-36e5d592669b_534.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f8dfc272-798e-4f55-903f-f80c50d41489_361.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/48230821-2d0a-4032-8c29-c409e5d94785_838.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/9B/26/ChAZYWON4BqAVcy9ABHtSPlJgpM144.jpg_C_380_285_Q80.jpg"
+    ],
+    "swiper_BigPic": [
+      "https://vr.ziroom.com/vr/1672016613420/3688850/realsee_edit/media_files/1ZwkHvwSjDo.jpg?imageMogr2/thumbnail/1024x",
+      "https://imgpro.ziroom.com/c1e669bd-8dc5-4099-bc6e-129e1f2eb99a_991.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c1e669bd-8dc5-4099-bc6e-129e1f2eb99a_991.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/81188b33-62ad-4ac0-adc0-072c8652a9fb_230.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/78c029a4-851e-4132-aa56-2e311a536111_674.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/5468b773-0bca-4fc1-a224-70db8e9bfb48_760.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/e7617351-fa8b-46e7-bb5c-4909013f04b1_569.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/7847b522-a581-46b3-8d30-5bf358842d09_688.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/41bca8a6-20b3-4e81-acd1-f6a63c60f937_986.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/c752d00f-b7ca-4ae5-a7a5-36e5d592669b_534.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/f8dfc272-798e-4f55-903f-f80c50d41489_361.jpg_C_800_600_Q90.jpg",
+      "https://imgpro.ziroom.com/48230821-2d0a-4032-8c29-c409e5d94785_838.jpg_C_800_600_Q90.jpg",
+      "https://img.ziroom.com/pic/house_images/g2m4/M00/9B/26/ChAZYWON4BqAVcy9ABHtSPlJgpM144.jpg_C_800_600_Q100.jpg"
+    ],
+    "video": "https://cloudvideo.ziroom.com/420100_102344/20230105_25374124.mp4",
+    "location_content": "province=湖北;city=武汉;coord=114.270829,30.585784",
+    "facilities": [
+      { "name": "路由器", "icon": "iconluyouqi" },
+      { "name": "智能锁", "icon": "iconzhinengsuo" },
+      { "name": "洗衣机", "icon": "iconxiyiji" },
+      { "name": "热水器", "icon": "iconreshuiqi" },
+      { "name": "微波炉", "icon": "iconweibolu" },
+      { "name": "中央空调", "icon": "iconzhongyangkongtiao" },
+      { "name": "衣柜", "icon": "iconyigui" },
+      { "name": "椅子", "icon": "iconyizi" },
+      { "name": "床垫", "icon": "iconchuangdian" },
+      { "name": "床", "icon": "iconchuang" }
+    ],
+    "rentinfo": {
+      "title": "租约信息",
+      "data": [
+        { "label": "可入住日期", "value": "随时入住" },
+        { "label": "签约时长", "value": "可长租1年 | 可长租2年" },
+        { "label": "注意事项", "value": "租房合同签订步骤" }
+      ]
+    },
+    "houseDetail": {
+      "title": "房源详情",
+      "data": [
+        { "label": "使用面积", "value": "19.3㎡" },
+        { "label": "朝向", "value": "朝东北" },
+        { "label": "户型", "value": "4室1厅" },
+        { "label": "位置", "value": "小区距5号线白沙六路站步行约386米" },
+        { "label": "楼层", "value": "20/30" },
+        { "label": "电梯", "value": "有" },
+        { "label": "年代", "value": "2020年建成" },
+        { "label": "门锁", "value": "智能门锁" },
+        { "label": "绿化", "value": "30%" }
+      ]
+    },
+    "Homeowner_info": {
+      "user_id": ["/60030778.png", "60030778"],
+      "house_name": "自如友家·东原启城二期·4居室-05卧",
+      "username": "曾雄",
+      "phone": "01056801900 转 208161",
+      "pic": "http://pic.ziroom.com/steward_images/60030778.png?time=20220112174515&imageMogr2/thumbnail/384x/format/png"
+    }
+  }
+]

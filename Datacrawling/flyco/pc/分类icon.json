@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "parentId": 0,
+    "name": "剃须刀",
+    "level": 0,
+    "productCount": 100,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/sources/act/20181123/cat/1.png",
+    "keywords": "剃须刀、电动剃须刀、刮胡刀",
+    "picUrl": "https://pic.flyco.net.cn/mall/goods/category/b77728620e544d129e7867f09d9d5fb2.png",
+    "description": "飞科电动剃须刀提供系列产品、价格、服务供您选购，产品功能有全身水洗、USB充电、1小时快充、智能显示提醒等产品功能，购买电动剃须刀就在飞科官方商城！"
+  },
+  {
+    "id": 111,
+    "parentId": 0,
+    "name": "电动牙刷",
+    "level": 0,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/mall/goods/category/未标题1-3_1610098918536.png"
+  },
+  {
+    "id": 4,
+    "parentId": 0,
+    "name": "电吹风",
+    "level": 0,
+    "productCount": 100,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/sources/act/20181123/cat/2.png",
+    "keywords": "电吹风、吹风机、大功率吹风机",
+    "description": "飞科电吹风提供系列产品供您选购，产品功能有负离子锁水润发、大功率快速干发、健康柔风护发等产品功能，购买飞科电吹风就在飞科官方商城！"
+  },
+  {
+    "id": 5,
+    "parentId": 0,
+    "name": "理发器",
+    "level": 0,
+    "productCount": 100,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/sources/act/20181123/cat/3.png",
+    "keywords": "理发器、剃头刀、电推剪",
+    "picUrl": "https://pic.flyco.net.cn/mall/goods/category/4c35845ac6c24f119d0edc2522c83f24.png",
+    "description": "飞科理发器提供系列产品、价格、服务供您选购，产品功能有充插两用、高效合金锐角刀头、定长/削发智能双轮调节等产品功能，购买飞科理发器就在飞科官方商城！"
+  },
+  {
+    "id": 3,
+    "parentId": 0,
+    "name": "鼻毛修剪器",
+    "level": 0,
+    "productCount": 0,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/sources/act/20181123/cat/12.png",
+    "keywords": "鼻毛修剪器",
+    "description": "飞科鼻毛修剪器提供系列产品、价格、服务供您选购，产品功能有不锈钢/开放式立体刀头/鼻毛修剪器等产品功能，购买飞科鼻毛修剪器就在飞科官方商城！"
+  },
+  {
+    "id": 8,
+    "parentId": 0,
+    "name": "毛球修剪器",
+    "level": 0,
+    "productCount": 100,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/sources/act/20181123/cat/10.png",
+    "keywords": "毛球修剪器、去球器、毛球",
+    "description": "飞科毛球修剪器提供系列产品、价格、服务供您选购，产品功能有立体拱形刀头、不锈钢精密修剪系统 、刀头可水洗 等产品功能，购买飞科毛球修剪器就在飞科官方商城！"
+  },
+  {
+    "id": 13,
+    "parentId": 0,
+    "name": "直发梳/烫发器",
+    "level": 0,
+    "productCount": 100,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/mall/goods/category/13333_1648191287667.png",
+    "keywords": "直发梳、直发器、烫发器、卷发棒",
+    "description": "飞科烫发器提供系列产品供您选购，产品功能有30秒快速加热、加热均衡技术 、专业恒温烫发等产品功能，购买飞科烫发器就在飞科官方商城！"
+  },
+  {
+    "id": 101,
+    "parentId": 0,
+    "name": "加湿器",
+    "level": 0,
+    "productCount": 100,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/sources/act/20181123/cat/9.png",
+    "keywords": "加湿器、加湿器卧室、静音加湿器",
+    "description": "飞科加湿器提供系列产品、价格、服务供您选购，产品功能有三档雾量 、双重过滤、 4L大容量等产品功能，购买飞科加湿器就在飞科官方商城！"
+  },
+  {
+    "id": 103,
+    "parentId": 0,
+    "name": "健康秤",
+    "level": 0,
+    "productCount": 100,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/mall/goods/category/0da50d34a1f84d888924232920cf3575.png",
+    "keywords": "健康秤、电子秤、体重秤",
+    "description": "飞科健康秤提供系列产品、价格、服务供您选购，产品功能有智能APP云端分析、 智能云端数据管理、高精度BIA测脂芯片等产品功能，购买飞科健康秤就在飞科官方商城！"
+  },
+  {
+    "id": 10,
+    "parentId": 0,
+    "name": "挂烫机",
+    "level": 0,
+    "productCount": 100,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/sources/act/20181123/cat/5.png",
+    "keywords": "挂烫机、熨烫",
+    "description": "飞科挂烫机提供系列产品、价格、服务供您选购，产品功能有优质特氟龙底板 、1400W超强连续蒸汽、喷水/爆炸蒸汽双按钮等产品功能，购买飞科熨烫系列就在飞科官方商城！"
+  },
+  {
+    "id": 9,
+    "parentId": 0,
+    "name": "电熨斗",
+    "level": 0,
+    "productCount": 1,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/sources/act/20181123/cat/6.png",
+    "keywords": "电熨斗、熨烫",
+    "description": "飞科电熨斗提供系列产品、价格、服务供您选购，产品功能有优质特氟龙底板 、1400W超强连续蒸汽、喷水/爆炸蒸汽双按钮等产品功能，购买飞科熨烫系列就在飞科官方商城！"
+  },
+  {
+    "id": 102,
+    "parentId": 0,
+    "name": "延长线插座",
+    "level": 0,
+    "productCount": 1,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/sources/act/20181123/cat/13.png",
+    "keywords": "飞科智能插座功能、价格、服务等系列产品选购——飞科电器官网",
+    "description": "飞科智能插座提供系列产品、价格、服务供您选购，产品功能有安全保护门、加粗线芯、 易拔插等产品功能，购买飞科智能插座就在飞科官方商城！"
+  },
+  {
+    "id": 11,
+    "parentId": 0,
+    "name": "配件",
+    "level": 0,
+    "productCount": 0,
+    "productUnit": "件",
+    "icon": "https://pic.flyco.net.cn/mall/goods/category/2217fc6bb3214cf0a333f221f83a5533.png",
+    "keywords": "飞科产品配件，飞科维修配件",
+    "description": "飞科官网提供旗下所有产品的配件，剃须刀配件，电吹风配件，理发器配件，毛球修剪器配件等，购买飞科配件就在飞科官方商城。"
+  }
+]
